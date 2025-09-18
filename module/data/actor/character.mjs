@@ -39,6 +39,7 @@ const {
  * @property {object} attributes.hp.bonuses
  * @property {string} attributes.hp.bonuses.level         Bonus formula applied for each class level.
  * @property {string} attributes.hp.bonuses.overall       Bonus formula applied to total HP.
+ * @property {number} attributes.hp.dt                    Damage threshold.
  * @property {object} attributes.death
  * @property {object} attributes.death.bonuses
  * @property {string} attributes.death.bonuses.save       Numeric or dice bonus to death saving throws.
@@ -117,7 +118,8 @@ export default class CharacterData extends CreatureTemplate {
           bonuses: new SchemaField({
             level: new FormulaField({ deterministic: true, label: "DND5E.HitPointsBonusLevel" }),
             overall: new FormulaField({ deterministic: true, label: "DND5E.HitPointsBonusOverall" })
-          })
+          }),
+          dt: new NumberField({ required: true, integer: true, min: 0, label: "DND5E.DamageThreshold" })
         }, { label: "DND5E.HitPoints" }),
         death: new RollConfigField({
           ability: false,

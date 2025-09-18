@@ -32,6 +32,7 @@ const { ArrayField, BooleanField, NumberField, SchemaField, SetField, StringFiel
  * @property {number} attributes.hp.max          Maximum allowed HP value.
  * @property {number} attributes.hp.temp         Temporary HP applied on top of value.
  * @property {number} attributes.hp.tempmax      Temporary change to the maximum HP.
+ * @property {number} attributes.hp.dt           Damage threshold.
  * @property {string} attributes.hp.formula      Formula used to determine hit points.
  * @property {object} attributes.death
  * @property {object} attributes.death.bonuses
@@ -108,6 +109,7 @@ export default class NPCData extends CreatureTemplate {
           tempmax: new NumberField({
             integer: true, initial: 0, label: "DND5E.HitPointsTempMax", hint: "DND5E.HitPointsTempMaxHint"
           }),
+          dt: new NumberField({ required: true, integer: true, min: 0, label: "DND5E.DamageThreshold" }),
           formula: new FormulaField({required: true, label: "DND5E.HPFormula"})
         }, {label: "DND5E.HitPoints"}),
         death: new RollConfigField({
