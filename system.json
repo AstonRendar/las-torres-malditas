@@ -551,8 +551,8 @@
     },
     {
       "type": "setup",
-      "url": "systems/las-torres-malditas/ui/official/dnd5e-repo.jpg",
-      "thumbnail": "systems/las-torres-malditas/ui/official/dnd5e-thumbnail.jpg"
+      "url": "systems/las-torres-malditas/ui/official/banner_repo.jpg",
+      "thumbnail": "systems/las-torres-malditas/ui/official/Torres-thumbnail.jpg"
     }
   ],
   "socket": true,
@@ -561,7 +561,7 @@
     "units": "ft"
   },
   "primaryTokenAttribute": "attributes.hp",
-  "background": "systems/las-torres-malditas/ui/official/dnd5e-background.webp",
+  "background": "systems/las-torres-malditas/ui/official/banner_repo.jpg",
   "flags": {
     "compendiumArtMappings": {
       "dnd5e": {
