@@ -649,7 +649,7 @@ items:
             name: 'Days: New Body'
             formula: 5d10
           name: 'Days: New Body'
-          img: systems/dnd5e/icons/svg/monster.svg
+          img: systems/las-torres-malditas/icons/svg/monster.svg
       uses:
         spent: 0
         recovery: []
@@ -753,7 +753,7 @@ items:
             name: ''
             formula: ''
           name: Expend Use
-          img: systems/dnd5e/icons/svg/monster.svg
+          img: systems/las-torres-malditas/icons/svg/monster.svg
       uses:
         spent: 0
         recovery: []
@@ -962,7 +962,7 @@ items:
     img: icons/magic/acid/dissolve-pool-bubbles.webp
     effects:
       - name: Cursed
-        img: systems/dnd5e/icons/svg/statuses/cursed.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/cursed.svg
         origin: Compendium.dnd-monster-manual.features.Item.mmMucusCloud0000
         _id: VesaHwtQEHKpxdAB
         type: base
@@ -1258,7 +1258,7 @@ items:
     img: icons/creatures/tentacles/tentacles-octopus-black-pink.webp
     effects:
       - name: Grappled
-        img: systems/dnd5e/icons/svg/statuses/grappled.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/grappled.svg
         origin: Compendium.dnd-monster-manual.features.Item.mmTentacle000000
         transfer: false
         _id: KxcWsIHohpNmagLJ
@@ -1751,7 +1751,7 @@ items:
             name: ''
             formula: ''
           name: Expend Use
-          img: systems/dnd5e/icons/svg/monster.svg
+          img: systems/las-torres-malditas/icons/svg/monster.svg
       uses:
         spent: 0
         recovery: []

@@ -1176,7 +1176,7 @@ items:
     img: icons/magic/fire/blast-jet-stream-splash.webp
     effects:
       - name: Burning
-        img: systems/dnd5e/icons/svg/statuses/burning.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/burning.svg
         origin: Compendium.dnd-monster-manual.features.Item.mmBurn0000000000
         transfer: false
         _id: ePppPvhLU1DnHySS

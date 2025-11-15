@@ -123,41 +123,41 @@ export default class CompendiumBrowser extends Application5e {
     header: {
       id: "header",
       classes: ["header"],
-      template: "systems/dnd5e/templates/compendium/browser-header.hbs"
+      template: "systems/las-torres-malditas/templates/compendium/browser-header.hbs"
     },
     search: {
       id: "sidebar-search",
       classes: ["filter-element"],
       container: { id: "sidebar", classes: ["sidebar", "flexcol"] },
-      template: "systems/dnd5e/templates/compendium/browser-sidebar-search.hbs"
+      template: "systems/las-torres-malditas/templates/compendium/browser-sidebar-search.hbs"
     },
     types: {
       id: "sidebar-types",
       container: { id: "sidebar", classes: ["sidebar", "flexcol"] },
-      template: "systems/dnd5e/templates/compendium/browser-sidebar-types.hbs"
+      template: "systems/las-torres-malditas/templates/compendium/browser-sidebar-types.hbs"
     },
     filters: {
       id: "sidebar-filters",
       container: { id: "sidebar", classes: ["sidebar", "flexcol"] },
-      template: "systems/dnd5e/templates/compendium/browser-sidebar-filters.hbs",
-      templates: ["systems/dnd5e/templates/compendium/browser-sidebar-filter-set.hbs"]
+      template: "systems/las-torres-malditas/templates/compendium/browser-sidebar-filters.hbs",
+      templates: ["systems/las-torres-malditas/templates/compendium/browser-sidebar-filter-set.hbs"]
     },
     results: {
       id: "results",
       classes: ["results"],
-      template: "systems/dnd5e/templates/compendium/browser-results.hbs",
-      templates: ["systems/dnd5e/templates/compendium/browser-entry.hbs"],
+      template: "systems/las-torres-malditas/templates/compendium/browser-results.hbs",
+      templates: ["systems/las-torres-malditas/templates/compendium/browser-entry.hbs"],
       scrollable: [""]
     },
     footer: {
       id: "footer",
       classes: ["footer"],
-      template: "systems/dnd5e/templates/compendium/browser-footer.hbs"
+      template: "systems/las-torres-malditas/templates/compendium/browser-footer.hbs"
     },
     tabs: {
       id: "tabs",
       classes: ["tabs", "tabs-left"],
-      template: "systems/dnd5e/templates/compendium/browser-tabs.hbs"
+      template: "systems/las-torres-malditas/templates/compendium/browser-tabs.hbs"
     }
   };
 
@@ -179,21 +179,21 @@ export default class CompendiumBrowser extends Application5e {
     {
       tab: "classes",
       label: "TYPES.Item.classPl",
-      svg: "systems/dnd5e/icons/svg/items/class.svg",
+      svg: "systems/las-torres-malditas/icons/svg/items/class.svg",
       documentClass: "Item",
       types: ["class"]
     },
     {
       tab: "subclasses",
       label: "TYPES.Item.subclassPl",
-      svg: "systems/dnd5e/icons/svg/items/subclass.svg",
+      svg: "systems/las-torres-malditas/icons/svg/items/subclass.svg",
       documentClass: "Item",
       types: ["subclass"]
     },
     {
       tab: "races",
       label: "TYPES.Item.racePl",
-      svg: "systems/dnd5e/icons/svg/items/race.svg",
+      svg: "systems/las-torres-malditas/icons/svg/items/race.svg",
       documentClass: "Item",
       types: ["race"]
     },
@@ -207,14 +207,14 @@ export default class CompendiumBrowser extends Application5e {
     {
       tab: "backgrounds",
       label: "TYPES.Item.backgroundPl",
-      svg: "systems/dnd5e/icons/svg/items/background.svg",
+      svg: "systems/las-torres-malditas/icons/svg/items/background.svg",
       documentClass: "Item",
       types: ["background"]
     },
     {
       tab: "physical",
       label: "DND5E.CompendiumBrowser.Tabs.Item.other",
-      svg: "systems/dnd5e/icons/svg/backpack.svg",
+      svg: "systems/las-torres-malditas/icons/svg/backpack.svg",
       documentClass: "Item",
       types: ["physical"]
     },
@@ -228,28 +228,28 @@ export default class CompendiumBrowser extends Application5e {
     {
       tab: "monsters",
       label: "DND5E.CompendiumBrowser.Tabs.Monster.other",
-      svg: "systems/dnd5e/icons/svg/monster.svg",
+      svg: "systems/las-torres-malditas/icons/svg/monster.svg",
       documentClass: "Actor",
       types: ["npc"]
     },
     {
       tab: "vehicles",
       label: "TYPES.Actor.vehiclePl",
-      svg: "systems/dnd5e/icons/svg/vehicle.svg",
+      svg: "systems/las-torres-malditas/icons/svg/vehicle.svg",
       documentClass: "Actor",
       types: ["vehicle"]
     },
     {
       tab: "actors",
       label: "DOCUMENT.Actors",
-      svg: "systems/dnd5e/icons/svg/monster.svg",
+      svg: "systems/las-torres-malditas/icons/svg/monster.svg",
       documentClass: "Actor",
       advanced: true
     },
     {
       tab: "items",
       label: "DOCUMENT.Items",
-      svg: "systems/dnd5e/icons/svg/backpack.svg",
+      svg: "systems/las-torres-malditas/icons/svg/backpack.svg",
       documentClass: "Item",
       advanced: true
     }
@@ -691,7 +691,7 @@ export default class CompendiumBrowser extends Application5e {
       selected: this.#selected.has(uuid)
     };
     const html = await foundry.applications.handlebars.renderTemplate(
-      "systems/dnd5e/templates/compendium/browser-entry.hbs", context
+      "systems/las-torres-malditas/templates/compendium/browser-entry.hbs", context
     );
     const template = document.createElement("template");
     template.innerHTML = html;
@@ -752,7 +752,7 @@ export default class CompendiumBrowser extends Application5e {
       return obj;
     }, {});
     const filter = await foundry.applications.handlebars.renderTemplate(
-      "systems/dnd5e/templates/compendium/browser-sidebar-filter-set.hbs",
+      "systems/las-torres-malditas/templates/compendium/browser-sidebar-filter-set.hbs",
       {
         locked,
         value: locked,

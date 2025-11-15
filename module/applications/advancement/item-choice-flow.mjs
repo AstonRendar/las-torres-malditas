@@ -53,7 +53,7 @@ export default class ItemChoiceFlow extends ItemGrantFlow {
   static get defaultOptions() {
     return foundry.utils.mergeObject(super.defaultOptions, {
       dragDrop: [{ dropSelector: ".drop-target" }],
-      template: "systems/dnd5e/templates/advancement/item-choice-flow.hbs"
+      template: "systems/las-torres-malditas/templates/advancement/item-choice-flow.hbs"
     });
   }
 

@@ -135,7 +135,7 @@ system:
 effects:
   - type: enchantment
     name: Sword of Life Stealing
-    img: systems/dnd5e/icons/spell-tiers/spell3.webp
+    img: systems/las-torres-malditas/icons/spell-tiers/spell3.webp
     disabled: true
     _id: fSXff5Y6ILs6gJT7
     system: {}

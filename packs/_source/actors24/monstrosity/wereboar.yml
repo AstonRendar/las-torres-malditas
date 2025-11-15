@@ -777,7 +777,7 @@ items:
             visible: false
             name: ''
             formula: ''
-          img: systems/dnd5e/icons/svg/monster.svg
+          img: systems/las-torres-malditas/icons/svg/monster.svg
       uses:
         spent: 0
         recovery: []
@@ -1081,7 +1081,7 @@ items:
     img: icons/skills/wounds/bone-broken-tooth-fang-red.webp
     effects:
       - name: Cursed
-        img: systems/dnd5e/icons/svg/statuses/cursed.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/cursed.svg
         origin: Compendium.dnd-monster-manual.features.Item.mmGore0000000000
         _id: dgfff9ONKHAUcthM
         type: base
@@ -1332,7 +1332,7 @@ items:
     img: icons/commodities/bones/horn-simple-grey.webp
     effects:
       - name: Prone
-        img: systems/dnd5e/icons/svg/statuses/prone.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/prone.svg
         origin: Compendium.dnd-monster-manual.features.Item.mmTusk0000000000
         _id: OhQRYqL5fjvDhcQq
         type: base
@@ -1440,7 +1440,7 @@ items:
             visible: false
             name: ''
             formula: ''
-          img: systems/dnd5e/icons/svg/monster.svg
+          img: systems/las-torres-malditas/icons/svg/monster.svg
       uses:
         spent: 0
         recovery: []

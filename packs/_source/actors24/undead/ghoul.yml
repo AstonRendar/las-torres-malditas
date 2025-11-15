@@ -991,7 +991,7 @@ items:
     img: icons/skills/melee/blood-slash-foam-red.webp
     effects:
       - name: Paralyzed
-        img: systems/dnd5e/icons/svg/statuses/paralyzed.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/paralyzed.svg
         origin: Compendium.dnd5e.actors24.Actor.mmGhoul000000000.Item.tiNmukdjtTyjqq9S
         _id: F66nPf6crMVqKXCc
         type: base

@@ -131,7 +131,7 @@ system:
     - mgc
 effects:
   - name: Poisoned
-    img: systems/dnd5e/icons/items/potion-of-healing.webp
+    img: systems/las-torres-malditas/icons/items/potion-of-healing.webp
     origin: Compendium.dnd5e.equipment24.Item.dmgPotionOfPoiso
     transfer: false
     _id: lZOgSICPuR1fKxTL

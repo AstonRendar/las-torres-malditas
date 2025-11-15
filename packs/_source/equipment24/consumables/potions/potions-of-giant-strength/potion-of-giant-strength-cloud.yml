@@ -112,7 +112,7 @@ system:
     - mgc
 effects:
   - name: Strength of Clouds
-    img: systems/dnd5e/icons/items/potion-of-giant-strength-storm.webp
+    img: systems/las-torres-malditas/icons/items/potion-of-giant-strength-storm.webp
     origin: Compendium.dnd5e.equipment24.Item.dmgCloudPotionOf
     transfer: false
     _id: 1dBN1NUlcymoWlxz

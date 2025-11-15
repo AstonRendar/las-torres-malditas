@@ -28,7 +28,7 @@ export default class ActivityChoiceDialog extends Application5e {
 
   static PARTS = {
     activities: {
-      template: "systems/dnd5e/templates/activity/activity-choices.hbs"
+      template: "systems/las-torres-malditas/templates/activity/activity-choices.hbs"
     }
   };
 
@@ -84,7 +84,7 @@ export default class ActivityChoiceDialog extends Application5e {
       controlHint = game.i18n.localize("DND5E.Controls.Activity.FastForwardHint");
       controlHint = controlHint.replace(
         "<left-click>",
-        `<img src="systems/dnd5e/icons/svg/mouse-left.svg" alt="${game.i18n.localize("DND5E.Controls.LeftClick")}">`
+        `<img src="systems/las-torres-malditas/icons/svg/mouse-left.svg" alt="${game.i18n.localize("DND5E.Controls.LeftClick")}">`
       );
     }
     const activities = this.#item.system.activities

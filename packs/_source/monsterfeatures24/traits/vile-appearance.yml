@@ -93,7 +93,7 @@ folder: L9Zgr8qAPc3ngKhb
 img: icons/magic/control/fear-fright-monster-purple-blue.webp
 effects:
   - name: Frightened
-    img: systems/dnd5e/icons/svg/statuses/frightened.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/frightened.svg
     origin: Compendium.dnd5e.monsterfeatures24.Item.mmVileAppearance
     _id: CiH2KTuvmdGmuz20
     type: base

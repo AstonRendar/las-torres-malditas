@@ -97,7 +97,7 @@ system:
         name: ''
         formula: ''
       name: Light
-      img: systems/dnd5e/icons/svg/trait-damage-immunities.svg
+      img: systems/las-torres-malditas/icons/svg/trait-damage-immunities.svg
   identifier: candle
 _id: ts2DfyhdfsR092Td
 type: consumable

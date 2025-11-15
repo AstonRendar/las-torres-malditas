@@ -878,7 +878,7 @@ items:
     img: icons/skills/melee/blood-slash-foam-red.webp
     effects:
       - name: Grappled
-        img: systems/dnd5e/icons/svg/statuses/grappled.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/grappled.svg
         origin: Compendium.dnd5e.actors24.Actor.mmVampireSpawn00.Item.mmClaw0000000000
         _id: SVSXgb9yjhotXMza
         type: base
@@ -1163,7 +1163,7 @@ items:
             name: ''
             formula: ''
           name: Expend Use
-          img: systems/dnd5e/icons/svg/monster.svg
+          img: systems/las-torres-malditas/icons/svg/monster.svg
       uses:
         spent: 0
         recovery: []
@@ -1371,7 +1371,7 @@ items:
             formula: ''
             name: ''
           name: Staked to the Heart
-          img: systems/dnd5e/icons/svg/monster.svg
+          img: systems/las-torres-malditas/icons/svg/monster.svg
           _id: HsKPQH0SsWtL4znC
       uses:
         spent: 0

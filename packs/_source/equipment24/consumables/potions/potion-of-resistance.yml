@@ -132,7 +132,7 @@ system:
     - mgc
 effects:
   - name: Acid  Resistance
-    img: systems/dnd5e/icons/svg/damage/acid.svg
+    img: systems/las-torres-malditas/icons/svg/damage/acid.svg
     _id: rp68qDxzWquL4KsY
     type: base
     system: {}
@@ -169,7 +169,7 @@ effects:
       exportSource: null
     _key: '!items.effects!dmgPotionOfResis.rp68qDxzWquL4KsY'
   - name: Cold Resistance
-    img: systems/dnd5e/icons/svg/damage/cold.svg
+    img: systems/las-torres-malditas/icons/svg/damage/cold.svg
     type: base
     system: {}
     changes:
@@ -206,7 +206,7 @@ effects:
     _id: En6oT73Shu6Alr46
     _key: '!items.effects!dmgPotionOfResis.En6oT73Shu6Alr46'
   - name: Fire Resistance
-    img: systems/dnd5e/icons/svg/damage/fire.svg
+    img: systems/las-torres-malditas/icons/svg/damage/fire.svg
     type: base
     system: {}
     changes:
@@ -243,7 +243,7 @@ effects:
     _id: UI7peFQB9vCGuwpG
     _key: '!items.effects!dmgPotionOfResis.UI7peFQB9vCGuwpG'
   - name: Force Resistance
-    img: systems/dnd5e/icons/svg/damage/force.svg
+    img: systems/las-torres-malditas/icons/svg/damage/force.svg
     type: base
     system: {}
     changes:
@@ -280,7 +280,7 @@ effects:
     _id: CuxyOkR4W9VP8KOM
     _key: '!items.effects!dmgPotionOfResis.CuxyOkR4W9VP8KOM'
   - name: Lightning Resistance
-    img: systems/dnd5e/icons/svg/damage/lightning.svg
+    img: systems/las-torres-malditas/icons/svg/damage/lightning.svg
     type: base
     system: {}
     changes:
@@ -317,7 +317,7 @@ effects:
     _id: ZPdhGzt0bhaZyVd2
     _key: '!items.effects!dmgPotionOfResis.ZPdhGzt0bhaZyVd2'
   - name: Necrotic Resistance
-    img: systems/dnd5e/icons/svg/damage/necrotic.svg
+    img: systems/las-torres-malditas/icons/svg/damage/necrotic.svg
     type: base
     system: {}
     changes:
@@ -354,7 +354,7 @@ effects:
     _id: 29M8rjINOWKcHek6
     _key: '!items.effects!dmgPotionOfResis.29M8rjINOWKcHek6'
   - name: Poison Resistance
-    img: systems/dnd5e/icons/svg/damage/poison.svg
+    img: systems/las-torres-malditas/icons/svg/damage/poison.svg
     type: base
     system: {}
     changes:
@@ -391,7 +391,7 @@ effects:
     _id: VAndQR2Hu88gg4NF
     _key: '!items.effects!dmgPotionOfResis.VAndQR2Hu88gg4NF'
   - name: Psychic Resistance
-    img: systems/dnd5e/icons/svg/damage/psychic.svg
+    img: systems/las-torres-malditas/icons/svg/damage/psychic.svg
     type: base
     system: {}
     changes:
@@ -428,7 +428,7 @@ effects:
     _id: 4YWphFJwC5ojd6Ib
     _key: '!items.effects!dmgPotionOfResis.4YWphFJwC5ojd6Ib'
   - name: Radiant Resistance
-    img: systems/dnd5e/icons/svg/damage/radiant.svg
+    img: systems/las-torres-malditas/icons/svg/damage/radiant.svg
     type: base
     system: {}
     changes:
@@ -465,7 +465,7 @@ effects:
     _id: SH3poodOtfaaAiv8
     _key: '!items.effects!dmgPotionOfResis.SH3poodOtfaaAiv8'
   - name: Thunder Resistance
-    img: systems/dnd5e/icons/svg/damage/thunder.svg
+    img: systems/las-torres-malditas/icons/svg/damage/thunder.svg
     type: base
     system: {}
     changes:

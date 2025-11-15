@@ -1168,7 +1168,7 @@ items:
             name: ''
             formula: ''
           name: Expend Use
-          img: systems/dnd5e/icons/svg/monster.svg
+          img: systems/las-torres-malditas/icons/svg/monster.svg
       uses:
         spent: 0
         recovery:

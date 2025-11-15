@@ -230,7 +230,7 @@ system:
         name: ''
         formula: ''
       name: Cast and Hold
-      img: systems/dnd5e/icons/svg/trait-skills.svg
+      img: systems/las-torres-malditas/icons/svg/trait-skills.svg
       appliedEffects: []
     NKBsnjBBIgsaOPaY:
       type: save

@@ -67,7 +67,7 @@ system:
   proficient: null
 effects:
   - name: Archmagi Armor
-    img: systems/dnd5e/icons/items/robe-of-the-archmagi.webp
+    img: systems/las-torres-malditas/icons/items/robe-of-the-archmagi.webp
     _id: pYCleIMCUWOJPtF9
     type: base
     system: {}

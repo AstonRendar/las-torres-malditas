@@ -156,7 +156,7 @@ folder: 4T18pEvubPMQLzvD
 img: icons/creatures/slimes/slime-face-skull-green.webp
 effects:
   - name: Total Cover, Suffocating & Restrained
-    img: systems/dnd5e/icons/svg/statuses/suffocation.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/suffocation.svg
     origin: Item.mmEngulf00000000
     _id: vsa7d6xWOAvWdOWM
     type: base

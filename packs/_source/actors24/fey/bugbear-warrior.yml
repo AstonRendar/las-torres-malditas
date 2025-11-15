@@ -1042,7 +1042,7 @@ items:
     img: icons/magic/unholy/hand-claw-glow-orange.webp
     effects:
       - name: Grappled
-        img: systems/dnd5e/icons/svg/statuses/grappled.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/grappled.svg
         origin: Compendium.dnd-monster-manual.features.Item.mmGrab0000000000
         _id: 2N5R5UunQHBncwF3
         type: base

@@ -112,7 +112,7 @@ folder: 4T18pEvubPMQLzvD
 img: icons/magic/unholy/hand-claw-fire-blue.webp
 effects:
   - name: Frightened
-    img: systems/dnd5e/icons/svg/statuses/frightened.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/frightened.svg
     origin: Item.mmHorrorNimbus00
     _id: ahNNQZ2FHPsRpYbH
     type: base

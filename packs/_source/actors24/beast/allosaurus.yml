@@ -818,7 +818,7 @@ items:
     img: icons/creatures/claws/claw-curved-jagged-gray.webp
     effects:
       - name: Prone
-        img: systems/dnd5e/icons/svg/statuses/prone.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/prone.svg
         origin: Compendium.dnd5e.actors24.Actor.mmAllosaurus0000.Item.mmClaws000000000
         _id: o2HIiixtauDbonc3
         type: base

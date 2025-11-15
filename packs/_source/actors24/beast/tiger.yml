@@ -680,7 +680,7 @@ items:
     img: icons/skills/melee/shield-damaged-broken-orange.webp
     effects:
       - name: Prone
-        img: systems/dnd5e/icons/svg/statuses/prone.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/prone.svg
         origin: Compendium.dnd5e.actors24.Actor.mmTiger000000000.Item.mmRend0000000000
         _id: 9A6Hpr7hApdISok9
         type: base
@@ -789,7 +789,7 @@ items:
             name: ''
             formula: ''
           name: Expend Use
-          img: systems/dnd5e/icons/svg/monster.svg
+          img: systems/las-torres-malditas/icons/svg/monster.svg
       uses:
         spent: 0
         recovery: []
@@ -818,7 +818,7 @@ items:
     img: icons/skills/movement/ball-spinning-blue.webp
     effects:
       - name: Apply Hide Action to Target
-        img: systems/dnd5e/icons/svg/statuses/hiding.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/hiding.svg
         origin: Item.mmNimbleEscape00
         _id: 7U7Pe61lsMZgN7qh
         type: base

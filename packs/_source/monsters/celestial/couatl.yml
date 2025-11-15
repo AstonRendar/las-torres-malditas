@@ -716,7 +716,7 @@ items:
       mastery: ''
     effects:
       - name: Poisoned
-        img: systems/dnd5e/icons/svg/statuses/unconscious.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/unconscious.svg
         origin: Compendium.dnd5e.monsters.Actor.ZaP1H91t4FzbRqR5.Item.7M1OrMoMMTCEKxta
         transfer: false
         _id: GLxzcYW1p5BO6Tdt
@@ -985,7 +985,7 @@ items:
       mastery: ''
     effects:
       - name: Restrained
-        img: systems/dnd5e/icons/svg/statuses/restrained.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/restrained.svg
         origin: Compendium.dnd5e.monsters.Actor.ZaP1H91t4FzbRqR5.Item.8LkzioyaScFxfst7
         transfer: false
         _id: bT77MKZEyBFGGrrW

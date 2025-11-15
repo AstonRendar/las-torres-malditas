@@ -211,7 +211,7 @@ system:
   proficient: null
 effects:
   - name: Acid Resistance
-    img: systems/dnd5e/icons/svg/damage/acid.svg
+    img: systems/las-torres-malditas/icons/svg/damage/acid.svg
     _id: M9FSD0rpBM2XIEzQ
     type: base
     system: {}
@@ -249,7 +249,7 @@ effects:
       exportSource: null
     _key: '!items.effects!dmgRingOfResista.M9FSD0rpBM2XIEzQ'
   - name: Cold Resistance
-    img: systems/dnd5e/icons/svg/damage/cold.svg
+    img: systems/las-torres-malditas/icons/svg/damage/cold.svg
     type: base
     system: {}
     changes:
@@ -287,7 +287,7 @@ effects:
     _id: VEnkRUkJKOh6wKWS
     _key: '!items.effects!dmgRingOfResista.VEnkRUkJKOh6wKWS'
   - name: Fire Resistance
-    img: systems/dnd5e/icons/svg/damage/fire.svg
+    img: systems/las-torres-malditas/icons/svg/damage/fire.svg
     type: base
     system: {}
     changes:
@@ -325,7 +325,7 @@ effects:
     _id: JQNsTcP2jKVGMuvh
     _key: '!items.effects!dmgRingOfResista.JQNsTcP2jKVGMuvh'
   - name: Force Resistance
-    img: systems/dnd5e/icons/svg/damage/force.svg
+    img: systems/las-torres-malditas/icons/svg/damage/force.svg
     type: base
     system: {}
     changes:
@@ -363,7 +363,7 @@ effects:
     _id: jFl3BJMsLvcypLTS
     _key: '!items.effects!dmgRingOfResista.jFl3BJMsLvcypLTS'
   - name: Lightning Resistance
-    img: systems/dnd5e/icons/svg/damage/lightning.svg
+    img: systems/las-torres-malditas/icons/svg/damage/lightning.svg
     type: base
     system: {}
     changes:
@@ -401,7 +401,7 @@ effects:
     _id: MNeyPXbTgvHvBZe5
     _key: '!items.effects!dmgRingOfResista.MNeyPXbTgvHvBZe5'
   - name: Necrotic Resistance
-    img: systems/dnd5e/icons/svg/damage/necrotic.svg
+    img: systems/las-torres-malditas/icons/svg/damage/necrotic.svg
     type: base
     system: {}
     changes:
@@ -439,7 +439,7 @@ effects:
     _id: 01YXdlZK1vD4LXv6
     _key: '!items.effects!dmgRingOfResista.01YXdlZK1vD4LXv6'
   - name: Poison Resistance
-    img: systems/dnd5e/icons/svg/damage/necrotic.svg
+    img: systems/las-torres-malditas/icons/svg/damage/necrotic.svg
     type: base
     system: {}
     changes:
@@ -477,7 +477,7 @@ effects:
     _id: zQi42zdJw8VZNATF
     _key: '!items.effects!dmgRingOfResista.zQi42zdJw8VZNATF'
   - name: Psychic Resistance
-    img: systems/dnd5e/icons/svg/damage/psychic.svg
+    img: systems/las-torres-malditas/icons/svg/damage/psychic.svg
     type: base
     system: {}
     changes:
@@ -515,7 +515,7 @@ effects:
     _id: W0PypYGpeJur9AJl
     _key: '!items.effects!dmgRingOfResista.W0PypYGpeJur9AJl'
   - name: Radiant Resistance
-    img: systems/dnd5e/icons/svg/damage/radiant.svg
+    img: systems/las-torres-malditas/icons/svg/damage/radiant.svg
     type: base
     system: {}
     changes:
@@ -553,7 +553,7 @@ effects:
     _id: SnhlQBFtBdEB1OGB
     _key: '!items.effects!dmgRingOfResista.SnhlQBFtBdEB1OGB'
   - name: Thunder Resistance
-    img: systems/dnd5e/icons/svg/damage/thunder.svg
+    img: systems/las-torres-malditas/icons/svg/damage/thunder.svg
     type: base
     system: {}
     changes:
@@ -592,7 +592,7 @@ effects:
     _key: '!items.effects!dmgRingOfResista.1154actymx6hAYXS'
   - type: enchantment
     name: Ring of Resistance (Acid)
-    img: systems/dnd5e/icons/spell-tiers/spell3.webp
+    img: systems/las-torres-malditas/icons/spell-tiers/spell3.webp
     disabled: true
     system: {}
     changes:
@@ -649,7 +649,7 @@ effects:
     _key: '!items.effects!dmgRingOfResista.dBl3gfYXWn7YguDb'
   - type: enchantment
     name: Ring of Resistance (Cold)
-    img: systems/dnd5e/icons/spell-tiers/spell3.webp
+    img: systems/las-torres-malditas/icons/spell-tiers/spell3.webp
     disabled: true
     system: {}
     changes:
@@ -706,7 +706,7 @@ effects:
     _key: '!items.effects!dmgRingOfResista.P5fYc9OEg5GKGgkR'
   - type: enchantment
     name: Ring of Resistance (Fire)
-    img: systems/dnd5e/icons/spell-tiers/spell3.webp
+    img: systems/las-torres-malditas/icons/spell-tiers/spell3.webp
     disabled: true
     system: {}
     changes:
@@ -763,7 +763,7 @@ effects:
     _key: '!items.effects!dmgRingOfResista.8IIAYzI3gqAJIBYo'
   - type: enchantment
     name: Ring of Resistance (Force)
-    img: systems/dnd5e/icons/spell-tiers/spell3.webp
+    img: systems/las-torres-malditas/icons/spell-tiers/spell3.webp
     disabled: true
     system: {}
     changes:
@@ -820,7 +820,7 @@ effects:
     _key: '!items.effects!dmgRingOfResista.ivnRnslXhD6UZH0L'
   - type: enchantment
     name: Ring of Resistance (Lightning)
-    img: systems/dnd5e/icons/spell-tiers/spell3.webp
+    img: systems/las-torres-malditas/icons/spell-tiers/spell3.webp
     disabled: true
     system: {}
     changes:
@@ -877,7 +877,7 @@ effects:
     _key: '!items.effects!dmgRingOfResista.96wcenml9tk62g37'
   - type: enchantment
     name: Ring of Resistance (Necrotic)
-    img: systems/dnd5e/icons/spell-tiers/spell3.webp
+    img: systems/las-torres-malditas/icons/spell-tiers/spell3.webp
     disabled: true
     system: {}
     changes:
@@ -934,7 +934,7 @@ effects:
     _key: '!items.effects!dmgRingOfResista.9r8SX6QYbeLa780J'
   - type: enchantment
     name: Ring of Resistance (Poison)
-    img: systems/dnd5e/icons/spell-tiers/spell3.webp
+    img: systems/las-torres-malditas/icons/spell-tiers/spell3.webp
     disabled: true
     system: {}
     changes:
@@ -991,7 +991,7 @@ effects:
     _key: '!items.effects!dmgRingOfResista.msSwrsX2i4sCvhLa'
   - type: enchantment
     name: Ring of Resistance (Psychic)
-    img: systems/dnd5e/icons/spell-tiers/spell3.webp
+    img: systems/las-torres-malditas/icons/spell-tiers/spell3.webp
     disabled: true
     system: {}
     changes:
@@ -1048,7 +1048,7 @@ effects:
     _key: '!items.effects!dmgRingOfResista.ls5HwdyGS36zGNsf'
   - type: enchantment
     name: Ring of Resistance (Radiant)
-    img: systems/dnd5e/icons/spell-tiers/spell3.webp
+    img: systems/las-torres-malditas/icons/spell-tiers/spell3.webp
     disabled: true
     system: {}
     changes:
@@ -1105,7 +1105,7 @@ effects:
     _key: '!items.effects!dmgRingOfResista.zgCVJEc1e9dCj7Ut'
   - type: enchantment
     name: Ring of Resistance (Thunder)
-    img: systems/dnd5e/icons/spell-tiers/spell3.webp
+    img: systems/las-torres-malditas/icons/spell-tiers/spell3.webp
     disabled: true
     system: {}
     changes:

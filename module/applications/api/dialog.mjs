@@ -20,7 +20,7 @@ export default class Dialog5e extends Application5e {
   /** @override */
   static PARTS = {
     content: {
-      template: "systems/dnd5e/templates/shared/dialog-content.hbs"
+      template: "systems/las-torres-malditas/templates/shared/dialog-content.hbs"
     },
     footer: {
       template: "templates/generic/form-footer.hbs"

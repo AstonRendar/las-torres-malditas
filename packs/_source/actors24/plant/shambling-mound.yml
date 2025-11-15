@@ -1060,7 +1060,7 @@ items:
     img: icons/creatures/slimes/slime-face-skull-green.webp
     effects:
       - name: Grappled, Blinded & Restrained
-        img: systems/dnd5e/icons/svg/statuses/grappled.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/grappled.svg
         origin: Item.mmEngulf00000000
         _id: vsa7d6xWOAvWdOWM
         type: base

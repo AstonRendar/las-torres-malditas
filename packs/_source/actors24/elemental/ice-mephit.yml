@@ -1176,7 +1176,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmIceMephit00000.Item.mmFogCloud000000.Activity.sKdIh2G1RS2oqp8t
         changes:

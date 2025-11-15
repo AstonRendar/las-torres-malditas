@@ -31,26 +31,26 @@ export default class EncounterActorSheet extends MultiActorSheet {
   /** @override */
   static PARTS = {
     header: {
-      template: "systems/dnd5e/templates/actors/encounter/header.hbs"
+      template: "systems/las-torres-malditas/templates/actors/encounter/header.hbs"
     },
     tabs: {
-      template: "systems/dnd5e/templates/shared/horizontal-tabs.hbs",
+      template: "systems/las-torres-malditas/templates/shared/horizontal-tabs.hbs",
       templates: ["templates/generic/tab-navigation.hbs"]
     },
     members: {
       container: { classes: ["tab-body"], id: "tabs" },
-      template: "systems/dnd5e/templates/actors/encounter/members.hbs",
+      template: "systems/las-torres-malditas/templates/actors/encounter/members.hbs",
       scrollable: [""]
     },
     inventory: {
       container: { classes: ["tab-body"], id: "tabs" },
-      template: "systems/dnd5e/templates/actors/tabs/actor-inventory.hbs",
-      templates: ["systems/dnd5e/templates/inventory/inventory.hbs"],
+      template: "systems/las-torres-malditas/templates/actors/tabs/actor-inventory.hbs",
+      templates: ["systems/las-torres-malditas/templates/inventory/inventory.hbs"],
       scrollable: [""]
     },
     description: {
       container: { classes: ["tab-body"], id: "tabs" },
-      template: "systems/dnd5e/templates/actors/group/biography.hbs",
+      template: "systems/las-torres-malditas/templates/actors/group/biography.hbs",
       scrollable: [""]
     }
   };

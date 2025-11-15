@@ -1,6 +1,6 @@
 _id: phbElvenLineage0
 name: Elven Lineage
-img: systems/dnd5e/icons/svg/items/race.svg
+img: systems/las-torres-malditas/icons/svg/items/race.svg
 description: <p>You are part of a lineage that grants you supernatural abilities.</p>
 results:
   - type: document
@@ -9,7 +9,7 @@ results:
       - 1
       - 1
     drawn: false
-    img: systems/dnd5e/icons/species/drow.webp
+    img: systems/las-torres-malditas/icons/species/drow.webp
     _id: BnLtNGVLIwk3q6Hf
     flags: {}
     _stats:
@@ -32,7 +32,7 @@ results:
       - 2
       - 2
     drawn: false
-    img: systems/dnd5e/icons/species/elf-high.webp
+    img: systems/las-torres-malditas/icons/species/elf-high.webp
     _id: fRp61b2M2UirSn1B
     flags: {}
     _stats:
@@ -55,7 +55,7 @@ results:
       - 3
       - 3
     drawn: false
-    img: systems/dnd5e/icons/species/elf-wood.webp
+    img: systems/las-torres-malditas/icons/species/elf-wood.webp
     _id: A4xbZelWo8bO7tfV
     flags: {}
     _stats:

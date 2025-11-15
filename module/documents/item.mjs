@@ -738,7 +738,7 @@ export default class Item5e extends SystemDocumentMixin(Item) {
       create: message?.createMessage ?? true,
       data: {
         content: await foundry.applications.handlebars.renderTemplate(
-          "systems/dnd5e/templates/chat/item-card.hbs", context
+          "systems/las-torres-malditas/templates/chat/item-card.hbs", context
         ),
         flags: {
           "dnd5e.item": { id: this.id, uuid: this.uuid, type: this.type }
@@ -1558,7 +1558,7 @@ export default class Item5e extends SystemDocumentMixin(Item) {
     const name = data.name || game.i18n.format("DOCUMENT.New", { type: label });
     let type = data.type || CONFIG[this.documentName]?.defaultType;
     const content = await foundry.applications.handlebars.renderTemplate(
-      "systems/dnd5e/templates/apps/document-create.hbs",
+      "systems/las-torres-malditas/templates/apps/document-create.hbs",
       {
         folders, name, type,
         folder: data.folder,

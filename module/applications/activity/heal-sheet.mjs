@@ -16,11 +16,11 @@ export default class HealSheet extends ActivitySheet {
   static PARTS = {
     ...super.PARTS,
     effect: {
-      template: "systems/dnd5e/templates/activity/heal-effect.hbs",
+      template: "systems/las-torres-malditas/templates/activity/heal-effect.hbs",
       templates: [
         ...super.PARTS.effect.templates,
-        "systems/dnd5e/templates/activity/parts/damage-part.hbs",
-        "systems/dnd5e/templates/activity/parts/heal-healing.hbs"
+        "systems/las-torres-malditas/templates/activity/parts/damage-part.hbs",
+        "systems/las-torres-malditas/templates/activity/parts/heal-healing.hbs"
       ]
     }
   };

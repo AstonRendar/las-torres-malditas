@@ -1050,7 +1050,7 @@ items:
     img: icons/magic/light/beam-explosion-orange.webp
     effects:
       - name: Prone
-        img: systems/dnd5e/icons/svg/statuses/prone.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/prone.svg
         origin: Item.mmRepulsionBreat
         _id: HG9R2hTEqJ0G5urK
         type: base

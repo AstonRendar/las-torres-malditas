@@ -748,7 +748,7 @@ items:
       identifier: pounce-tiger-or-hybrid-form-only
     effects:
       - name: Prone
-        img: systems/dnd5e/icons/svg/statuses/prone.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/prone.svg
         origin: Compendium.dnd5e.monsters.Actor.zIr3NaNF0mWz5Ahq.Item.jW4qHQ761qRLeWM8
         transfer: false
         _id: xx5oDVvttzxBUXpQ

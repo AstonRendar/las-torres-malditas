@@ -71,7 +71,7 @@ system:
           calculation: cha
           formula: 8 + @mod + @prof
       name: Save
-      img: systems/dnd5e/icons/svg/activity/save.svg
+      img: systems/las-torres-malditas/icons/svg/activity/save.svg
       appliedEffects:
         - QyuBYDW1zznn0OS4
   uses:
@@ -103,7 +103,7 @@ folder: aehE0L1ERkzYCvJW
 img: icons/magic/lightning/bolts-salvo-clouds-sky.webp
 effects:
   - name: Deafened
-    img: systems/dnd5e/icons/svg/statuses/deafened.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/deafened.svg
     origin: Item.mmThunderclap000
     _id: QyuBYDW1zznn0OS4
     type: base

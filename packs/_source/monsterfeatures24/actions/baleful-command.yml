@@ -109,7 +109,7 @@ folder: 4T18pEvubPMQLzvD
 img: icons/magic/unholy/silhouette-robe-evil-power.webp
 effects:
   - name: Frightened & Incapacitated
-    img: systems/dnd5e/icons/svg/statuses/frightened.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/frightened.svg
     origin: Compendium.dnd5e.monsterfeatures24.Item.mmBalefulCommand
     transfer: false
     _id: 4GgIe9QPQ5oYRsHN

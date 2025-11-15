@@ -56,7 +56,7 @@ system:
         name: ''
         formula: ''
       name: Expend Use
-      img: systems/dnd5e/icons/svg/monster.svg
+      img: systems/las-torres-malditas/icons/svg/monster.svg
       appliedEffects:
         - ERWPInrx4mXsqrwL
   uses:
@@ -88,7 +88,7 @@ folder: aehE0L1ERkzYCvJW
 img: icons/magic/earth/barrier-stone-brown-green.webp
 effects:
   - name: Prone
-    img: systems/dnd5e/icons/svg/statuses/prone.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/prone.svg
     origin: Item.mmWorldshakingMo
     _id: ERWPInrx4mXsqrwL
     type: base

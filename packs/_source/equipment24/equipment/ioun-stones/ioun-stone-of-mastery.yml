@@ -64,7 +64,7 @@ system:
   proficient: null
 effects:
   - name: 'Enhanced Mastery: Proficiency Bonus'
-    img: systems/dnd5e/icons/svg/items/subclass.svg
+    img: systems/las-torres-malditas/icons/svg/items/subclass.svg
     _id: hLntpSMVY7paNuaE
     type: base
     system: {}

@@ -140,7 +140,7 @@ effects:
       startTurn: null
     disabled: false
     flags: {}
-    img: systems/dnd5e/icons/svg/abilities/strength.svg
+    img: systems/las-torres-malditas/icons/svg/abilities/strength.svg
     _id: S8jxTZQbT8KKSg5V
     type: base
     system: {}
@@ -183,7 +183,7 @@ effects:
       startTurn: null
     disabled: false
     flags: {}
-    img: systems/dnd5e/icons/svg/abilities/dexterity.svg
+    img: systems/las-torres-malditas/icons/svg/abilities/dexterity.svg
     type: base
     system: {}
     changes: []
@@ -227,7 +227,7 @@ effects:
       startTurn: null
     disabled: false
     flags: {}
-    img: systems/dnd5e/icons/svg/abilities/constitution.svg
+    img: systems/las-torres-malditas/icons/svg/abilities/constitution.svg
     type: base
     system: {}
     changes: []
@@ -271,7 +271,7 @@ effects:
       startTurn: null
     disabled: false
     flags: {}
-    img: systems/dnd5e/icons/svg/abilities/intelligence.svg
+    img: systems/las-torres-malditas/icons/svg/abilities/intelligence.svg
     type: base
     system: {}
     changes: []
@@ -315,7 +315,7 @@ effects:
       startTurn: null
     disabled: false
     flags: {}
-    img: systems/dnd5e/icons/svg/abilities/wisdom.svg
+    img: systems/las-torres-malditas/icons/svg/abilities/wisdom.svg
     type: base
     system: {}
     changes: []
@@ -359,7 +359,7 @@ effects:
       startTurn: null
     disabled: false
     flags: {}
-    img: systems/dnd5e/icons/svg/abilities/charisma.svg
+    img: systems/las-torres-malditas/icons/svg/abilities/charisma.svg
     type: base
     system: {}
     changes: []

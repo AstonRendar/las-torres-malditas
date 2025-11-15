@@ -119,7 +119,7 @@ system:
 effects:
   - type: enchantment
     name: Mithral Armor
-    img: systems/dnd5e/icons/spell-tiers/spell2.webp
+    img: systems/las-torres-malditas/icons/spell-tiers/spell2.webp
     disabled: true
     _id: iopwvJrcnzObDYSR
     system: {}

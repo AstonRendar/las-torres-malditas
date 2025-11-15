@@ -249,7 +249,7 @@ folder: 4T18pEvubPMQLzvD
 img: icons/creatures/abilities/lion-roar-yellow.webp
 effects:
   - name: Frightened
-    img: systems/dnd5e/icons/svg/statuses/frightened.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/frightened.svg
     origin: Item.mmRoar0000000000
     _id: jcp949sl7JYRdhdB
     type: base
@@ -294,7 +294,7 @@ effects:
       exportSource: null
     _key: '!items.effects!mmRoar0000000000.jcp949sl7JYRdhdB'
   - name: Paralyzed
-    img: systems/dnd5e/icons/svg/statuses/paralyzed.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/paralyzed.svg
     origin: Item.mmRoar0000000000
     _id: sbId6Nv8mOtH5EKR
     type: base
@@ -340,7 +340,7 @@ effects:
       exportSource: null
     _key: '!items.effects!mmRoar0000000000.sbId6Nv8mOtH5EKR'
   - name: Prone
-    img: systems/dnd5e/icons/svg/statuses/prone.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/prone.svg
     origin: Item.mmRoar0000000000
     _id: UUPAry5ZunpEnKkn
     type: base

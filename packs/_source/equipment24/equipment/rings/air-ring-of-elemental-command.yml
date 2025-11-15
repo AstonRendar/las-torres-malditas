@@ -341,7 +341,7 @@ system:
   proficient: null
 effects:
   - name: Charmed
-    img: systems/dnd5e/icons/svg/statuses/charmed.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/charmed.svg
     origin: Compendium.dnd5e.equipment24.Item.dmgRingOfElement
     transfer: false
     _id: cN85nWiTzfGzWR7D

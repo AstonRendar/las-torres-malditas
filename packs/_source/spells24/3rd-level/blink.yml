@@ -109,7 +109,7 @@ effects:
       startTurn: null
     disabled: false
     flags: {}
-    img: systems/dnd5e/icons/svg/statuses/ethereal.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/ethereal.svg
     _id: La5ofK0TnPSTL3iq
     type: base
     system: {}

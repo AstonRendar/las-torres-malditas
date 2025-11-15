@@ -743,7 +743,7 @@ items:
     img: icons/skills/melee/shield-damaged-broken-orange.webp
     effects:
       - name: Poisoned
-        img: systems/dnd5e/icons/svg/statuses/poisoned.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/poisoned.svg
         origin: Compendium.dnd5e.actors24.Actor.mmQuasit00000000.Item.mmRend0000000000
         _id: KlXNOgoOPqEV7BoN
         type: base
@@ -1013,7 +1013,7 @@ items:
           startTurn: null
         disabled: false
         flags: {}
-        img: systems/dnd5e/icons/svg/statuses/invisible.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/invisible.svg
         _id: 9svfDetqjhsFP3ey
         type: base
         system: {}
@@ -1041,7 +1041,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmQuasit00000000.Item.mmInvisibility00.Activity.6BqYzqlxZTtqyPmH
         changes:
@@ -1166,7 +1166,7 @@ items:
             visible: false
             name: ''
             formula: ''
-          img: systems/dnd5e/icons/svg/monster.svg
+          img: systems/las-torres-malditas/icons/svg/monster.svg
       uses:
         spent: 0
         recovery: []
@@ -1444,7 +1444,7 @@ items:
         subtype: ''
     effects:
       - name: Frightened
-        img: systems/dnd5e/icons/svg/statuses/frightened.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/frightened.svg
         origin: Item.mmScare000000000
         _id: u8Gu5Oo3a48vKYla
         type: base

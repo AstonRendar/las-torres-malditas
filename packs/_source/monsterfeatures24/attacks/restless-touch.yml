@@ -134,7 +134,7 @@ folder: pSCWWdqMX9eUATRJ
 img: icons/commodities/biological/hand-clawed-blue.webp
 effects:
   - name: Cursed
-    img: systems/dnd5e/icons/svg/statuses/cursed.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/cursed.svg
     origin: Compendium.dnd5e.monsterfeatures24.Item.mmRestlessTouch0
     _id: BvP51cOd6lyrhEgq
     type: base

@@ -56,7 +56,7 @@ system:
   proficient: null
 effects:
   - name: Ogre Strength
-    img: systems/dnd5e/icons/items/gauntlets-of-ogre-power.webp
+    img: systems/las-torres-malditas/icons/items/gauntlets-of-ogre-power.webp
     _id: 8vCrPyrvsQ5MIxTJ
     type: base
     system: {}

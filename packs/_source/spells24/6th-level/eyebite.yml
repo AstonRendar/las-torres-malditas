@@ -168,7 +168,7 @@ system:
           formula: ''
       name: While Concentrating
       _id: 3PZbzzH8sBJl3heA
-      img: systems/dnd5e/icons/svg/statuses/concentrating.svg
+      img: systems/las-torres-malditas/icons/svg/statuses/concentrating.svg
       appliedEffects:
         - 5btX5iwwleMMzkvj
         - Kj1GwWXD5k0Zen75
@@ -179,7 +179,7 @@ type: spell
 img: icons/skills/wounds/injury-eyes-blood-red.webp
 effects:
   - name: Asleep
-    img: systems/dnd5e/icons/svg/statuses/unconscious.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/unconscious.svg
     _id: 5btX5iwwleMMzkvj
     type: base
     system: {}
@@ -216,7 +216,7 @@ effects:
       exportSource: null
     _key: '!items.effects!phbsplEyebite000.5btX5iwwleMMzkvj'
   - name: Panicked
-    img: systems/dnd5e/icons/svg/statuses/frightened.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/frightened.svg
     _id: Kj1GwWXD5k0Zen75
     type: base
     system: {}
@@ -255,7 +255,7 @@ effects:
       exportSource: null
     _key: '!items.effects!phbsplEyebite000.Kj1GwWXD5k0Zen75'
   - name: Sickened
-    img: systems/dnd5e/icons/svg/statuses/poisoned.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/poisoned.svg
     _id: 5ZKeVyumUK0i76am
     type: base
     system: {}

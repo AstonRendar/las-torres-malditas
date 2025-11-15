@@ -846,7 +846,7 @@ items:
     img: icons/weapons/bows/shortbow-recurve-yellow.webp
     effects:
       - name: Charmed
-        img: systems/dnd5e/icons/svg/statuses/charmed.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/charmed.svg
         origin: Compendium.dnd-monster-manual.features.Item.mmEnchantingBow0
         _id: Z32WWCg4waNTB1wp
         type: base
@@ -1229,7 +1229,7 @@ items:
           startTurn: null
         disabled: false
         flags: {}
-        img: systems/dnd5e/icons/svg/statuses/invisible.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/invisible.svg
         _id: 9svfDetqjhsFP3ey
         type: base
         system: {}
@@ -1257,7 +1257,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmSprite00000000.Item.mmInvisibility00.Activity.6BqYzqlxZTtqyPmH
         changes:

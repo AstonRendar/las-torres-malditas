@@ -94,7 +94,7 @@ type: spell
 img: icons/magic/symbols/circle-ouroboros.webp
 effects:
   - name: Foresight
-    img: systems/dnd5e/icons/svg/trait-damage-resistances.svg
+    img: systems/las-torres-malditas/icons/svg/trait-damage-resistances.svg
     origin: Compendium.dnd5e.spells24.Item.phbsplForesight0
     transfer: false
     _id: P3m4C2ZVEsMzgb5q

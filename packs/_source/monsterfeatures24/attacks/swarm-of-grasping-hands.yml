@@ -199,7 +199,7 @@ folder: pSCWWdqMX9eUATRJ
 img: icons/magic/death/hand-withered-gray.webp
 effects:
   - name: Prone
-    img: systems/dnd5e/icons/svg/statuses/prone.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/prone.svg
     origin: Compendium.dnd5e.monsterfeatures24.Item.mmSwarmOfGraspin
     _id: WJe5ci1Tiu0hQCb8
     type: base

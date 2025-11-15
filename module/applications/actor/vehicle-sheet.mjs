@@ -50,47 +50,47 @@ export default class VehicleActorSheet extends BaseActorSheet {
   /** @override */
   static PARTS = {
     sidebarCollapser: {
-      template: "systems/dnd5e/templates/actors/parts/sidebar-collapser.hbs"
+      template: "systems/las-torres-malditas/templates/actors/parts/sidebar-collapser.hbs"
     },
     sidebar: {
-      template: "systems/dnd5e/templates/actors/vehicle/sidebar.hbs",
+      template: "systems/las-torres-malditas/templates/actors/vehicle/sidebar.hbs",
       templates: [
-        "systems/dnd5e/templates/actors/parts/actor-trait-line.hbs",
-        "systems/dnd5e/templates/actors/parts/actor-trait-pills.hbs"
+        "systems/las-torres-malditas/templates/actors/parts/actor-trait-line.hbs",
+        "systems/las-torres-malditas/templates/actors/parts/actor-trait-pills.hbs"
       ],
       scrollable: [""]
     },
     stations: {
-      template: "systems/dnd5e/templates/actors/vehicle/stations.hbs",
-      templates: ["systems/dnd5e/templates/inventory/inventory.hbs", "systems/dnd5e/templates/inventory/activity.hbs"],
+      template: "systems/las-torres-malditas/templates/actors/vehicle/stations.hbs",
+      templates: ["systems/las-torres-malditas/templates/inventory/inventory.hbs", "systems/las-torres-malditas/templates/inventory/activity.hbs"],
       scrollable: [""]
     },
     tabs: {
-      template: "systems/dnd5e/templates/shared/horizontal-tabs.hbs",
+      template: "systems/las-torres-malditas/templates/shared/horizontal-tabs.hbs",
       templates: ["templates/generic/tab-navigation.hbs"]
     },
     inventory: {
       container: { classes: ["tab-body"], id: "tabs" },
-      template: "systems/dnd5e/templates/actors/tabs/actor-inventory.hbs",
+      template: "systems/las-torres-malditas/templates/actors/tabs/actor-inventory.hbs",
       templates: [
-        "systems/dnd5e/templates/inventory/inventory.hbs", "systems/dnd5e/templates/inventory/activity.hbs",
-        "systems/dnd5e/templates/inventory/containers.hbs", "systems/dnd5e/templates/inventory/encumbrance.hbs"
+        "systems/las-torres-malditas/templates/inventory/inventory.hbs", "systems/las-torres-malditas/templates/inventory/activity.hbs",
+        "systems/las-torres-malditas/templates/inventory/containers.hbs", "systems/las-torres-malditas/templates/inventory/encumbrance.hbs"
       ],
       scrollable: [""]
     },
     crew: {
       container: { classes: ["tab-body"], id: "tabs" },
-      template: "systems/dnd5e/templates/actors/vehicle/crew.hbs",
+      template: "systems/las-torres-malditas/templates/actors/vehicle/crew.hbs",
       scrollable: [""]
     },
     effects: {
       container: { classes: ["tab-body"], id: "tabs" },
-      template: "systems/dnd5e/templates/actors/tabs/actor-effects.hbs",
+      template: "systems/las-torres-malditas/templates/actors/tabs/actor-effects.hbs",
       scrollable: [""]
     },
     description: {
       container: { classes: ["tab-body"], id: "tabs" },
-      template: "systems/dnd5e/templates/actors/vehicle/description.hbs",
+      template: "systems/las-torres-malditas/templates/actors/vehicle/description.hbs",
       scrollable: [""]
     }
   };

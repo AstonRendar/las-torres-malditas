@@ -48,7 +48,7 @@ effects:
       startTurn: null
     disabled: true
     flags: {}
-    img: systems/dnd5e/icons/svg/items/feature.svg
+    img: systems/las-torres-malditas/icons/svg/items/feature.svg
     _id: Y9LOXK6Q4vot2cxi
     type: base
     system: {}

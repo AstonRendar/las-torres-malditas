@@ -87,7 +87,7 @@ system:
         visible: false
         name: Bonus/Penalty
         formula: 2d4
-      img: systems/dnd5e/icons/svg/dice/d4.svg
+      img: systems/las-torres-malditas/icons/svg/dice/d4.svg
   enchant: {}
   identifier: boon-of-fate
   advancement:

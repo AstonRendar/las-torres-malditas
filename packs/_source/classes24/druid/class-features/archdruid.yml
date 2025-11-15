@@ -166,7 +166,7 @@ system:
         visible: false
         name: ''
         formula: ''
-      img: systems/dnd5e/icons/svg/trait-weapon-proficiencies.svg
+      img: systems/las-torres-malditas/icons/svg/trait-weapon-proficiencies.svg
   enchant: {}
   identifier: archdruid
 effects: []

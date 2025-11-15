@@ -31,7 +31,7 @@ export default class AbilityScoreImprovementFlow extends AdvancementFlow {
   static get defaultOptions() {
     return foundry.utils.mergeObject(super.defaultOptions, {
       dragDrop: [{ dropSelector: "form" }],
-      template: "systems/dnd5e/templates/advancement/ability-score-improvement-flow.hbs"
+      template: "systems/las-torres-malditas/templates/advancement/ability-score-improvement-flow.hbs"
     });
   }
 
@@ -174,7 +174,7 @@ export default class AbilityScoreImprovementFlow extends AdvancementFlow {
     const result = await CompendiumBrowser.selectOne({ filters, tab: "feats" });
     if ( !result ) return;
 
-    // TODO: Remove this unnecessary check when https://github.com/foundryvtt/dnd5e/issues/5139 is implemented
+    // TODO: Remove this unnecessary check when https://github.com/AstonRendar/las-torres-malditas/issues/5139 is implemented
     const item = await fromUuid(result);
     const isValid = item.system.validatePrerequisites?.(this.advancement.actor, { showMessage: true });
     if ( isValid === true ) {

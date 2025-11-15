@@ -1,5 +1,5 @@
 {
-  "id": "dnd5e",
+  "id": "las-torres-malditas",
   "title": "Dungeons & Dragons Fifth Edition",
   "description": "A system for playing the fifth edition of the world's most popular role-playing game in the Foundry Virtual Tabletop environment.",
   "version": "5.2.0",
@@ -7,9 +7,9 @@
     "minimum": "13.347",
     "verified": "13"
   },
-  "url": "https://github.com/foundryvtt/dnd5e/",
-  "manifest": "https://raw.githubusercontent.com/foundryvtt/dnd5e/master/system.json",
-  "download": "https://github.com/foundryvtt/dnd5e/releases/download/release-5.2.0/dnd5e-release-5.2.0.zip",
+  "url": "https://github.com/AstonRendar/las-torres-malditas/",
+  "manifest": "https://raw.githubusercontent.com/AstonRendar/las-torres-malditas/master/system.json",
+  "download": "https://github.com/AstonRendar/las-torres-malditas/releases/download/release-5.2.0/dnd5e-release-5.2.0.zip",
   "authors": [
     {
       "name": "Atropos",
@@ -551,8 +551,8 @@
     },
     {
       "type": "setup",
-      "url": "systems/dnd5e/ui/official/dnd5e-repo.jpg",
-      "thumbnail": "systems/dnd5e/ui/official/dnd5e-thumbnail.jpg"
+      "url": "systems/las-torres-malditas/ui/official/dnd5e-repo.jpg",
+      "thumbnail": "systems/las-torres-malditas/ui/official/dnd5e-thumbnail.jpg"
     }
   ],
   "socket": true,
@@ -561,11 +561,11 @@
     "units": "ft"
   },
   "primaryTokenAttribute": "attributes.hp",
-  "background": "systems/dnd5e/ui/official/dnd5e-background.webp",
+  "background": "systems/las-torres-malditas/ui/official/dnd5e-background.webp",
   "flags": {
     "compendiumArtMappings": {
       "dnd5e": {
-        "mapping": "systems/dnd5e/json/fa-token-mapping.json",
+        "mapping": "systems/las-torres-malditas/json/fa-token-mapping.json",
         "credit": "<em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em>"
       }
     },

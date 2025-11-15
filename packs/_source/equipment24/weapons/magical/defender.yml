@@ -193,7 +193,7 @@ effects:
     _key: '!items.effects!dmgDefender00000.4l1ngEyNnOxpfTGs'
   - type: enchantment
     name: Defender
-    img: systems/dnd5e/icons/spell-tiers/spell5.webp
+    img: systems/las-torres-malditas/icons/spell-tiers/spell5.webp
     disabled: true
     _id: yBwZfNAoRtuUk5mz
     system: {}

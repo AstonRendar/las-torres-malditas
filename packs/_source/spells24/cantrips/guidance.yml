@@ -133,7 +133,7 @@ type: spell
 img: icons/sundries/lights/candle-lit-angelic.webp
 effects:
   - name: Acrobatic Guidance
-    img: systems/dnd5e/icons/svg/activity/check.svg
+    img: systems/las-torres-malditas/icons/svg/activity/check.svg
     origin: Compendium.dnd5e.spells24.Item.phbsplGuidance00
     transfer: false
     _id: GezMMzvZhWXEYyGm
@@ -170,7 +170,7 @@ effects:
       exportSource: null
     _key: '!items.effects!phbsplGuidance00.GezMMzvZhWXEYyGm'
   - name: Animal Handling Guidance
-    img: systems/dnd5e/icons/svg/activity/check.svg
+    img: systems/las-torres-malditas/icons/svg/activity/check.svg
     origin: Compendium.dnd5e.spells24.Item.phbsplGuidance00
     transfer: false
     type: base
@@ -207,7 +207,7 @@ effects:
     _id: y6aODSkiubtFt6Ap
     _key: '!items.effects!phbsplGuidance00.y6aODSkiubtFt6Ap'
   - name: Arcana Guidance
-    img: systems/dnd5e/icons/svg/activity/check.svg
+    img: systems/las-torres-malditas/icons/svg/activity/check.svg
     origin: Compendium.dnd5e.spells24.Item.phbsplGuidance00
     transfer: false
     type: base
@@ -244,7 +244,7 @@ effects:
     _id: Vlfh8IFOezrSpeBZ
     _key: '!items.effects!phbsplGuidance00.Vlfh8IFOezrSpeBZ'
   - name: Athletic Guidance
-    img: systems/dnd5e/icons/svg/activity/check.svg
+    img: systems/las-torres-malditas/icons/svg/activity/check.svg
     origin: Compendium.dnd5e.spells24.Item.phbsplGuidance00
     transfer: false
     type: base
@@ -281,7 +281,7 @@ effects:
     _id: sPkLWVpkJ7NqDQT0
     _key: '!items.effects!phbsplGuidance00.sPkLWVpkJ7NqDQT0'
   - name: Deception Guidance
-    img: systems/dnd5e/icons/svg/activity/check.svg
+    img: systems/las-torres-malditas/icons/svg/activity/check.svg
     origin: Compendium.dnd5e.spells24.Item.phbsplGuidance00
     transfer: false
     type: base
@@ -318,7 +318,7 @@ effects:
     _id: Je4xWElmaiSDsOjU
     _key: '!items.effects!phbsplGuidance00.Je4xWElmaiSDsOjU'
   - name: History Guidance
-    img: systems/dnd5e/icons/svg/activity/check.svg
+    img: systems/las-torres-malditas/icons/svg/activity/check.svg
     origin: Compendium.dnd5e.spells24.Item.phbsplGuidance00
     transfer: false
     type: base
@@ -355,7 +355,7 @@ effects:
     _id: cw02ZbuiRn6GyoEv
     _key: '!items.effects!phbsplGuidance00.cw02ZbuiRn6GyoEv'
   - name: Insight Guidance
-    img: systems/dnd5e/icons/svg/activity/check.svg
+    img: systems/las-torres-malditas/icons/svg/activity/check.svg
     origin: Compendium.dnd5e.spells24.Item.phbsplGuidance00
     transfer: false
     type: base
@@ -392,7 +392,7 @@ effects:
     _id: VsU5vUhMioT9pCwG
     _key: '!items.effects!phbsplGuidance00.VsU5vUhMioT9pCwG'
   - name: Investigation Guidance
-    img: systems/dnd5e/icons/svg/activity/check.svg
+    img: systems/las-torres-malditas/icons/svg/activity/check.svg
     origin: Compendium.dnd5e.spells24.Item.phbsplGuidance00
     transfer: false
     type: base
@@ -429,7 +429,7 @@ effects:
     _id: UQixxmOdHUDjVYNh
     _key: '!items.effects!phbsplGuidance00.UQixxmOdHUDjVYNh'
   - name: Intimidation Guidance
-    img: systems/dnd5e/icons/svg/activity/check.svg
+    img: systems/las-torres-malditas/icons/svg/activity/check.svg
     origin: Compendium.dnd5e.spells24.Item.phbsplGuidance00
     transfer: false
     type: base
@@ -466,7 +466,7 @@ effects:
     _id: Cpte6tynFFJbraX2
     _key: '!items.effects!phbsplGuidance00.Cpte6tynFFJbraX2'
   - name: Medicine Guidance
-    img: systems/dnd5e/icons/svg/activity/check.svg
+    img: systems/las-torres-malditas/icons/svg/activity/check.svg
     origin: Compendium.dnd5e.spells24.Item.phbsplGuidance00
     transfer: false
     type: base
@@ -503,7 +503,7 @@ effects:
     _id: Vl1YSG1DlZvx9nSI
     _key: '!items.effects!phbsplGuidance00.Vl1YSG1DlZvx9nSI'
   - name: Nature Guidance
-    img: systems/dnd5e/icons/svg/activity/check.svg
+    img: systems/las-torres-malditas/icons/svg/activity/check.svg
     origin: Compendium.dnd5e.spells24.Item.phbsplGuidance00
     transfer: false
     type: base
@@ -540,7 +540,7 @@ effects:
     _id: IqxGXju1tYDWoda6
     _key: '!items.effects!phbsplGuidance00.IqxGXju1tYDWoda6'
   - name: Persuasion Guidance
-    img: systems/dnd5e/icons/svg/activity/check.svg
+    img: systems/las-torres-malditas/icons/svg/activity/check.svg
     origin: Compendium.dnd5e.spells24.Item.phbsplGuidance00
     transfer: false
     type: base
@@ -577,7 +577,7 @@ effects:
     _id: fCdLUO5DoSIT4wVK
     _key: '!items.effects!phbsplGuidance00.fCdLUO5DoSIT4wVK'
   - name: Perception Guidance
-    img: systems/dnd5e/icons/svg/activity/check.svg
+    img: systems/las-torres-malditas/icons/svg/activity/check.svg
     origin: Compendium.dnd5e.spells24.Item.phbsplGuidance00
     transfer: false
     type: base
@@ -614,7 +614,7 @@ effects:
     _id: qPowjrduxnzKpH8x
     _key: '!items.effects!phbsplGuidance00.qPowjrduxnzKpH8x'
   - name: Performance Guidance
-    img: systems/dnd5e/icons/svg/activity/check.svg
+    img: systems/las-torres-malditas/icons/svg/activity/check.svg
     origin: Compendium.dnd5e.spells24.Item.phbsplGuidance00
     transfer: false
     type: base
@@ -651,7 +651,7 @@ effects:
     _id: E4BqoCkyoKLJbGmb
     _key: '!items.effects!phbsplGuidance00.E4BqoCkyoKLJbGmb'
   - name: Religion Guidance
-    img: systems/dnd5e/icons/svg/activity/check.svg
+    img: systems/las-torres-malditas/icons/svg/activity/check.svg
     origin: Compendium.dnd5e.spells24.Item.phbsplGuidance00
     transfer: false
     type: base
@@ -688,7 +688,7 @@ effects:
     _id: jVKWknHHFuMwvTct
     _key: '!items.effects!phbsplGuidance00.jVKWknHHFuMwvTct'
   - name: Sleight of Hand Guidance
-    img: systems/dnd5e/icons/svg/activity/check.svg
+    img: systems/las-torres-malditas/icons/svg/activity/check.svg
     origin: Compendium.dnd5e.spells24.Item.phbsplGuidance00
     transfer: false
     type: base
@@ -725,7 +725,7 @@ effects:
     _id: pwFahx7uqM4DOgnu
     _key: '!items.effects!phbsplGuidance00.pwFahx7uqM4DOgnu'
   - name: Stealth Guidance
-    img: systems/dnd5e/icons/svg/activity/check.svg
+    img: systems/las-torres-malditas/icons/svg/activity/check.svg
     origin: Compendium.dnd5e.spells24.Item.phbsplGuidance00
     transfer: false
     type: base
@@ -762,7 +762,7 @@ effects:
     _id: Vb4iRJ73Nw78UUMW
     _key: '!items.effects!phbsplGuidance00.Vb4iRJ73Nw78UUMW'
   - name: Survival Guidance
-    img: systems/dnd5e/icons/svg/activity/check.svg
+    img: systems/las-torres-malditas/icons/svg/activity/check.svg
     origin: Compendium.dnd5e.spells24.Item.phbsplGuidance00
     transfer: false
     type: base

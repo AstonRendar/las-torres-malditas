@@ -92,7 +92,7 @@ folder: 4T18pEvubPMQLzvD
 img: icons/magic/perception/eye-slit-red-orange.webp
 effects:
   - name: Frightened
-    img: systems/dnd5e/icons/svg/statuses/frightened.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/frightened.svg
     origin: Item.mmDreadfulGlare0
     _id: hRSvOovTSlu4Dw8c
     type: base

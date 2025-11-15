@@ -26,7 +26,7 @@ export default class BaseRestDialog extends Dialog5e {
     position: {
       width: 380
     },
-    templates: ["systems/dnd5e/templates/actors/rest/rest-request.hbs"]
+    templates: ["systems/las-torres-malditas/templates/actors/rest/rest-request.hbs"]
   };
 
   /* -------------------------------------------- */

@@ -101,7 +101,7 @@ folder: 4T18pEvubPMQLzvD
 img: icons/magic/acid/dissolve-drip-droplet-smoke.webp
 effects:
   - name: Blinded
-    img: systems/dnd5e/icons/svg/statuses/blinded.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/blinded.svg
     origin: Item.mmPoisonousSpitt
     _id: q1VTMWxbLg5ZnQ9W
     type: base

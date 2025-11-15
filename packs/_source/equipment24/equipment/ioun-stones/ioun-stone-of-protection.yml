@@ -63,7 +63,7 @@ system:
   proficient: null
 effects:
   - name: 'Enhanced Protection: +1 AC'
-    img: systems/dnd5e/icons/svg/activity/save.svg
+    img: systems/las-torres-malditas/icons/svg/activity/save.svg
     _id: DjgONYhHwEnVKjfF
     type: base
     system: {}

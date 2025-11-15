@@ -52,7 +52,7 @@ system:
         name: ''
         formula: ''
       name: Expend Use
-      img: systems/dnd5e/icons/svg/monster.svg
+      img: systems/las-torres-malditas/icons/svg/monster.svg
       appliedEffects:
         - oY6W5ijpozecYGkq
   uses:
@@ -80,7 +80,7 @@ folder: 4T18pEvubPMQLzvD
 img: icons/magic/control/silhouette-hold-change-blue.webp
 effects:
   - name: Invisible
-    img: systems/dnd5e/icons/svg/statuses/invisible.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/invisible.svg
     origin: Item.mmVanish00000000
     _id: oY6W5ijpozecYGkq
     type: base

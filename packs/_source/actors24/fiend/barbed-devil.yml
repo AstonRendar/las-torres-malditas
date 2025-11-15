@@ -828,7 +828,7 @@ items:
             visible: false
             name: ''
             formula: ''
-          img: systems/dnd5e/icons/svg/monster.svg
+          img: systems/las-torres-malditas/icons/svg/monster.svg
       uses:
         spent: 0
         recovery: []
@@ -985,7 +985,7 @@ items:
               formula: '@skills.ath.passive'
             ability: ''
           _id: 5UtgpODC3lrTQd5t
-          img: systems/dnd5e/icons/svg/statuses/grappled.svg
+          img: systems/las-torres-malditas/icons/svg/statuses/grappled.svg
       uses:
         spent: 0
         recovery: []
@@ -1060,7 +1060,7 @@ items:
     img: icons/creatures/claws/claw-curved-jagged-gray.webp
     effects:
       - name: Grappled
-        img: systems/dnd5e/icons/svg/statuses/grappled.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/grappled.svg
         origin: Compendium.dnd-monster-manual.features.Item.mmClaws000000000
         transfer: false
         _id: MpjWPflcv7Jqd7Tu

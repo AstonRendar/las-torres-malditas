@@ -106,7 +106,7 @@ system:
         name: ''
         formula: ''
       name: Enter Border Ethereal
-      img: systems/dnd5e/icons/svg/trait-saves.svg
+      img: systems/las-torres-malditas/icons/svg/trait-saves.svg
       appliedEffects:
         - louTI4Z9bNUYBa8K
   identifier: etherealness
@@ -115,7 +115,7 @@ type: spell
 img: icons/magic/air/wind-vortex-swirl-purple.webp
 effects:
   - name: Etherealness
-    img: systems/dnd5e/icons/svg/statuses/ethereal.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/ethereal.svg
     origin: Compendium.dnd5e.spells24.Item.phbsplEtherealne
     transfer: false
     _id: louTI4Z9bNUYBa8K

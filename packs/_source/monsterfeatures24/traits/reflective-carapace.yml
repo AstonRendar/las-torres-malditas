@@ -51,7 +51,7 @@ system:
         name: Roll d6
         formula: 1d6
       name: Roll d6
-      img: systems/dnd5e/icons/svg/dice/d6.svg
+      img: systems/las-torres-malditas/icons/svg/dice/d6.svg
       appliedEffects: []
   uses:
     spent: 0

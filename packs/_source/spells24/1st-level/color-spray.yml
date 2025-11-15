@@ -100,7 +100,7 @@ type: spell
 img: icons/magic/light/hand-sparks-smoke-green.webp
 effects:
   - name: Blinded
-    img: systems/dnd5e/icons/svg/statuses/blinded.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/blinded.svg
     origin: Compendium.dnd5e.spells24.Item.phbsplColorSpray
     transfer: false
     _id: DKl58EVNaSX976co

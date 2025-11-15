@@ -98,7 +98,7 @@ system:
         name: ''
         formula: ''
       name: Create Aura
-      img: systems/dnd5e/icons/svg/trait-damage-immunities.svg
+      img: systems/las-torres-malditas/icons/svg/trait-damage-immunities.svg
       appliedEffects:
         - csA26qg5YSsji1ZZ
     0kylpwRauH0WgW0G:
@@ -194,7 +194,7 @@ effects:
       exportSource: null
     _key: '!items.effects!phbsplHolyAura00.csA26qg5YSsji1ZZ'
   - name: Blinded
-    img: systems/dnd5e/icons/svg/statuses/blinded.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/blinded.svg
     origin: Compendium.dnd5e.spells24.Item.phbsplHolyAura00
     transfer: false
     _id: wqBjgsd2xRnmSm8Z

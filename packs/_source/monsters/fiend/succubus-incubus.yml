@@ -928,7 +928,7 @@ items:
       identifier: charm
     effects:
       - name: Charmed
-        img: systems/dnd5e/icons/svg/statuses/charmed.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/charmed.svg
         origin: Compendium.dnd5e.monsters.Actor.VmdyZDjqAc8vdncY.Item.2bFCfFfjRNmhyE8A
         transfer: false
         _id: iuVbm8rd6UWg36yg

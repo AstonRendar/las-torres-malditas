@@ -799,7 +799,7 @@ items:
     img: icons/creatures/abilities/fangs-teeth-bite.webp
     effects:
       - name: Grappled
-        img: systems/dnd5e/icons/svg/statuses/grappled.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/grappled.svg
         origin: Compendium.dnd5e.actors24.Actor.mmAnkheg00000000.Item.mmBite0000000000
         _id: ihvVTpfklXa7XAe2
         type: base

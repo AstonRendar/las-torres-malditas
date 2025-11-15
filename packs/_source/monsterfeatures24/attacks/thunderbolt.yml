@@ -134,7 +134,7 @@ folder: pSCWWdqMX9eUATRJ
 img: icons/magic/lightning/bolt-strike-blue.webp
 effects:
   - name: Blinded & Deafened
-    img: systems/dnd5e/icons/svg/statuses/blinded.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/blinded.svg
     origin: Compendium.dnd5e.monsterfeatures24.Item.mmThunderbolt000
     _id: R2yhnEJ7lKT4VSvK
     type: base

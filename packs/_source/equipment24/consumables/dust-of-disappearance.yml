@@ -120,7 +120,7 @@ system:
     - mgc
 effects:
   - name: Invisible
-    img: systems/dnd5e/icons/svg/statuses/invisible.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/invisible.svg
     origin: Compendium.dnd5e.equipment24.Item.dmgDustOfDisappe
     transfer: false
     _id: MC5GAZMrAc4wSvAS

@@ -782,7 +782,7 @@ items:
     img: icons/creatures/tentacles/tentacles-suctioncups-pink.webp
     effects:
       - name: Grappled & Restrained
-        img: systems/dnd5e/icons/svg/statuses/restrained.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/restrained.svg
         origin: Compendium.dnd-monster-manual.features.Item.mmTentacles00000
         _id: GyZrmzBP0NB8oRZI
         type: base
@@ -895,7 +895,7 @@ items:
             formula: ''
             name: ''
           name: Expend Use
-          img: systems/dnd5e/icons/svg/monster.svg
+          img: systems/las-torres-malditas/icons/svg/monster.svg
       uses:
         spent: 0
         recovery: []

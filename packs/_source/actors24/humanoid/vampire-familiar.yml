@@ -670,7 +670,7 @@ items:
             visible: false
             name: ''
             formula: ''
-          img: systems/dnd5e/icons/svg/monster.svg
+          img: systems/las-torres-malditas/icons/svg/monster.svg
       uses:
         spent: 0
         recovery: []
@@ -866,7 +866,7 @@ items:
     img: icons/weapons/daggers/dagger-magical-glowing-blue.webp
     effects:
       - name: Poisoned & Paralyzed
-        img: systems/dnd5e/icons/svg/statuses/poisoned.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/poisoned.svg
         origin: Compendium.dnd-monster-manual.features.Item.mmUmbralDagger00
         _id: dsK5sPtkUMySmyvw
         type: base
@@ -976,7 +976,7 @@ items:
             name: ''
             formula: ''
           name: Expend Use
-          img: systems/dnd5e/icons/svg/monster.svg
+          img: systems/las-torres-malditas/icons/svg/monster.svg
       uses:
         spent: 0
         recovery: []

@@ -140,7 +140,7 @@ effects:
       startTurn: null
     disabled: false
     flags: {}
-    img: systems/dnd5e/icons/svg/statuses/incapacitated.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/incapacitated.svg
     _id: ayfixWGhTtaIUusk
     type: base
     system: {}

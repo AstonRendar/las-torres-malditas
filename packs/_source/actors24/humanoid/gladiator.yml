@@ -856,7 +856,7 @@ items:
             visible: false
             name: ''
             formula: ''
-          img: systems/dnd5e/icons/svg/monster.svg
+          img: systems/las-torres-malditas/icons/svg/monster.svg
           appliedEffects: []
       uses:
         spent: 0
@@ -1008,7 +1008,7 @@ items:
     img: icons/equipment/shield/buckler-iron-cross-gray.webp
     effects:
       - name: Prone
-        img: systems/dnd5e/icons/svg/statuses/prone.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/prone.svg
         origin: Item.mmShieldBash0000
         _id: tlJPRZtTipMsmBRa
         type: base

@@ -165,7 +165,7 @@ system:
         visible: false
         name: ''
         formula: ''
-      img: systems/dnd5e/icons/svg/activity/damage.svg
+      img: systems/las-torres-malditas/icons/svg/activity/damage.svg
       appliedEffects: []
     60i9AJLDM4Meg8TG:
       type: utility
@@ -220,7 +220,7 @@ system:
         visible: false
         name: ''
         formula: ''
-      img: systems/dnd5e/icons/svg/activity/heal.svg
+      img: systems/las-torres-malditas/icons/svg/activity/heal.svg
       appliedEffects: []
   uses:
     spent: 0

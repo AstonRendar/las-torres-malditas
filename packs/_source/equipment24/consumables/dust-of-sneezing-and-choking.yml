@@ -128,7 +128,7 @@ system:
     - mgc
 effects:
   - name: Incapacitated and Suffocating (Sneezing)
-    img: systems/dnd5e/icons/svg/statuses/suffocation.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/suffocation.svg
     origin: Compendium.dnd5e.equipment24.Item.dmgDustOfSneezin
     transfer: false
     _id: AZcO17cLsTHbb0P9

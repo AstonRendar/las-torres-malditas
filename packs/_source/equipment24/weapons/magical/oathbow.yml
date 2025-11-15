@@ -173,7 +173,7 @@ system:
         visible: false
         name: ''
         formula: ''
-      img: systems/dnd5e/icons/svg/trait-languages.svg
+      img: systems/las-torres-malditas/icons/svg/trait-languages.svg
       appliedEffects:
         - EWoLqkPJeK9dwYhn
   uses:
@@ -266,7 +266,7 @@ system:
 effects:
   - type: enchantment
     name: Oathbow
-    img: systems/dnd5e/icons/spell-tiers/spell4.webp
+    img: systems/las-torres-malditas/icons/spell-tiers/spell4.webp
     disabled: true
     _id: L4ylYIFxr0vdht6M
     system: {}

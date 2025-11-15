@@ -103,7 +103,7 @@ system:
         name: ''
         formula: ''
       name: ''
-      img: systems/dnd5e/icons/svg/activity/summon.svg
+      img: systems/las-torres-malditas/icons/svg/activity/summon.svg
       appliedEffects: []
   identifier: demiplane
 _id: phbsplDemiplane0

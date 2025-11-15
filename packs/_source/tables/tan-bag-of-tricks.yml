@@ -9,7 +9,7 @@ results:
       - 1
     drawn: false
     _id: gyRjMuaMG9dstA5N
-    img: systems/dnd5e/tokens/beast/Jackal.webp
+    img: systems/las-torres-malditas/tokens/beast/Jackal.webp
     flags: {}
     _stats:
       coreVersion: '13.344'
@@ -32,7 +32,7 @@ results:
       - 2
     drawn: false
     _id: AzjFIjtyw4PdbXxb
-    img: systems/dnd5e/tokens/beast/Ape.webp
+    img: systems/las-torres-malditas/tokens/beast/Ape.webp
     flags: {}
     _stats:
       coreVersion: '13.344'
@@ -55,7 +55,7 @@ results:
       - 3
     drawn: false
     _id: rw5fz13gHv4smVis
-    img: systems/dnd5e/tokens/beast/Baboon.webp
+    img: systems/las-torres-malditas/tokens/beast/Baboon.webp
     flags: {}
     _stats:
       coreVersion: '13.344'
@@ -78,7 +78,7 @@ results:
       - 4
     drawn: false
     _id: D8wPQit1a8G7GfEQ
-    img: systems/dnd5e/tokens/beast/AxeBeak.webp
+    img: systems/las-torres-malditas/tokens/beast/AxeBeak.webp
     flags: {}
     _stats:
       coreVersion: '13.344'
@@ -101,7 +101,7 @@ results:
       - 5
     drawn: false
     _id: ApddzBElcaPOO3Pl
-    img: systems/dnd5e/tokens/beast/BlackBear.webp
+    img: systems/las-torres-malditas/tokens/beast/BlackBear.webp
     flags: {}
     _stats:
       coreVersion: '13.344'
@@ -124,7 +124,7 @@ results:
       - 6
     drawn: false
     _id: RqwIM4OrzSFB4WnC
-    img: systems/dnd5e/tokens/beast/GiantWeasel.webp
+    img: systems/las-torres-malditas/tokens/beast/GiantWeasel.webp
     flags: {}
     _stats:
       coreVersion: '13.344'
@@ -147,7 +147,7 @@ results:
       - 7
     drawn: false
     _id: o5YeoXAtmHmEMCNg
-    img: systems/dnd5e/tokens/beast/GiantHyena.webp
+    img: systems/las-torres-malditas/tokens/beast/GiantHyena.webp
     flags: {}
     _stats:
       coreVersion: '13.344'
@@ -170,7 +170,7 @@ results:
       - 8
     drawn: false
     _id: IlmvAl876Yed56f2
-    img: systems/dnd5e/tokens/beast/Tiger.webp
+    img: systems/las-torres-malditas/tokens/beast/Tiger.webp
     flags: {}
     _stats:
       coreVersion: '13.344'

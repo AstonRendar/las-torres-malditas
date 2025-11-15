@@ -51,7 +51,7 @@ system:
         name: Days to Reform
         formula: 1d10
       name: Days to Reform
-      img: systems/dnd5e/icons/svg/facilities/change.svg
+      img: systems/las-torres-malditas/icons/svg/facilities/change.svg
       appliedEffects: []
   uses:
     spent: 0

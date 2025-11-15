@@ -222,7 +222,7 @@ system:
               formula: ''
       name: Reheat
       _id: YPEmwJHX7g68307N
-      img: systems/dnd5e/icons/svg/statuses/concentrating.svg
+      img: systems/las-torres-malditas/icons/svg/statuses/concentrating.svg
       appliedEffects: []
   identifier: heat-metal
 _id: phbsplHeatMetal0

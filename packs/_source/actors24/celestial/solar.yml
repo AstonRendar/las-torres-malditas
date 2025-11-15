@@ -714,7 +714,7 @@ items:
             name: ''
             formula: ''
           name: Expend Use
-          img: systems/dnd5e/icons/svg/monster.svg
+          img: systems/las-torres-malditas/icons/svg/monster.svg
       uses:
         spent: 0
         recovery: []
@@ -1656,7 +1656,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmSolar000000000.Item.mmSpellcasting00.Activity.Anlv9PUngLgn6DN2
         changes:
@@ -1821,7 +1821,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmSolar000000000.Item.mmSpellcasting00.Activity.k7WlfnRd7KheUUd8
         changes:
@@ -2027,7 +2027,7 @@ items:
             name: Weather Change Delay
           name: Change Conditions
           _id: ucJPCYAaXqiukPF9
-          img: systems/dnd5e/icons/svg/statuses/concentrating.svg
+          img: systems/las-torres-malditas/icons/svg/statuses/concentrating.svg
       identifier: control-weather
     type: spell
     img: icons/magic/air/weather-clouds-rainbow.webp
@@ -2035,7 +2035,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmSolar000000000.Item.mmSpellcasting00.Activity.FdZpcl746SDvNxZ8
         changes:
@@ -2293,7 +2293,7 @@ items:
             visible: false
             name: ''
             formula: ''
-          img: systems/dnd5e/icons/svg/trait-damage-immunities.svg
+          img: systems/las-torres-malditas/icons/svg/trait-damage-immunities.svg
       identifier: dispel-evil-and-good
     type: spell
     img: icons/magic/holy/yin-yang-balance-symbol.webp
@@ -2339,7 +2339,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmSolar000000000.Item.mmSpellcasting00.Activity.BvF04mqoKYqxiifz
         changes:
@@ -2815,7 +2815,7 @@ items:
         _key: >-
           !actors.items.effects!mmSolar000000000.CqPrcjjGFXcwb6lK.xHPAupRPOI8N2VkA
       - name: Spell Taxed
-        img: systems/dnd5e/icons/svg/break-concentration.svg
+        img: systems/las-torres-malditas/icons/svg/break-concentration.svg
         origin: Compendium.dnd5e.spells24.Item.phbsplResurrecti
         transfer: false
         _id: gkSKFjp3O7UrdJ2i
@@ -2853,7 +2853,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmSolar000000000.Item.mmSpellcasting00.Activity.7MrXsJczDg3LL16q
         changes:
@@ -3004,7 +3004,7 @@ items:
     img: icons/magic/light/beam-horizon-strike-yellow.webp
     effects:
       - name: Blinded
-        img: systems/dnd5e/icons/svg/statuses/blinded.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/blinded.svg
         origin: Compendium.dnd-monster-manual.features.Item.mmBlindingGaze00
         transfer: false
         _id: F9aWhTVh3huuys3p
@@ -3496,7 +3496,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmSolar000000000.Item.jb9GlwVmpAclDUSd.Activity.p4mjyjQC8UT8gB3Y
         changes:
@@ -3646,7 +3646,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmSolar000000000.Item.jb9GlwVmpAclDUSd.Activity.kdftfWVcBKDboZFR
         changes:
@@ -3802,7 +3802,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmSolar000000000.Item.jb9GlwVmpAclDUSd.Activity.flebrKFGQBiVbl7Z
         changes:

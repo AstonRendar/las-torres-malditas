@@ -166,7 +166,7 @@ system:
           calculation: spellcasting
           formula: ''
       name: Indigo Save (Con)
-      img: systems/dnd5e/icons/svg/abilities/constitution.svg
+      img: systems/las-torres-malditas/icons/svg/abilities/constitution.svg
       appliedEffects: []
     aVMkONwxZ9IGOjZs:
       type: save
@@ -216,7 +216,7 @@ system:
           calculation: spellcasting
           formula: ''
       name: Violet Save (Wis)
-      img: systems/dnd5e/icons/svg/abilities/wisdom.svg
+      img: systems/las-torres-malditas/icons/svg/abilities/wisdom.svg
       _id: aVMkONwxZ9IGOjZs
       appliedEffects: []
   identifier: prismatic-spray

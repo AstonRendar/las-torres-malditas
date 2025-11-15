@@ -11,7 +11,7 @@ results:
       - 1
       - 1
     drawn: false
-    img: systems/dnd5e/icons/svg/items/race.svg
+    img: systems/las-torres-malditas/icons/svg/items/race.svg
     _id: DLKTRYgF1vpG4ons
     flags: {}
     _stats:
@@ -33,7 +33,7 @@ results:
       - 2
       - 2
     drawn: false
-    img: systems/dnd5e/icons/svg/items/race.svg
+    img: systems/las-torres-malditas/icons/svg/items/race.svg
     _id: lCG2E5mLJL43oGk4
     flags: {}
     _stats:
@@ -56,7 +56,7 @@ results:
       - 3
       - 3
     drawn: false
-    img: systems/dnd5e/icons/species/dwarf.webp
+    img: systems/las-torres-malditas/icons/species/dwarf.webp
     _id: Ym4LPQm1DMZ3iUBH
     flags: {}
     _stats:
@@ -79,7 +79,7 @@ results:
       - 6
       - 6
     drawn: false
-    img: systems/dnd5e/icons/svg/items/race.svg
+    img: systems/las-torres-malditas/icons/svg/items/race.svg
     _id: 9FtTDJCOwnD97SOu
     flags: {}
     _stats:
@@ -102,7 +102,7 @@ results:
       - 7
       - 7
     drawn: false
-    img: systems/dnd5e/icons/species/halfling.webp
+    img: systems/las-torres-malditas/icons/species/halfling.webp
     _id: RI73kNpd5iAababR
     flags: {}
     _stats:
@@ -125,7 +125,7 @@ results:
       - 8
       - 8
     drawn: false
-    img: systems/dnd5e/icons/species/human.webp
+    img: systems/las-torres-malditas/icons/species/human.webp
     _id: 6L3KbE75ugKNdbhg
     flags: {}
     _stats:
@@ -148,7 +148,7 @@ results:
       - 9
       - 9
     drawn: false
-    img: systems/dnd5e/icons/svg/items/race.svg
+    img: systems/las-torres-malditas/icons/svg/items/race.svg
     _id: xNcsrma8ucsEEgz3
     flags: {}
     _stats:
@@ -171,7 +171,7 @@ results:
       - 4
       - 4
     drawn: false
-    img: systems/dnd5e/icons/svg/items/race.svg
+    img: systems/las-torres-malditas/icons/svg/items/race.svg
     _id: 8g4dm4vqB60zPWw5
     flags: {}
     _stats:
@@ -194,7 +194,7 @@ results:
       - 10
       - 10
     drawn: false
-    img: systems/dnd5e/icons/svg/items/race.svg
+    img: systems/las-torres-malditas/icons/svg/items/race.svg
     _id: PkXN8vlW5cXx8vbB
     flags: {}
     _stats:
@@ -217,7 +217,7 @@ results:
       - 5
       - 5
     drawn: false
-    img: systems/dnd5e/icons/svg/items/race.svg
+    img: systems/las-torres-malditas/icons/svg/items/race.svg
     _id: ncs8GLvSuavCJAqf
     flags: {}
     _stats:

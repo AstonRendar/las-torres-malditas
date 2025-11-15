@@ -774,7 +774,7 @@ items:
     img: icons/magic/fire/elemental-creature-horse.webp
     effects:
       - name: Frightened
-        img: systems/dnd5e/icons/svg/statuses/frightened.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/frightened.svg
         origin: Compendium.dnd5e.actors24.Actor.phbmobOtherworld.Item.phbaoiFellGlareF
         transfer: false
         _id: mvCvu3ezA2FV5IeR

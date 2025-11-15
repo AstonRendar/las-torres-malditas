@@ -245,7 +245,7 @@ system:
         visible: false
         name: ''
         formula: ''
-      img: systems/dnd5e/icons/svg/trait-damage-resistances.svg
+      img: systems/las-torres-malditas/icons/svg/trait-damage-resistances.svg
   enchant: {}
   identifier: investment-of-the-chain-master
 effects:

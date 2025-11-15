@@ -769,7 +769,7 @@ items:
     img: icons/creatures/mammals/elk-moose-marked-green.webp
     effects:
       - name: Prone
-        img: systems/dnd5e/icons/svg/statuses/prone.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/prone.svg
         origin: Compendium.dnd-monster-manual.features.Item.mmRam00000000000
         _id: HUmtXTzr92ZaAvf3
         type: base

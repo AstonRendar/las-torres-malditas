@@ -161,7 +161,7 @@ system:
         visible: false
         name: ''
         formula: ''
-      img: systems/dnd5e/icons/svg/trait-damage-resistances.svg
+      img: systems/las-torres-malditas/icons/svg/trait-damage-resistances.svg
     EFzidO6yAapw8d60:
       type: utility
       name: Patient Defense
@@ -210,7 +210,7 @@ system:
         formula: ''
         name: ''
       _id: EFzidO6yAapw8d60
-      img: systems/dnd5e/icons/svg/trait-damage-resistances.svg
+      img: systems/las-torres-malditas/icons/svg/trait-damage-resistances.svg
     0MuRZ0Ur95xQTKFq:
       type: utility
       name: Step of the Wind
@@ -263,12 +263,12 @@ system:
         visible: false
         name: ''
         formula: ''
-      img: systems/dnd5e/icons/svg/trait-saves.svg
+      img: systems/las-torres-malditas/icons/svg/trait-saves.svg
   enchant: {}
   identifier: monks-focus
 effects:
   - name: Patient Defense (Focus Point)
-    img: systems/dnd5e/icons/svg/items/feature.svg
+    img: systems/las-torres-malditas/icons/svg/items/feature.svg
     origin: Compendium.dnd5e.classes24.Item.phbmnkMonksFocus
     transfer: false
     _id: UYHRNxrU74xiUJAy
@@ -302,7 +302,7 @@ effects:
       exportSource: null
     _key: '!items.effects!phbmnkMonksFocus.UYHRNxrU74xiUJAy'
   - name: Disengaged
-    img: systems/dnd5e/icons/svg/items/feature.svg
+    img: systems/las-torres-malditas/icons/svg/items/feature.svg
     origin: Compendium.dnd5e.classes24.Item.phbmnkMonksFocus
     transfer: false
     _id: 92bFICMzRpJmnO56

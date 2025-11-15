@@ -9,7 +9,7 @@ results:
       - 5
     drawn: false
     _id: IiSjf0idEypz8cx5
-    img: systems/dnd5e/tokens/construct/ClayGolem.webp
+    img: systems/las-torres-malditas/tokens/construct/ClayGolem.webp
     flags: {}
     _stats:
       coreVersion: '13.344'
@@ -55,7 +55,7 @@ results:
       - 18
     drawn: false
     _id: 7uSrcciLe3oXFSui
-    img: systems/dnd5e/tokens/construct/IronGolem.webp
+    img: systems/las-torres-malditas/tokens/construct/IronGolem.webp
     flags: {}
     _stats:
       coreVersion: '13.344'
@@ -78,7 +78,7 @@ results:
       - 20
     drawn: false
     _id: sRgHiHl7d3sxL74G
-    img: systems/dnd5e/tokens/construct/StoneGolem.webp
+    img: systems/las-torres-malditas/tokens/construct/StoneGolem.webp
     flags: {}
     _stats:
       coreVersion: '13.344'

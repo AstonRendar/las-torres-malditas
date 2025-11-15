@@ -18,7 +18,7 @@ export default class SubclassFlow extends AdvancementFlow {
   static get defaultOptions() {
     return foundry.utils.mergeObject(super.defaultOptions, {
       dragDrop: [{ dropSelector: "form" }],
-      template: "systems/dnd5e/templates/advancement/subclass-flow.hbs"
+      template: "systems/las-torres-malditas/templates/advancement/subclass-flow.hbs"
     });
   }
 

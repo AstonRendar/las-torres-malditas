@@ -263,7 +263,7 @@ system:
   mastery: nick
 effects:
   - name: Poisoned
-    img: systems/dnd5e/icons/svg/statuses/poisoned.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/poisoned.svg
     origin: Compendium.dnd5e.equipment24.Item.dmgDaggerOfVenom
     transfer: false
     _id: zM8Qfv5u9OCNUrhE

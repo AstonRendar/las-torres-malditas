@@ -146,7 +146,7 @@ system:
 effects:
   - type: enchantment
     name: Holy Avenger
-    img: systems/dnd5e/icons/spell-tiers/spell5.webp
+    img: systems/las-torres-malditas/icons/spell-tiers/spell5.webp
     disabled: true
     _id: I7Iwl7awPq2wftoF
     system: {}

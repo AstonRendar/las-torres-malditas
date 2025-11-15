@@ -780,7 +780,7 @@ items:
             name: ''
             formula: ''
           name: Expend Use
-          img: systems/dnd5e/icons/svg/monster.svg
+          img: systems/las-torres-malditas/icons/svg/monster.svg
       uses:
         spent: 0
         recovery: []
@@ -812,7 +812,7 @@ items:
     img: icons/magic/control/silhouette-hold-change-blue.webp
     effects:
       - name: Invisible
-        img: systems/dnd5e/icons/svg/statuses/invisible.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/invisible.svg
         origin: Item.mmVanish00000000
         _id: oY6W5ijpozecYGkq
         type: base
@@ -1025,7 +1025,7 @@ items:
     img: icons/magic/life/cross-area-circle-green-white.webp
     effects:
       - name: 'Failure: Dead'
-        img: systems/dnd5e/icons/svg/statuses/dead.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/dead.svg
         origin: Compendium.dnd-monster-manual.features.Item.mmConsumeLife000
         _id: gCuUMpz0XzscFB4K
         type: base

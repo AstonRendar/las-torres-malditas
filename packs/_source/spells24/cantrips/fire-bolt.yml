@@ -112,7 +112,7 @@ system:
             scaling:
               mode: whole
       name: ''
-      img: systems/dnd5e/icons/svg/damage/force.svg
+      img: systems/las-torres-malditas/icons/svg/damage/force.svg
       appliedEffects: []
   identifier: fire-bolt
 _id: phbsplFireBolt00

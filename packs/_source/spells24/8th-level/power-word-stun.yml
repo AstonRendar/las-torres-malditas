@@ -103,7 +103,7 @@ type: spell
 img: icons/magic/unholy/strike-body-life-soul-purple.webp
 effects:
   - name: Stunned
-    img: systems/dnd5e/icons/svg/statuses/stunned.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/stunned.svg
     origin: Compendium.dnd5e.spells24.Item.phbsplPowerWordS
     transfer: false
     _id: o7XJceFSBTiIIPFo

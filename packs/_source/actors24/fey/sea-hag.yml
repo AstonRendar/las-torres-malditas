@@ -1077,7 +1077,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmSeaHag00000000.Item.mmCovenMagic0000.Activity.8ju3sHk7cBC4KmcD
         changes:
@@ -1293,7 +1293,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmSeaHag00000000.Item.mmCovenMagic0000.Activity.tFMa0R3ASrW58hwK
         changes:
@@ -1454,7 +1454,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmSeaHag00000000.Item.mmCovenMagic0000.Activity.vT617J2KBufcrx7f
         changes:
@@ -1620,7 +1620,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmSeaHag00000000.Item.mmCovenMagic0000.Activity.N6ny9K2f4ckcSvXq
         changes:
@@ -2228,7 +2228,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmSeaHag00000000.Item.mmCovenMagic0000.Activity.1LYa3YdeNryXGv4z
         changes:
@@ -2420,7 +2420,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmSeaHag00000000.Item.mmCovenMagic0000.Activity.IsLR26jWhhHrcdgh
         changes:
@@ -2578,7 +2578,7 @@ items:
     img: icons/magic/control/fear-fright-monster-purple-blue.webp
     effects:
       - name: Frightened
-        img: systems/dnd5e/icons/svg/statuses/frightened.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/frightened.svg
         origin: Compendium.dnd-monster-manual.features.Item.mmVileAppearance
         _id: CiH2KTuvmdGmuz20
         type: base
@@ -3145,7 +3145,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmSeaHag00000000.Item.mmIllusoryAppear.Activity.qY8e7Xm7QYQDXqsd
         changes:

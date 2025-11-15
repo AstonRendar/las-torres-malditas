@@ -244,7 +244,7 @@ system:
         visible: false
         name: ''
         formula: ''
-      img: systems/dnd5e/icons/svg/trait-damage-immunities.svg
+      img: systems/las-torres-malditas/icons/svg/trait-damage-immunities.svg
   enchant: {}
   identifier: channel-divinity-cleric
 effects:

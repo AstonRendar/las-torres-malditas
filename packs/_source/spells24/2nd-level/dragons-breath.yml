@@ -165,7 +165,7 @@ system:
         dc:
           calculation: spellcasting
           formula: ''
-      img: systems/dnd5e/icons/svg/statuses/concentrating.svg
+      img: systems/las-torres-malditas/icons/svg/statuses/concentrating.svg
       appliedEffects: []
   identifier: dragons-breath
 _id: phbsplDragonsBre

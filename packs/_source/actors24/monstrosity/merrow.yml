@@ -650,7 +650,7 @@ items:
             visible: false
             name: ''
             formula: ''
-          img: systems/dnd5e/icons/svg/monster.svg
+          img: systems/las-torres-malditas/icons/svg/monster.svg
       uses:
         spent: 0
         recovery: []
@@ -841,7 +841,7 @@ items:
     img: icons/creatures/abilities/fangs-teeth-bite.webp
     effects:
       - name: Poisoned
-        img: systems/dnd5e/icons/svg/statuses/poisoned.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/poisoned.svg
         origin: Compendium.dnd5e.actors24.Actor.mmMerrow00000000.Item.mmBite0000000000
         _id: AvXElHfuQ1EFMV9n
         type: base

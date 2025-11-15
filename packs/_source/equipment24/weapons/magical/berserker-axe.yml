@@ -201,7 +201,7 @@ effects:
     _key: '!items.effects!dmgBerserkerAxe0.7W0LDyDY0mcAVS1J'
   - type: enchantment
     name: Berserker Axe
-    img: systems/dnd5e/icons/spell-tiers/spell3.webp
+    img: systems/las-torres-malditas/icons/spell-tiers/spell3.webp
     disabled: true
     _id: J4bEaPvFwAGKSrPm
     system: {}

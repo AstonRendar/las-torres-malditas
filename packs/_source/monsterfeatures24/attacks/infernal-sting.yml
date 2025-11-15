@@ -142,7 +142,7 @@ folder: pSCWWdqMX9eUATRJ
 img: icons/commodities/biological/stinger-insect-brown.webp
 effects:
   - name: Poisoned
-    img: systems/dnd5e/icons/svg/statuses/poisoned.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/poisoned.svg
     origin: Compendium.dnd5e.monsterfeatures24.Item.mmInfernalSting0
     _id: 96f41YwmHtjW8P0o
     type: base

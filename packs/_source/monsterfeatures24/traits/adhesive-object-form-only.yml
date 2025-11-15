@@ -52,7 +52,7 @@ system:
         name: ''
         formula: ''
       name: Expend Use
-      img: systems/dnd5e/icons/svg/monster.svg
+      img: systems/las-torres-malditas/icons/svg/monster.svg
       appliedEffects:
         - PTmNYKeeD3d7EbJn
     0zW8JOKL5c3Wqpdu:
@@ -129,7 +129,7 @@ folder: L9Zgr8qAPc3ngKhb
 img: icons/creatures/slimes/slime-movement-pseudopods-blue.webp
 effects:
   - name: Grappled
-    img: systems/dnd5e/icons/svg/statuses/grappled.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/grappled.svg
     origin: Compendium.dnd5e.monsterfeatures24.Item.mmAdhesive000000
     _id: PTmNYKeeD3d7EbJn
     type: base

@@ -1224,7 +1224,7 @@ items:
       mastery: ''
     effects:
       - name: Prone
-        img: systems/dnd5e/icons/svg/statuses/prone.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/prone.svg
         origin: Compendium.dnd5e.monsters.Actor.fsPruAIDOg4tVrgb.Item.GrUneCbXCYngdpjf
         transfer: false
         _id: e0KniuDngw2shi5N

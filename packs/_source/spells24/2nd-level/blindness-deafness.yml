@@ -114,7 +114,7 @@ effects:
       startTurn: null
     disabled: false
     flags: {}
-    img: systems/dnd5e/icons/svg/statuses/blinded.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/blinded.svg
     _id: MIYqFloILx3luzwc
     type: base
     system: {}
@@ -150,7 +150,7 @@ effects:
       startTurn: null
     disabled: false
     flags: {}
-    img: systems/dnd5e/icons/svg/statuses/deafened.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/deafened.svg
     type: base
     system: {}
     changes: []

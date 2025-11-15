@@ -88,7 +88,7 @@ system:
   identifier: superior-defense
 effects:
   - name: Superior Defense
-    img: systems/dnd5e/icons/svg/items/feature.svg
+    img: systems/las-torres-malditas/icons/svg/items/feature.svg
     origin: Compendium.dnd5e.classes24.Item.phbmnkSuperiorDe
     transfer: false
     _id: zAtnsWRpAcTIkjpz

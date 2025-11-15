@@ -52,7 +52,7 @@ system:
         name: ''
         formula: ''
       name: Expend Use
-      img: systems/dnd5e/icons/svg/monster.svg
+      img: systems/las-torres-malditas/icons/svg/monster.svg
   uses:
     spent: 0
     recovery: []
@@ -75,7 +75,7 @@ folder: 4T18pEvubPMQLzvD
 img: icons/magic/control/silhouette-hold-change-green.webp
 effects:
   - name: Hide
-    img: systems/dnd5e/icons/svg/statuses/hiding.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/hiding.svg
     origin: Item.mmShadowStealth0
     _id: siHMgi75fxHCESex
     type: base

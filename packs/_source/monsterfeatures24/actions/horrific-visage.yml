@@ -101,7 +101,7 @@ folder: 4T18pEvubPMQLzvD
 img: icons/magic/death/skull-energy-light-purple.webp
 effects:
   - name: Frightened
-    img: systems/dnd5e/icons/svg/statuses/frightened.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/frightened.svg
     origin: Item.mmHorrificVisage
     _id: lx2ebHyyyaaWf8s1
     type: base

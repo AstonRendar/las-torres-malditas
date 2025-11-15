@@ -141,7 +141,7 @@ folder: pSCWWdqMX9eUATRJ
 img: icons/magic/unholy/hand-claw-fire-blue.webp
 effects:
   - name: Cursed
-    img: systems/dnd5e/icons/svg/statuses/cursed.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/cursed.svg
     origin: Compendium.dnd5e.monsterfeatures24.Item.mmCursedTouch000
     _id: Bl2zQN1xGAUjeiR1
     type: base

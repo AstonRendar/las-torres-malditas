@@ -111,7 +111,7 @@ system:
         max: ''
       sort: 0
       name: Inspire
-      img: systems/dnd5e/icons/svg/damage/psychic.svg
+      img: systems/las-torres-malditas/icons/svg/damage/psychic.svg
   enchant: {}
   identifier: bardic-inspiration
 effects:

@@ -308,7 +308,7 @@ type: spell
 img: icons/magic/defensive/barrier-shield-dome-blue-purple.webp
 effects:
   - name: Prismatic Blinding
-    img: systems/dnd5e/icons/svg/statuses/blinded.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/blinded.svg
     origin: Compendium.dnd5e.spells24.Item.phbsplPrismaticW
     transfer: false
     _id: iuIlP2Br3aHDUjai
@@ -344,7 +344,7 @@ effects:
       exportSource: null
     _key: '!items.effects!phbsplPrismaticW.iuIlP2Br3aHDUjai'
   - name: Restrained (Indigo)
-    img: systems/dnd5e/icons/svg/statuses/restrained.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/restrained.svg
     origin: Compendium.dnd5e.spells24.Item.phbsplPrismaticW
     transfer: false
     _id: CbAuJQPoOViKebWs
@@ -385,7 +385,7 @@ effects:
       exportSource: null
     _key: '!items.effects!phbsplPrismaticW.CbAuJQPoOViKebWs'
   - name: Blinded (Violet)
-    img: systems/dnd5e/icons/svg/statuses/blinded.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/blinded.svg
     origin: Compendium.dnd5e.spells24.Item.phbsplPrismaticW
     transfer: false
     _id: EIaFpuWAfQKSkFyp

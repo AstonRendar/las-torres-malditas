@@ -664,8 +664,8 @@ export default class ActiveEffect5e extends ActiveEffect {
     helpIconElement.classList.add("fa-solid", "fa-circle-question");
     const tooltipText = game.i18n.format("DND5E.ACTIVEEFFECT.AttributeKeyTooltip", {
       url: app.document.type === "enchantment"
-        ? "https://github.com/foundryvtt/dnd5e/wiki/Enchantment"
-        : "https://github.com/foundryvtt/dnd5e/wiki/Active-Effect-Guide"
+        ? "https://github.com/AstonRendar/las-torres-malditas/wiki/Enchantment"
+        : "https://github.com/AstonRendar/las-torres-malditas/wiki/Active-Effect-Guide"
     });
     Object.assign(helpIconElement.dataset, { tooltip: tooltipText, tooltipDirection: "RIGHT", locked: "" });
     const targetElement = html.querySelector("section:is([data-tab='effects'], [data-tab='changes']) .key");
@@ -856,7 +856,7 @@ export default class ActiveEffect5e extends ActiveEffect {
 
     return {
       content: await foundry.applications.handlebars.renderTemplate(
-        "systems/dnd5e/templates/effects/parts/effect-tooltip.hbs", {
+        "systems/las-torres-malditas/templates/effects/parts/effect-tooltip.hbs", {
           effect: this,
           description: await TextEditor.enrichHTML(this.description ?? "", { relativeTo: this, ...enrichmentOptions }),
           durationParts: this.duration.remaining ? this.duration.label.split(", ") : [],

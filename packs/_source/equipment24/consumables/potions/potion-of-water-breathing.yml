@@ -112,7 +112,7 @@ system:
     - mgc
 effects:
   - name: Water Breather
-    img: systems/dnd5e/icons/items/potion-of-water-breathing.webp
+    img: systems/las-torres-malditas/icons/items/potion-of-water-breathing.webp
     origin: Compendium.dnd5e.equipment24.Item.dmgPotionOfWater
     transfer: false
     _id: FuzyfcWOcC3IXsDB

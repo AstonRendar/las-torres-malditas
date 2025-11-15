@@ -100,7 +100,7 @@ system:
         visible: false
         name: ''
         formula: ''
-      img: systems/dnd5e/icons/svg/activity/save.svg
+      img: systems/las-torres-malditas/icons/svg/activity/save.svg
     OpTVpSocFQtVBROc:
       type: utility
       name: Write Name
@@ -151,7 +151,7 @@ system:
         visible: false
         name: ''
         formula: ''
-      img: systems/dnd5e/icons/svg/trait.svg
+      img: systems/las-torres-malditas/icons/svg/trait.svg
     cRjGFIPOcDcUcsjl:
       type: utility
       name: Erase Name
@@ -202,7 +202,7 @@ system:
         visible: false
         name: ''
         formula: ''
-      img: systems/dnd5e/icons/svg/trait-languages.svg
+      img: systems/las-torres-malditas/icons/svg/trait-languages.svg
   enchant: {}
   identifier: gift-of-the-protectors
 effects: []

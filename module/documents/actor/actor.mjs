@@ -1045,7 +1045,7 @@ export default class Actor5e extends SystemDocumentMixin(Actor) {
 
     return ChatMessage.implementation.create({
       content: await foundry.applications.handlebars.renderTemplate(
-        "systems/dnd5e/templates/chat/roll-request-card.hbs",
+        "systems/las-torres-malditas/templates/chat/roll-request-card.hbs",
         {
           buttons: [{
             dataset: { ...dataset, type: "concentration", visbility: "all" },

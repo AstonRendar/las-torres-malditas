@@ -1018,7 +1018,7 @@ items:
             visible: false
             name: ''
             formula: ''
-          img: systems/dnd5e/icons/svg/monster.svg
+          img: systems/las-torres-malditas/icons/svg/monster.svg
       uses:
         spent: 0
         recovery: []
@@ -1181,7 +1181,7 @@ items:
     img: icons/magic/earth/projectile-stone-landslide.webp
     effects:
       - name: Prone
-        img: systems/dnd5e/icons/svg/statuses/prone.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/prone.svg
         origin: Item.mmTramplingCharg
         _id: OY3B1NBPgGcFmHGi
         type: base

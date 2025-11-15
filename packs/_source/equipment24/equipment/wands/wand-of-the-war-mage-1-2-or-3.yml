@@ -161,7 +161,7 @@ system:
     reach: null
 effects:
   - name: War Mage +1
-    img: systems/dnd5e/icons/items/wand-of-the-war-mage.webp
+    img: systems/las-torres-malditas/icons/items/wand-of-the-war-mage.webp
     _id: 7Pcy0FgaAr30JUBV
     type: base
     system: {}
@@ -202,7 +202,7 @@ effects:
       exportSource: null
     _key: '!items.effects!dmg1WandOfTheWar.7Pcy0FgaAr30JUBV'
   - name: War Mage +2
-    img: systems/dnd5e/icons/items/wand-of-the-war-mage.webp
+    img: systems/las-torres-malditas/icons/items/wand-of-the-war-mage.webp
     _id: MFwYWOar805EHkdX
     type: base
     system: {}
@@ -244,7 +244,7 @@ effects:
       exportSource: null
     _key: '!items.effects!dmg1WandOfTheWar.MFwYWOar805EHkdX'
   - name: War Mage +3
-    img: systems/dnd5e/icons/items/wand-of-the-war-mage.webp
+    img: systems/las-torres-malditas/icons/items/wand-of-the-war-mage.webp
     _id: 5Z35lVoEDct7Ivx2
     type: base
     system: {}
@@ -287,7 +287,7 @@ effects:
     _key: '!items.effects!dmg1WandOfTheWar.5Z35lVoEDct7Ivx2'
   - type: enchantment
     name: Wand of the War Mage, +1
-    img: systems/dnd5e/icons/spell-tiers/spell2.webp
+    img: systems/las-torres-malditas/icons/spell-tiers/spell2.webp
     disabled: true
     _id: UaQkN55ZMKSt9LGT
     system: {}
@@ -354,7 +354,7 @@ effects:
     _key: '!items.effects!dmg1WandOfTheWar.UaQkN55ZMKSt9LGT'
   - type: enchantment
     name: Wand of the War Mage, +2
-    img: systems/dnd5e/icons/spell-tiers/spell3.webp
+    img: systems/las-torres-malditas/icons/spell-tiers/spell3.webp
     disabled: true
     system: {}
     changes:
@@ -421,7 +421,7 @@ effects:
     _key: '!items.effects!dmg1WandOfTheWar.jqNFw2MJ4B1HG257'
   - type: enchantment
     name: Wand of the War Mage, +3
-    img: systems/dnd5e/icons/spell-tiers/spell4.webp
+    img: systems/las-torres-malditas/icons/spell-tiers/spell4.webp
     disabled: true
     system: {}
     changes:

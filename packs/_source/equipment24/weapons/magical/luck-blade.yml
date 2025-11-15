@@ -116,7 +116,7 @@ system:
         visible: false
         name: Roll D20
         formula: 1d20
-      img: systems/dnd5e/icons/svg/scale-value.svg
+      img: systems/las-torres-malditas/icons/svg/scale-value.svg
       appliedEffects: []
     9qgEdXDrdcn9Hw9W:
       type: cast
@@ -268,7 +268,7 @@ system:
 effects:
   - type: enchantment
     name: Luck Blade
-    img: systems/dnd5e/icons/spell-tiers/spell5.webp
+    img: systems/las-torres-malditas/icons/spell-tiers/spell5.webp
     disabled: true
     _id: 3hRQ0o8Q1nmj5WwB
     system: {}

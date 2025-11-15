@@ -1064,7 +1064,7 @@ items:
     img: icons/creatures/tentacles/tentacles-octopus-black-pink.webp
     effects:
       - name: Grappled
-        img: systems/dnd5e/icons/svg/statuses/grappled.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/grappled.svg
         origin: Compendium.dnd-monster-manual.features.Item.mmTentacle000000
         transfer: false
         _id: KxcWsIHohpNmagLJ
@@ -1226,7 +1226,7 @@ items:
     img: icons/creatures/tentacles/tentacles-thing-green.webp
     effects:
       - name: Stunned
-        img: systems/dnd5e/icons/svg/statuses/stunned.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/stunned.svg
         origin: Item.mmTentacleSlam00
         _id: CdqwzfboHBLC0vIk
         type: base

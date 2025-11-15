@@ -125,7 +125,7 @@ type: spell
 img: icons/magic/holy/projectiles-blades-salvo-yellow.webp
 effects:
   - name: Death
-    img: systems/dnd5e/icons/svg/statuses/dead.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/dead.svg
     origin: Compendium.dnd5e.spells24.Item.phbsplDivineWord
     transfer: false
     _id: poB090Yp3gKXXcMH
@@ -159,7 +159,7 @@ effects:
       exportSource: null
     _key: '!items.effects!phbsplDivineWord.poB090Yp3gKXXcMH'
   - name: Blinded, Deafened, Stunned
-    img: systems/dnd5e/icons/svg/statuses/stunned.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/stunned.svg
     origin: Compendium.dnd5e.spells24.Item.phbsplDivineWord
     transfer: false
     _id: grWj3oo8iH8egvi1
@@ -195,7 +195,7 @@ effects:
       exportSource: null
     _key: '!items.effects!phbsplDivineWord.grWj3oo8iH8egvi1'
   - name: Blinded, Deafened
-    img: systems/dnd5e/icons/svg/statuses/blinded.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/blinded.svg
     origin: Compendium.dnd5e.spells24.Item.phbsplDivineWord
     transfer: false
     _id: 8O8KymREuOZFi45g
@@ -228,7 +228,7 @@ effects:
       exportSource: null
     _key: '!items.effects!phbsplDivineWord.8O8KymREuOZFi45g'
   - name: Deafened
-    img: systems/dnd5e/icons/svg/statuses/deafened.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/deafened.svg
     origin: Compendium.dnd5e.spells24.Item.phbsplDivineWord
     transfer: false
     _id: qZvAfjU2H6Fg6y6M

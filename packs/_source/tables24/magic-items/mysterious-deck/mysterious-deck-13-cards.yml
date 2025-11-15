@@ -9,7 +9,7 @@ results:
       - 1
       - 8
     drawn: false
-    img: systems/dnd5e/icons/svg/items/consumable.svg
+    img: systems/las-torres-malditas/icons/svg/items/consumable.svg
     _id: v5WZsl3D7AcVp8kv
     flags: {}
     _stats:
@@ -32,7 +32,7 @@ results:
       - 9
       - 16
     drawn: false
-    img: systems/dnd5e/icons/svg/items/consumable.svg
+    img: systems/las-torres-malditas/icons/svg/items/consumable.svg
     _id: imEKznlZEE0rSsLx
     flags: {}
     _stats:
@@ -55,7 +55,7 @@ results:
       - 17
       - 24
     drawn: false
-    img: systems/dnd5e/icons/svg/items/consumable.svg
+    img: systems/las-torres-malditas/icons/svg/items/consumable.svg
     _id: Tzf8H1DJyFsmBqaN
     flags: {}
     _stats:
@@ -78,7 +78,7 @@ results:
       - 25
       - 32
     drawn: false
-    img: systems/dnd5e/icons/svg/items/consumable.svg
+    img: systems/las-torres-malditas/icons/svg/items/consumable.svg
     _id: AEVEm8pwZd8HZEaf
     flags: {}
     _stats:
@@ -101,7 +101,7 @@ results:
       - 33
       - 40
     drawn: false
-    img: systems/dnd5e/icons/svg/items/consumable.svg
+    img: systems/las-torres-malditas/icons/svg/items/consumable.svg
     _id: H6PRkRifUyITp5Ph
     flags: {}
     _stats:
@@ -124,7 +124,7 @@ results:
       - 41
       - 48
     drawn: false
-    img: systems/dnd5e/icons/svg/items/consumable.svg
+    img: systems/las-torres-malditas/icons/svg/items/consumable.svg
     _id: q7k0kww4KOcCQh8Z
     flags: {}
     _stats:
@@ -147,7 +147,7 @@ results:
       - 49
       - 56
     drawn: false
-    img: systems/dnd5e/icons/svg/items/consumable.svg
+    img: systems/las-torres-malditas/icons/svg/items/consumable.svg
     _id: 7h9jMXFIxBKzjivk
     flags: {}
     _stats:
@@ -170,7 +170,7 @@ results:
       - 57
       - 64
     drawn: false
-    img: systems/dnd5e/icons/svg/items/consumable.svg
+    img: systems/las-torres-malditas/icons/svg/items/consumable.svg
     _id: EiuOGVBwrd5dzY1O
     flags: {}
     _stats:
@@ -193,7 +193,7 @@ results:
       - 65
       - 72
     drawn: false
-    img: systems/dnd5e/icons/svg/items/consumable.svg
+    img: systems/las-torres-malditas/icons/svg/items/consumable.svg
     _id: sT9ULq3ZPnBuh0AY
     flags: {}
     _stats:
@@ -216,7 +216,7 @@ results:
       - 73
       - 80
     drawn: false
-    img: systems/dnd5e/icons/svg/items/consumable.svg
+    img: systems/las-torres-malditas/icons/svg/items/consumable.svg
     _id: ckQqX5zhGyji2SBo
     flags: {}
     _stats:
@@ -239,7 +239,7 @@ results:
       - 81
       - 88
     drawn: false
-    img: systems/dnd5e/icons/svg/items/consumable.svg
+    img: systems/las-torres-malditas/icons/svg/items/consumable.svg
     _id: XoGa3OMCvqVJ1iUS
     flags: {}
     _stats:
@@ -262,7 +262,7 @@ results:
       - 89
       - 96
     drawn: false
-    img: systems/dnd5e/icons/svg/items/consumable.svg
+    img: systems/las-torres-malditas/icons/svg/items/consumable.svg
     _id: oRpNqb5LQrTBwcdV
     flags: {}
     _stats:
@@ -285,7 +285,7 @@ results:
       - 97
       - 100
     drawn: false
-    img: systems/dnd5e/icons/svg/items/consumable.svg
+    img: systems/las-torres-malditas/icons/svg/items/consumable.svg
     _id: xzCuVY29JwIHHgbB
     flags: {}
     _stats:

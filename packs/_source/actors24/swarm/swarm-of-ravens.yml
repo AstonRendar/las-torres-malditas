@@ -927,7 +927,7 @@ items:
     img: icons/magic/sonic/projectile-sound-rings-wave.webp
     effects:
       - name: Deafened and Disadvantaged
-        img: systems/dnd5e/icons/svg/statuses/deafened.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/deafened.svg
         origin: Compendium.dnd-monster-manual.features.Item.mmCacophony00000
         transfer: false
         _id: 5cNk7YVIesN5RiIh

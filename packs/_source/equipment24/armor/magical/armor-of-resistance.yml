@@ -212,7 +212,7 @@ system:
 effects:
   - type: enchantment
     name: Armor of Acid Resistance
-    img: systems/dnd5e/icons/spell-tiers/spell3.webp
+    img: systems/las-torres-malditas/icons/spell-tiers/spell3.webp
     disabled: true
     _id: YreDFSu9z9mGCWt1
     system: {}
@@ -275,7 +275,7 @@ effects:
     _key: '!items.effects!dmgArmorOfResist.YreDFSu9z9mGCWt1'
   - type: enchantment
     name: Armor of Cold Resistance
-    img: systems/dnd5e/icons/spell-tiers/spell3.webp
+    img: systems/las-torres-malditas/icons/spell-tiers/spell3.webp
     disabled: true
     system: {}
     changes:
@@ -338,7 +338,7 @@ effects:
     _key: '!items.effects!dmgArmorOfResist.LTByr2rsRPBLLOA0'
   - type: enchantment
     name: Armor of Fire Resistance
-    img: systems/dnd5e/icons/spell-tiers/spell3.webp
+    img: systems/las-torres-malditas/icons/spell-tiers/spell3.webp
     disabled: true
     system: {}
     changes:
@@ -401,7 +401,7 @@ effects:
     _key: '!items.effects!dmgArmorOfResist.MqubvD3XEwB7DRST'
   - type: enchantment
     name: Armor of Force Resistance
-    img: systems/dnd5e/icons/spell-tiers/spell3.webp
+    img: systems/las-torres-malditas/icons/spell-tiers/spell3.webp
     disabled: true
     system: {}
     changes:
@@ -464,7 +464,7 @@ effects:
     _key: '!items.effects!dmgArmorOfResist.lsPKUk288Jkvahsp'
   - type: enchantment
     name: Armor of Lightning Resistance
-    img: systems/dnd5e/icons/spell-tiers/spell3.webp
+    img: systems/las-torres-malditas/icons/spell-tiers/spell3.webp
     disabled: true
     system: {}
     changes:
@@ -527,7 +527,7 @@ effects:
     _key: '!items.effects!dmgArmorOfResist.18IZ8X8zpDXyN33T'
   - type: enchantment
     name: Armor of Necrotic Resistance
-    img: systems/dnd5e/icons/spell-tiers/spell3.webp
+    img: systems/las-torres-malditas/icons/spell-tiers/spell3.webp
     disabled: true
     system: {}
     changes:
@@ -590,7 +590,7 @@ effects:
     _key: '!items.effects!dmgArmorOfResist.CfxFdUSiXkOUXym6'
   - type: enchantment
     name: Armor of Poison Resistance
-    img: systems/dnd5e/icons/spell-tiers/spell3.webp
+    img: systems/las-torres-malditas/icons/spell-tiers/spell3.webp
     disabled: true
     system: {}
     changes:
@@ -653,7 +653,7 @@ effects:
     _key: '!items.effects!dmgArmorOfResist.VST1qNRu1dHDzkD2'
   - type: enchantment
     name: Armor of Psychic Resistance
-    img: systems/dnd5e/icons/spell-tiers/spell3.webp
+    img: systems/las-torres-malditas/icons/spell-tiers/spell3.webp
     disabled: true
     system: {}
     changes:
@@ -716,7 +716,7 @@ effects:
     _key: '!items.effects!dmgArmorOfResist.mmp5O2pZOxJUc2vq'
   - type: enchantment
     name: Armor of Radiant Resistance
-    img: systems/dnd5e/icons/spell-tiers/spell3.webp
+    img: systems/las-torres-malditas/icons/spell-tiers/spell3.webp
     disabled: true
     system: {}
     changes:
@@ -779,7 +779,7 @@ effects:
     _key: '!items.effects!dmgArmorOfResist.jyWNVNHLYdxvCOQz'
   - type: enchantment
     name: Armor of Thunder Resistance
-    img: systems/dnd5e/icons/spell-tiers/spell3.webp
+    img: systems/las-torres-malditas/icons/spell-tiers/spell3.webp
     disabled: true
     system: {}
     changes:
@@ -841,7 +841,7 @@ effects:
     _id: cbsuJ2tdbBuT5e8U
     _key: '!items.effects!dmgArmorOfResist.cbsuJ2tdbBuT5e8U'
   - name: Acid Resistance
-    img: systems/dnd5e/icons/svg/damage/acid.svg
+    img: systems/las-torres-malditas/icons/svg/damage/acid.svg
     _id: YP420EGhAHmNVa8w
     type: base
     system: {}
@@ -878,7 +878,7 @@ effects:
       exportSource: null
     _key: '!items.effects!dmgArmorOfResist.YP420EGhAHmNVa8w'
   - name: Cold Resistance
-    img: systems/dnd5e/icons/svg/damage/cold.svg
+    img: systems/las-torres-malditas/icons/svg/damage/cold.svg
     type: base
     system: {}
     changes:
@@ -915,7 +915,7 @@ effects:
     _id: ACmdUQgMzhh6BiJs
     _key: '!items.effects!dmgArmorOfResist.ACmdUQgMzhh6BiJs'
   - name: Fire Resistance
-    img: systems/dnd5e/icons/svg/damage/fire.svg
+    img: systems/las-torres-malditas/icons/svg/damage/fire.svg
     type: base
     system: {}
     changes:
@@ -952,7 +952,7 @@ effects:
     _id: Lakck2k6LIxzlncZ
     _key: '!items.effects!dmgArmorOfResist.Lakck2k6LIxzlncZ'
   - name: Force Resistance
-    img: systems/dnd5e/icons/svg/damage/force.svg
+    img: systems/las-torres-malditas/icons/svg/damage/force.svg
     type: base
     system: {}
     changes:
@@ -989,7 +989,7 @@ effects:
     _id: nP2MPjGkjwc2qoa7
     _key: '!items.effects!dmgArmorOfResist.nP2MPjGkjwc2qoa7'
   - name: Lightning Resistance
-    img: systems/dnd5e/icons/svg/damage/lightning.svg
+    img: systems/las-torres-malditas/icons/svg/damage/lightning.svg
     type: base
     system: {}
     changes:
@@ -1026,7 +1026,7 @@ effects:
     _id: MHtyWzlMMBeUoFnz
     _key: '!items.effects!dmgArmorOfResist.MHtyWzlMMBeUoFnz'
   - name: Necrotic Resistance
-    img: systems/dnd5e/icons/svg/damage/necrotic.svg
+    img: systems/las-torres-malditas/icons/svg/damage/necrotic.svg
     type: base
     system: {}
     changes:
@@ -1063,7 +1063,7 @@ effects:
     _id: OVh17qutRZ4vceWw
     _key: '!items.effects!dmgArmorOfResist.OVh17qutRZ4vceWw'
   - name: Poison Resistance
-    img: systems/dnd5e/icons/svg/damage/necrotic.svg
+    img: systems/las-torres-malditas/icons/svg/damage/necrotic.svg
     type: base
     system: {}
     changes:
@@ -1100,7 +1100,7 @@ effects:
     _id: R2WuyXjV8Z8E0wKu
     _key: '!items.effects!dmgArmorOfResist.R2WuyXjV8Z8E0wKu'
   - name: Radiant Resistance
-    img: systems/dnd5e/icons/svg/damage/radiant.svg
+    img: systems/las-torres-malditas/icons/svg/damage/radiant.svg
     type: base
     system: {}
     changes:
@@ -1137,7 +1137,7 @@ effects:
     _id: MOoO1WhULDcQtooN
     _key: '!items.effects!dmgArmorOfResist.MOoO1WhULDcQtooN'
   - name: Psychic Resistance
-    img: systems/dnd5e/icons/svg/damage/psychic.svg
+    img: systems/las-torres-malditas/icons/svg/damage/psychic.svg
     type: base
     system: {}
     changes:
@@ -1174,7 +1174,7 @@ effects:
     _id: meu3jAB2SZjKZrUC
     _key: '!items.effects!dmgArmorOfResist.meu3jAB2SZjKZrUC'
   - name: Thunder Resistance
-    img: systems/dnd5e/icons/svg/damage/thunder.svg
+    img: systems/las-torres-malditas/icons/svg/damage/thunder.svg
     type: base
     system: {}
     changes:

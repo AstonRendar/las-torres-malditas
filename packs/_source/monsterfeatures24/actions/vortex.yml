@@ -209,7 +209,7 @@ folder: 4T18pEvubPMQLzvD
 img: icons/magic/air/wind-vortex-swirl-blue.webp
 effects:
   - name: Grappled
-    img: systems/dnd5e/icons/svg/statuses/grappled.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/grappled.svg
     origin: Item.mmVortex00000000
     _id: fWPQye4Mr7VNbX9J
     type: base

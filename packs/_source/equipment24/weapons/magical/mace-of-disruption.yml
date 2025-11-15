@@ -204,7 +204,7 @@ system:
   mastery: sap
 effects:
   - name: Frightened
-    img: systems/dnd5e/icons/svg/statuses/frightened.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/frightened.svg
     origin: Compendium.dnd5e.equipment24.Item.dmgMaceOfDisrupt
     transfer: false
     _id: Z49QSPjltZ1NT28K

@@ -600,7 +600,7 @@ items:
             visible: false
             name: ''
             formula: ''
-          img: systems/dnd5e/icons/svg/monster.svg
+          img: systems/las-torres-malditas/icons/svg/monster.svg
       uses:
         spent: 0
         recovery: []
@@ -915,7 +915,7 @@ items:
     img: icons/skills/melee/blood-slash-foam-red.webp
     effects:
       - name: Prone
-        img: systems/dnd5e/icons/svg/statuses/prone.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/prone.svg
         origin: Compendium.dnd5e.actors24.Actor.mmBrownBear00000.Item.mmClaw0000000000
         _id: 5q1vcRvzYS3N0DhQ
         type: base

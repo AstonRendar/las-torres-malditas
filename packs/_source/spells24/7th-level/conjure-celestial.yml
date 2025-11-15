@@ -106,7 +106,7 @@ system:
         name: ''
         formula: ''
       name: Conjure Pillar
-      img: systems/dnd5e/icons/svg/damage/radiant.svg
+      img: systems/las-torres-malditas/icons/svg/damage/radiant.svg
       appliedEffects: []
     ke8eykrnAdAq5nfZ:
       type: heal

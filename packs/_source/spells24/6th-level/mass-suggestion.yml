@@ -116,7 +116,7 @@ type: spell
 img: icons/environment/people/charge.webp
 effects:
   - name: Charmed
-    img: systems/dnd5e/icons/svg/statuses/charmed.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/charmed.svg
     origin: Compendium.dnd5e.spells24.Item.phbsplMassSugges
     transfer: false
     _id: kkxX701wci61fEvH

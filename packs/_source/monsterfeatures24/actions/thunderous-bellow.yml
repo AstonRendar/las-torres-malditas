@@ -111,7 +111,7 @@ folder: 4T18pEvubPMQLzvD
 img: icons/magic/sonic/explosion-shock-sound-wave.webp
 effects:
   - name: Deafened & Frightened
-    img: systems/dnd5e/icons/svg/statuses/deafened.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/deafened.svg
     origin: Item.mmThunderousBell
     _id: DDrzXcjt2wWiTS9J
     type: base

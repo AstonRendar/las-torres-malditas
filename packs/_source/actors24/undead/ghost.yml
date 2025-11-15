@@ -1131,13 +1131,13 @@ items:
             name: ''
             formula: ''
           name: Enter Border Ethereal
-          img: systems/dnd5e/icons/svg/trait-saves.svg
+          img: systems/las-torres-malditas/icons/svg/trait-saves.svg
       identifier: etherealness
     type: spell
     img: icons/magic/air/wind-vortex-swirl-purple.webp
     effects:
       - name: Etherealness
-        img: systems/dnd5e/icons/svg/statuses/ethereal.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/ethereal.svg
         origin: Compendium.dnd5e.spells24.Item.phbsplEtherealne
         transfer: false
         _id: louTI4Z9bNUYBa8K
@@ -1174,7 +1174,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmGhost000000000.Item.pB2kBCFQfO3vNHBI.Activity.N5QCNM4uIBjpu6sD
         changes:
@@ -1349,7 +1349,7 @@ items:
     img: icons/magic/death/skull-energy-light-purple.webp
     effects:
       - name: Frightened
-        img: systems/dnd5e/icons/svg/statuses/frightened.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/frightened.svg
         origin: Item.mmHorrificVisage
         _id: lx2ebHyyyaaWf8s1
         type: base
@@ -1515,7 +1515,7 @@ items:
       crewed: false
     effects:
       - name: Incapacitated
-        img: systems/dnd5e/icons/svg/statuses/incapacitated.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/incapacitated.svg
         origin: Item.mmPossession0000
         _id: EeZIaR3X4cI5glMX
         type: base

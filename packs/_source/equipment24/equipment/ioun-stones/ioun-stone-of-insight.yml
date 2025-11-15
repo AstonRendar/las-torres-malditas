@@ -63,7 +63,7 @@ system:
   proficient: null
 effects:
   - name: 'Enhanced Insight: Wisdom Bonus'
-    img: systems/dnd5e/icons/svg/abilities/wisdom.svg
+    img: systems/las-torres-malditas/icons/svg/abilities/wisdom.svg
     _id: 47SuTikkluIDzGhZ
     type: base
     system: {}

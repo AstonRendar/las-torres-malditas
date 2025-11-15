@@ -133,7 +133,7 @@ system:
         name: ''
         formula: ''
       name: Inscribe Glyph
-      img: systems/dnd5e/icons/svg/activity/summon.svg
+      img: systems/las-torres-malditas/icons/svg/activity/summon.svg
       appliedEffects: []
     oCs1sUAtUAQJwxPU:
       type: save
@@ -511,7 +511,7 @@ effects:
       exportSource: null
     _key: '!items.effects!phbsplSymbol0000.YAwLt85sPQpUCIBI'
   - name: Frightened
-    img: systems/dnd5e/icons/svg/statuses/frightened.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/frightened.svg
     origin: Compendium.dnd5e.spells24.Item.phbsplSymbol0000
     transfer: false
     _id: C5k5nGmPclTf9tZn
@@ -547,7 +547,7 @@ effects:
       exportSource: null
     _key: '!items.effects!phbsplSymbol0000.C5k5nGmPclTf9tZn'
   - name: Incapacitated
-    img: systems/dnd5e/icons/svg/statuses/incapacitated.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/incapacitated.svg
     origin: Compendium.dnd5e.spells24.Item.phbsplSymbol0000
     transfer: false
     _id: D8tOj85XIpMRp3Yl
@@ -581,7 +581,7 @@ effects:
       exportSource: null
     _key: '!items.effects!phbsplSymbol0000.D8tOj85XIpMRp3Yl'
   - name: Sleeping
-    img: systems/dnd5e/icons/svg/statuses/unconscious.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/unconscious.svg
     origin: Compendium.dnd5e.spells24.Item.phbsplSymbol0000
     transfer: false
     _id: A1VA7t5gB7ODNsr6
@@ -617,7 +617,7 @@ effects:
       exportSource: null
     _key: '!items.effects!phbsplSymbol0000.A1VA7t5gB7ODNsr6'
   - name: Stunned
-    img: systems/dnd5e/icons/svg/statuses/stunned.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/stunned.svg
     origin: Compendium.dnd5e.spells24.Item.phbsplSymbol0000
     transfer: false
     _id: zZerWADc4a5rGJ9r

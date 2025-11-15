@@ -1261,7 +1261,7 @@ export function createRollLabel(config) {
     switch ( config.type ) {
       case "check":
       case "skill":
-        label = `<i class="dnd5e-icon" data-src="systems/dnd5e/icons/svg/ability-score-improvement.svg"></i>${label}`;
+        label = `<i class="dnd5e-icon" data-src="systems/las-torres-malditas/icons/svg/ability-score-improvement.svg"></i>${label}`;
         break;
       case "tool":
         label = `<i class="fas fa-hammer"></i>${label}`;
@@ -1442,7 +1442,7 @@ async function rollAction(event) {
     const chatData = {
       user: game.user.id,
       content: await foundry.applications.handlebars.renderTemplate(
-        "systems/dnd5e/templates/chat/roll-request-card.hbs", { buttons }
+        "systems/las-torres-malditas/templates/chat/roll-request-card.hbs", { buttons }
       ),
       flavor: game.i18n.localize("EDITOR.DND5E.Inline.RollRequest"),
       speaker: MessageClass.getSpeaker({user: game.user})

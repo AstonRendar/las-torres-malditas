@@ -222,7 +222,7 @@ folder: 4T18pEvubPMQLzvD
 img: icons/creatures/abilities/mouth-teeth-rows-needles-purple.webp
 effects:
   - name: Blinded, Restrained, and Total Cover
-    img: systems/dnd5e/icons/svg/statuses/blinded.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/blinded.svg
     origin: Item.mmSwallow0000000
     _id: VOHv1LyO3hHolZXo
     type: base
@@ -269,7 +269,7 @@ effects:
       exportSource: null
     _key: '!items.effects!mmSwallow0000000.VOHv1LyO3hHolZXo'
   - name: Prone
-    img: systems/dnd5e/icons/svg/statuses/prone.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/prone.svg
     origin: Item.mmSwallow0000000
     _id: aS5FyMP72vn3OKf1
     type: base

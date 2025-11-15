@@ -22,13 +22,13 @@ export default class Bastion {
    * The template for the chat card summary of a bastion attack.
    * @type {string}
    */
-  static ATTACK_TEMPLATE = "systems/dnd5e/templates/chat/bastion-attack-summary.hbs";
+  static ATTACK_TEMPLATE = "systems/las-torres-malditas/templates/chat/bastion-attack-summary.hbs";
 
   /**
    * The template for the chat card summary of a bastion turn.
    * @type {string}
    */
-  static TURN_TEMPLATE = "systems/dnd5e/templates/chat/bastion-turn-summary.hbs";
+  static TURN_TEMPLATE = "systems/las-torres-malditas/templates/chat/bastion-turn-summary.hbs";
 
   /* -------------------------------------------- */
   /*  Public API                                  */
@@ -627,7 +627,7 @@ class BastionAttackDialog extends Dialog5e {
   static PARTS = {
     ...super.PARTS,
     content: {
-      template: "systems/dnd5e/templates/apps/bastion-attack-dialog.hbs"
+      template: "systems/las-torres-malditas/templates/apps/bastion-attack-dialog.hbs"
     }
   };
 

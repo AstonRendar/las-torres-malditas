@@ -197,7 +197,7 @@ folder: L9Zgr8qAPc3ngKhb
 img: icons/commodities/materials/glass-cube.webp
 effects:
   - name: Total Cover
-    img: systems/dnd5e/icons/svg/statuses/cover-total.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/cover-total.svg
     origin: Compendium.dnd5e.monsterfeatures24.Item.mmOozeCube000000
     _id: Nqpxg74Yw9uEVMxQ
     type: base

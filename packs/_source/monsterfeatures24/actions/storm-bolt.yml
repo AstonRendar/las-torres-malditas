@@ -97,7 +97,7 @@ folder: 4T18pEvubPMQLzvD
 img: icons/magic/lightning/bolt-strike-blue.webp
 effects:
   - name: Prone
-    img: systems/dnd5e/icons/svg/statuses/prone.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/prone.svg
     origin: Item.mmStormBolt00000
     _id: UXwZ02kqy96aH3dZ
     type: base

@@ -121,7 +121,7 @@ system:
         name: ''
         formula: ''
       name: Transfer Soul
-      img: systems/dnd5e/icons/svg/ink-pot.svg
+      img: systems/las-torres-malditas/icons/svg/ink-pot.svg
       appliedEffects:
         - JUeiirjbzslhBtNL
     Ak9GmFAQNh9o2ioq:
@@ -176,7 +176,7 @@ system:
           calculation: spellcasting
           formula: ''
       name: Possess Humanoid
-      img: systems/dnd5e/icons/svg/multiclass.svg
+      img: systems/las-torres-malditas/icons/svg/multiclass.svg
       appliedEffects:
         - rgKqVmb0inZoKREu
     lXTy3zj3DwBH2QJc:
@@ -220,7 +220,7 @@ system:
         name: ''
         formula: ''
       name: Return from Host
-      img: systems/dnd5e/icons/svg/trait-saves.svg
+      img: systems/las-torres-malditas/icons/svg/trait-saves.svg
       appliedEffects: []
   identifier: magic-jar
 _id: phbsplMagicJar00

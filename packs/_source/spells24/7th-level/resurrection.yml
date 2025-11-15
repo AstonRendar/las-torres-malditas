@@ -424,7 +424,7 @@ effects:
     _id: xHPAupRPOI8N2VkA
     _key: '!items.effects!phbsplResurrecti.xHPAupRPOI8N2VkA'
   - name: Spell Taxed
-    img: systems/dnd5e/icons/svg/break-concentration.svg
+    img: systems/las-torres-malditas/icons/svg/break-concentration.svg
     origin: Compendium.dnd5e.spells24.Item.phbsplResurrecti
     transfer: false
     _id: gkSKFjp3O7UrdJ2i

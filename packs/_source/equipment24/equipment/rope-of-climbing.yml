@@ -58,7 +58,7 @@ system:
         formula: ''
         name: ''
       _id: JH4C7mTutLBmBJyi
-      img: systems/dnd5e/icons/svg/activity/damage.svg
+      img: systems/las-torres-malditas/icons/svg/activity/damage.svg
       appliedEffects: []
     1zQvPyT12aIg017J:
       type: utility
@@ -113,7 +113,7 @@ system:
         formula: ''
         name: ''
       _id: 1zQvPyT12aIg017J
-      img: systems/dnd5e/icons/svg/activity/heal.svg
+      img: systems/las-torres-malditas/icons/svg/activity/heal.svg
       appliedEffects: []
     0QUTFIBynESqw7XZ:
       type: utility

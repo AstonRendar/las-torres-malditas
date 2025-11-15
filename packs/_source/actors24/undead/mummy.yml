@@ -762,7 +762,7 @@ items:
             name: HP Max Decr.
             formula: 3d6
           name: HP Max Decrease
-          img: systems/dnd5e/icons/svg/hit-points.svg
+          img: systems/las-torres-malditas/icons/svg/hit-points.svg
       uses:
         spent: 0
         recovery: []
@@ -840,7 +840,7 @@ items:
     img: icons/magic/lightning/claws-unarmed-strike-teal.webp
     effects:
       - name: Cursed
-        img: systems/dnd5e/icons/svg/statuses/cursed.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/cursed.svg
         origin: Compendium.dnd5e.actors24.Actor.mmMummy000000000.Item.mmRottingFist000
         _id: t7Anyyhyg6fmTdXw
         type: base
@@ -996,7 +996,7 @@ items:
     img: icons/magic/perception/eye-slit-red-orange.webp
     effects:
       - name: Frightened
-        img: systems/dnd5e/icons/svg/statuses/frightened.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/frightened.svg
         origin: Item.mmDreadfulGlare0
         _id: hRSvOovTSlu4Dw8c
         type: base

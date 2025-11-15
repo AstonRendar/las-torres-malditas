@@ -704,7 +704,7 @@ items:
     img: icons/weapons/axes/axe-battle-black.webp
     effects:
       - name: Prone
-        img: systems/dnd5e/icons/svg/statuses/prone.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/prone.svg
         origin: Compendium.dnd5e.actors24.Actor.mmEttin000000000.Item.2zUJENAN0VZgqxYm
         _id: caDkLzcCdCR8vwlw
         type: base
@@ -1017,7 +1017,7 @@ items:
             visible: false
             name: ''
             formula: ''
-          img: systems/dnd5e/icons/svg/monster.svg
+          img: systems/las-torres-malditas/icons/svg/monster.svg
       uses:
         spent: 0
         recovery: []

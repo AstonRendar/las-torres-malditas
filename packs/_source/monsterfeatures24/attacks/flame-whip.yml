@@ -144,7 +144,7 @@ folder: pSCWWdqMX9eUATRJ
 img: icons/weapons/misc/whip-red-yellow.webp
 effects:
   - name: Prone
-    img: systems/dnd5e/icons/svg/statuses/prone.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/prone.svg
     origin: Compendium.dnd5e.monsterfeatures24.Item.mmFlameWhip00000
     _id: ZjYcf64z7AHBBoj5
     type: base

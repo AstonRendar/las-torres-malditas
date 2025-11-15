@@ -62,7 +62,7 @@ system:
           calculation: con
           formula: 8 + @mod + @prof
       name: Save
-      img: systems/dnd5e/icons/svg/activity/save.svg
+      img: systems/las-torres-malditas/icons/svg/activity/save.svg
       appliedEffects:
         - 6eeusiffMtDU3C3c
   uses:
@@ -97,7 +97,7 @@ folder: aehE0L1ERkzYCvJW
 img: icons/magic/unholy/strike-beam-blood-small-red-purple.webp
 effects:
   - name: Blinded & Poisoned
-    img: systems/dnd5e/icons/svg/statuses/blinded.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/blinded.svg
     origin: Item.mmToxicInk000000
     _id: 6eeusiffMtDU3C3c
     type: base

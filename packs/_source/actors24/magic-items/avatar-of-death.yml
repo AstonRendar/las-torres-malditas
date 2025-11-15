@@ -776,7 +776,7 @@ items:
                   - necrotic
                 scaling:
                   number: 1
-          img: systems/dnd5e/icons/svg/activity/attack.svg
+          img: systems/las-torres-malditas/icons/svg/activity/attack.svg
       uses:
         spent: 0
         recovery: []

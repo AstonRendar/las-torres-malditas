@@ -665,7 +665,7 @@ items:
             name: ''
             formula: ''
           name: Expend Use
-          img: systems/dnd5e/icons/svg/monster.svg
+          img: systems/las-torres-malditas/icons/svg/monster.svg
       uses:
         spent: 0
         recovery: []
@@ -1197,7 +1197,7 @@ items:
     img: icons/creatures/abilities/lion-roar-yellow.webp
     effects:
       - name: Frightened
-        img: systems/dnd5e/icons/svg/statuses/frightened.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/frightened.svg
         origin: Item.mmRoar0000000000
         _id: jcp949sl7JYRdhdB
         type: base
@@ -1243,7 +1243,7 @@ items:
         _key: >-
           !actors.items.effects!mmSphinxOfValor0.mmRoar0000000000.jcp949sl7JYRdhdB
       - name: Paralyzed
-        img: systems/dnd5e/icons/svg/statuses/paralyzed.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/paralyzed.svg
         origin: Item.mmRoar0000000000
         _id: sbId6Nv8mOtH5EKR
         type: base
@@ -1291,7 +1291,7 @@ items:
         _key: >-
           !actors.items.effects!mmSphinxOfValor0.mmRoar0000000000.sbId6Nv8mOtH5EKR
       - name: Prone
-        img: systems/dnd5e/icons/svg/statuses/prone.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/prone.svg
         origin: Item.mmRoar0000000000
         _id: UUPAry5ZunpEnKkn
         type: base
@@ -1907,7 +1907,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmSphinxOfValor0.Item.mmSpellcasting00.Activity.Yxw72ggcyPKMNQRU
         changes:
@@ -2075,7 +2075,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmSphinxOfValor0.Item.mmSpellcasting00.Activity.l2Kdr3BUCvAc7ojk
         changes:
@@ -2278,7 +2278,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmSphinxOfValor0.Item.mmSpellcasting00.Activity.vmb8mCviuAHbyNfZ
         changes:
@@ -2429,7 +2429,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmSphinxOfValor0.Item.mmSpellcasting00.Activity.g9lQhgj4VIe3vAMO
         changes:
@@ -2584,7 +2584,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmSphinxOfValor0.Item.mmSpellcasting00.Activity.VkLfmsonpaJsOHUP
         changes:
@@ -2750,7 +2750,7 @@ items:
             name: ''
             formula: ''
           name: Conjure Feast
-          img: systems/dnd5e/icons/svg/activity/summon.svg
+          img: systems/las-torres-malditas/icons/svg/activity/summon.svg
         6GsLAWV31TuE6ysp:
           type: heal
           _id: 6GsLAWV31TuE6ysp
@@ -2865,7 +2865,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmSphinxOfValor0.Item.mmSpellcasting00.Activity.PrVRghFUMRbF7PZm
         changes:
@@ -3067,7 +3067,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmSphinxOfValor0.Item.mmSpellcasting00.Activity.n2sWjU0kxM0Nsojk
         changes:
@@ -3177,7 +3177,7 @@ items:
             formula: ''
             name: ''
           name: Expend Use
-          img: systems/dnd5e/icons/svg/monster.svg
+          img: systems/las-torres-malditas/icons/svg/monster.svg
           _id: a3RqyzU0UqzLJif0
       uses:
         spent: 0
@@ -3370,7 +3370,7 @@ items:
     img: icons/magic/death/hand-withered-gray.webp
     effects:
       - name: Exhaustion
-        img: systems/dnd5e/icons/svg/statuses/exhaustion.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/exhaustion.svg
         origin: Item.8CIk2r0V5cy5Ggjz
         _id: Bf6DExMyhKyPPV4x
         type: base

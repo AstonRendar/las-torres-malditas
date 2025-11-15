@@ -62,7 +62,7 @@ system:
   proficient: null
 effects:
   - name: Gloves On
-    img: systems/dnd5e/icons/items/gloves-of-thievery.webp
+    img: systems/las-torres-malditas/icons/items/gloves-of-thievery.webp
     _id: Nh870Ujh6Eqy0RFi
     type: base
     system: {}

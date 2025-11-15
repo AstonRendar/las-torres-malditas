@@ -462,7 +462,7 @@ system:
     license: CC-BY-4.0
     book: SRD 5.2
 _id: mmOctopus0000000
-img: systems/dnd5e/tokens/beast/Octopus.webp
+img: systems/las-torres-malditas/tokens/beast/Octopus.webp
 prototypeToken:
   name: Octopus
   displayName: 0
@@ -472,7 +472,7 @@ prototypeToken:
   width: 1
   height: 1
   texture:
-    src: systems/dnd5e/tokens/beast/Octopus.webp
+    src: systems/las-torres-malditas/tokens/beast/Octopus.webp
     anchorX: 0.5
     anchorY: 0.5
     offsetX: 0
@@ -1239,7 +1239,7 @@ items:
     img: icons/creatures/tentacles/tentacles-suctioncups-pink.webp
     effects:
       - name: Grappled
-        img: systems/dnd5e/icons/svg/statuses/grappled.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/grappled.svg
         origin: Compendium.dnd5e.actors24.Actor.mmOctopus0000000.Item.mmTentacles00000
         _id: ALFBGlQz2ndsPVr1
         type: base

@@ -782,7 +782,7 @@ items:
     img: icons/creatures/abilities/fangs-teeth-bite.webp
     effects:
       - name: Grappled & Restrained
-        img: systems/dnd5e/icons/svg/statuses/restrained.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/restrained.svg
         origin: Compendium.dnd5e.actors24.Actor.mmCrocodile00000.Item.mmBite0000000000
         _id: DmAM7moVZNE5wb5i
         type: base

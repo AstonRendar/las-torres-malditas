@@ -122,7 +122,7 @@ type: spell
 img: icons/magic/nature/symbol-sun-yellow.webp
 effects:
   - name: Blinded
-    img: systems/dnd5e/icons/svg/statuses/blinded.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/blinded.svg
     origin: Compendium.dnd5e.spells24.Item.phbsplSunburst00
     transfer: false
     _id: G813GhbtXMeZfUHe

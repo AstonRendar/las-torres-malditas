@@ -52,7 +52,7 @@ system:
         name: ''
         formula: ''
       name: Paralyzed
-      img: systems/dnd5e/icons/svg/statuses/paralyzed.svg
+      img: systems/las-torres-malditas/icons/svg/statuses/paralyzed.svg
       appliedEffects:
         - SGrTBpl938UIe4e3
   uses:
@@ -85,7 +85,7 @@ folder: L9Zgr8qAPc3ngKhb
 img: icons/magic/control/debuff-energy-hold-levitate-blue-yellow.webp
 effects:
   - name: Paralyzed
-    img: systems/dnd5e/icons/svg/statuses/paralyzed.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/paralyzed.svg
     origin: Compendium.dnd5e.monsterfeatures24.Item.mmMistyEscape000
     _id: SGrTBpl938UIe4e3
     type: base

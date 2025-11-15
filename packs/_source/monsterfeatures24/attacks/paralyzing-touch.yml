@@ -133,7 +133,7 @@ folder: pSCWWdqMX9eUATRJ
 img: icons/magic/death/hand-withered-gray.webp
 effects:
   - name: Paralyzed
-    img: systems/dnd5e/icons/svg/statuses/paralyzed.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/paralyzed.svg
     origin: Compendium.dnd5e.monsterfeatures24.Item.mmParalyzingTouc
     _id: XONucKj1fLr03vaU
     type: base

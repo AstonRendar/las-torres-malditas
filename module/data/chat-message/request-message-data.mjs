@@ -52,7 +52,7 @@ export default class RequestMessageData extends ChatMessageDataModel {
     actions: {
       handleRequest: RequestMessageData.#handleRequest
     },
-    template: "systems/dnd5e/templates/chat/request-card.hbs"
+    template: "systems/las-torres-malditas/templates/chat/request-card.hbs"
   }, { inplace: false }));
 
   /* -------------------------------------------- */

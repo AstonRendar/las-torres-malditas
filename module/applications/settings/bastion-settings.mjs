@@ -16,7 +16,7 @@ export default class BastionSettingsConfig extends BaseSettingsConfig {
   static PARTS = {
     ...super.PARTS,
     config: {
-      template: "systems/dnd5e/templates/settings/bastion-config.hbs"
+      template: "systems/las-torres-malditas/templates/settings/bastion-config.hbs"
     }
   };
 

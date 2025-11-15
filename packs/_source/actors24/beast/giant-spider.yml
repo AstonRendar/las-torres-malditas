@@ -910,7 +910,7 @@ items:
     img: icons/creatures/webs/web-thin-pruple.webp
     effects:
       - name: Restrained
-        img: systems/dnd5e/icons/svg/statuses/restrained.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/restrained.svg
         origin: Item.mmWeb00000000000
         _id: fihuYABujdt7o9uo
         type: base

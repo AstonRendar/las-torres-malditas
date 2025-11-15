@@ -117,7 +117,7 @@ system:
         mode: ''
         identifier: ''
       name: Create Spectral Sword
-      img: systems/dnd5e/icons/svg/properties/magical.svg
+      img: systems/las-torres-malditas/icons/svg/properties/magical.svg
   identifier: arcane-sword
 _id: phbswdMordenkain
 type: spell

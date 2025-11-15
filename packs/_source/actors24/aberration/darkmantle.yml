@@ -741,7 +741,7 @@ items:
     img: icons/magic/unholy/strike-body-life-soul-purple.webp
     effects:
       - name: Blinded & Suffocating
-        img: systems/dnd5e/icons/svg/statuses/blinded.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/blinded.svg
         origin: Compendium.dnd-monster-manual.features.Item.mmCrush000000000
         _id: xoOyjbkZSz44HMbD
         type: base

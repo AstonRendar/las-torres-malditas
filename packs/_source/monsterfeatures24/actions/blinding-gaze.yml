@@ -90,7 +90,7 @@ folder: 4T18pEvubPMQLzvD
 img: icons/magic/light/beam-horizon-strike-yellow.webp
 effects:
   - name: Blinded
-    img: systems/dnd5e/icons/svg/statuses/blinded.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/blinded.svg
     origin: Compendium.dnd5e.monsterfeatures24.Item.mmBlindingGaze00
     transfer: false
     _id: F9aWhTVh3huuys3p

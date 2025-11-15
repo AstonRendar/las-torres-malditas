@@ -82,7 +82,7 @@ system:
         max: ''
       sort: 0
       name: Retaliate
-      img: systems/dnd5e/icons/svg/trait-weapon-proficiencies.svg
+      img: systems/las-torres-malditas/icons/svg/trait-weapon-proficiencies.svg
   enchant: {}
   identifier: retaliation
 effects: []

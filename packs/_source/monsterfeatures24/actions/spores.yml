@@ -156,7 +156,7 @@ folder: 4T18pEvubPMQLzvD
 img: icons/magic/air/fog-gas-smoke-orange.webp
 effects:
   - name: Poisoned
-    img: systems/dnd5e/icons/svg/statuses/poisoned.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/poisoned.svg
     origin: Item.mmSpores00000000
     _id: DeVYxc3BdGlZNeD9
     type: base

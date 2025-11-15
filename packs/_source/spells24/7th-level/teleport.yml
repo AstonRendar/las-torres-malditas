@@ -135,7 +135,7 @@ system:
         name: ''
         formula: ''
       name: ''
-      img: systems/dnd5e/icons/svg/trait-saves.svg
+      img: systems/las-torres-malditas/icons/svg/trait-saves.svg
       appliedEffects: []
   identifier: teleport
 _id: phbsplTeleport00

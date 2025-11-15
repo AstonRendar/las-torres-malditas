@@ -38,7 +38,7 @@ export default class AdvancementConfig extends PseudoDocumentSheet {
   /** @override */
   static PARTS = {
     config: {
-      template: "systems/dnd5e/templates/advancement/advancement-controls-section.hbs"
+      template: "systems/las-torres-malditas/templates/advancement/advancement-controls-section.hbs"
     }
   };
 

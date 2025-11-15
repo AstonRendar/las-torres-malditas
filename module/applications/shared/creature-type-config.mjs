@@ -19,7 +19,7 @@ export default class CreatureTypeConfig extends BaseConfigSheet {
   /** @override */
   static PARTS = {
     config: {
-      template: "systems/dnd5e/templates/shared/config/creature-type-config.hbs"
+      template: "systems/las-torres-malditas/templates/shared/config/creature-type-config.hbs"
     }
   };
 

@@ -99,7 +99,7 @@ system:
     subtype: ''
 effects:
   - name: Restrained
-    img: systems/dnd5e/icons/svg/statuses/restrained.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/restrained.svg
     origin: Item.mmEntanglingRope
     _id: bju3aUme0f8XYR3z
     type: base

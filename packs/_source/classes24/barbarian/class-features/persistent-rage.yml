@@ -102,7 +102,7 @@ system:
         max: ''
       sort: 0
       name: Recharge Rage on Initiative
-      img: systems/dnd5e/icons/svg/trait-damage-immunities.svg
+      img: systems/las-torres-malditas/icons/svg/trait-damage-immunities.svg
   enchant: {}
   identifier: persistent-rage
 effects: []

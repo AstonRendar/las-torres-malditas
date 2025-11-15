@@ -139,7 +139,7 @@ system:
 effects:
   - type: enchantment
     name: Dragon Slayer
-    img: systems/dnd5e/icons/spell-tiers/spell3.webp
+    img: systems/las-torres-malditas/icons/spell-tiers/spell3.webp
     disabled: true
     _id: ZveR6kPKafjcwQdY
     system: {}

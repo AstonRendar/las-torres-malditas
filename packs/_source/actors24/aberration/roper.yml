@@ -1015,7 +1015,7 @@ items:
     img: icons/creatures/tentacles/tentacles-octopus-black-pink.webp
     effects:
       - name: Grappled
-        img: systems/dnd5e/icons/svg/statuses/grappled.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/grappled.svg
         origin: Compendium.dnd-monster-manual.features.Item.mmTentacle000000
         transfer: false
         _id: KxcWsIHohpNmagLJ
@@ -1131,7 +1131,7 @@ items:
             name: ''
             formula: ''
           name: ''
-          img: systems/dnd5e/icons/svg/monster.svg
+          img: systems/las-torres-malditas/icons/svg/monster.svg
       uses:
         spent: 0
         recovery: []

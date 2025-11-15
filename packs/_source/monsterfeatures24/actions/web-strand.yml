@@ -97,7 +97,7 @@ folder: 4T18pEvubPMQLzvD
 img: icons/creatures/webs/web-spider-casting-caught-purple.webp
 effects:
   - name: Restrained
-    img: systems/dnd5e/icons/svg/statuses/restrained.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/restrained.svg
     origin: Item.mmWebStrand00000
     _id: P9yYPfzjy4ZGnw2W
     type: base

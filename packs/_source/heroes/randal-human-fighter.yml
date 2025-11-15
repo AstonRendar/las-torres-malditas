@@ -828,7 +828,7 @@ items:
           value:
             '1': max
           title: Hit Points
-          icon: systems/dnd5e/icons/svg/hit-points.svg
+          icon: systems/las-torres-malditas/icons/svg/hit-points.svg
           _id: yhZd0KJPJERAWGgA
         - _id: mA50Kay0ZDA2jX9p
           type: Trait

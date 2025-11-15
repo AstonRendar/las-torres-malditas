@@ -51,7 +51,7 @@ system:
         formula: ''
         name: ''
       name: Expend Use
-      img: systems/dnd5e/icons/svg/monster.svg
+      img: systems/las-torres-malditas/icons/svg/monster.svg
       _id: 7p8mgAgWVbmb8gpV
       appliedEffects: []
   uses:

@@ -115,7 +115,7 @@ type: spell
 img: icons/magic/control/voodoo-doll-pain-damage-green.webp
 effects:
   - name: Irresistible Dance
-    img: systems/dnd5e/icons/svg/statuses/charmed.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/charmed.svg
     origin: Compendium.dnd5e.spells24.Item.phbsplOttosIrres
     transfer: false
     _id: MpToumiJ2o3S16K7

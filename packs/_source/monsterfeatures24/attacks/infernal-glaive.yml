@@ -147,7 +147,7 @@ system:
             bonus: ''
             types: []
       name: 'Damage: Infernal Wound'
-      img: systems/dnd5e/icons/svg/activity/damage.svg
+      img: systems/las-torres-malditas/icons/svg/activity/damage.svg
       appliedEffects: []
     KNWa0TFhANjmQCds:
       type: check
@@ -194,7 +194,7 @@ system:
           formula: '12'
         ability: ''
       name: 'Check: Stanch Wound'
-      img: systems/dnd5e/icons/svg/hit-points.svg
+      img: systems/las-torres-malditas/icons/svg/hit-points.svg
       appliedEffects: []
   uses:
     spent: 0

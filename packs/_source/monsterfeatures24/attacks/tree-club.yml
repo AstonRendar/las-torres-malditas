@@ -133,7 +133,7 @@ folder: pSCWWdqMX9eUATRJ
 img: icons/weapons/clubs/club-simple-black.webp
 effects:
   - name: Prone
-    img: systems/dnd5e/icons/svg/statuses/prone.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/prone.svg
     origin: Compendium.dnd5e.monsterfeatures24.Item.mmTreeClub000000
     _id: 7GhARrr7f6zhJjqy
     type: base

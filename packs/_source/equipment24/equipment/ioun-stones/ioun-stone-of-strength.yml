@@ -63,7 +63,7 @@ system:
   proficient: null
 effects:
   - name: 'Enhanced Strength: Strength Bonus'
-    img: systems/dnd5e/icons/svg/abilities/strength.svg
+    img: systems/las-torres-malditas/icons/svg/abilities/strength.svg
     _id: AvjFlc6qmwT82JXZ
     type: base
     system: {}

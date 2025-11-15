@@ -137,7 +137,7 @@ img: icons/equipment/shield/buckler-wooden-boss-glowing-blue.webp
 effects:
   - type: enchantment
     name: Shield +1
-    img: systems/dnd5e/icons/spell-tiers/spell2.webp
+    img: systems/las-torres-malditas/icons/spell-tiers/spell2.webp
     disabled: true
     _id: 9X6TAHEQJAzN96cl
     system: {}
@@ -196,7 +196,7 @@ effects:
     _key: '!items.effects!dmgShield12or300.9X6TAHEQJAzN96cl'
   - type: enchantment
     name: Shield +2
-    img: systems/dnd5e/icons/spell-tiers/spell3.webp
+    img: systems/las-torres-malditas/icons/spell-tiers/spell3.webp
     disabled: true
     system: {}
     changes:
@@ -255,7 +255,7 @@ effects:
     _key: '!items.effects!dmgShield12or300.86wCNLX808Ta78E8'
   - type: enchantment
     name: Shield +3
-    img: systems/dnd5e/icons/spell-tiers/spell4.webp
+    img: systems/las-torres-malditas/icons/spell-tiers/spell4.webp
     disabled: true
     system: {}
     changes:

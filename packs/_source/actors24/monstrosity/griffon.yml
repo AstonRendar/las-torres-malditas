@@ -602,7 +602,7 @@ items:
             visible: false
             name: ''
             formula: ''
-          img: systems/dnd5e/icons/svg/monster.svg
+          img: systems/las-torres-malditas/icons/svg/monster.svg
       uses:
         spent: 0
         recovery: []
@@ -835,7 +835,7 @@ items:
     img: icons/skills/melee/shield-damaged-broken-orange.webp
     effects:
       - name: Grappled
-        img: systems/dnd5e/icons/svg/statuses/grappled.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/grappled.svg
         origin: Compendium.dnd5e.actors24.Actor.mmGriffon0000000.Item.mmRend0000000000
         _id: FqB7QZZZTiN3trAC
         type: base

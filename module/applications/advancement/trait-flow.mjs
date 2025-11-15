@@ -17,7 +17,7 @@ export default class TraitFlow extends AdvancementFlow {
   /** @inheritDoc */
   static get defaultOptions() {
     return foundry.utils.mergeObject(super.defaultOptions, {
-      template: "systems/dnd5e/templates/advancement/trait-flow.hbs"
+      template: "systems/las-torres-malditas/templates/advancement/trait-flow.hbs"
     });
   }
 

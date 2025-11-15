@@ -93,7 +93,7 @@ folder: L9Zgr8qAPc3ngKhb
 img: icons/creatures/unholy/demon-horned-winged-laughing.webp
 effects:
   - name: Frightened
-    img: systems/dnd5e/icons/svg/statuses/frightened.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/frightened.svg
     origin: Compendium.dnd5e.monsterfeatures24.Item.mmFearAura000000
     _id: Sb7G5OyhGbjLUoWo
     type: base

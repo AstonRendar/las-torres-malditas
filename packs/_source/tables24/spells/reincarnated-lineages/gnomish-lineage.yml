@@ -1,6 +1,6 @@
 _id: phbGnomishLineag
 name: Gnomish Lineage
-img: systems/dnd5e/icons/svg/items/race.svg
+img: systems/las-torres-malditas/icons/svg/items/race.svg
 description: <p>You are part of a lineage that grants you supernatural abilities.</p>
 results:
   - type: document
@@ -9,7 +9,7 @@ results:
       - 1
       - 1
     drawn: false
-    img: systems/dnd5e/icons/species/gnome-forest.webp
+    img: systems/las-torres-malditas/icons/species/gnome-forest.webp
     _id: AIWT6lRqac4IYvnv
     flags: {}
     _stats:
@@ -32,7 +32,7 @@ results:
       - 2
       - 2
     drawn: false
-    img: systems/dnd5e/icons/species/gnome-rock.webp
+    img: systems/las-torres-malditas/icons/species/gnome-rock.webp
     _id: tErs3uTFNYKl3gAu
     flags: {}
     _stats:

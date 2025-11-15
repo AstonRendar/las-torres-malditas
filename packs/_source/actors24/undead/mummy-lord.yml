@@ -616,7 +616,7 @@ items:
             name: ''
             formula: ''
           name: Expend Use
-          img: systems/dnd5e/icons/svg/monster.svg
+          img: systems/las-torres-malditas/icons/svg/monster.svg
       uses:
         spent: 0
         recovery: []
@@ -890,7 +890,7 @@ items:
             name: HP Max Decr.
             formula: 3d6
           name: HP Max Decrease
-          img: systems/dnd5e/icons/svg/hit-points.svg
+          img: systems/las-torres-malditas/icons/svg/hit-points.svg
       uses:
         spent: 0
         recovery: []
@@ -968,7 +968,7 @@ items:
     img: icons/magic/lightning/claws-unarmed-strike-teal.webp
     effects:
       - name: Cursed
-        img: systems/dnd5e/icons/svg/statuses/cursed.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/cursed.svg
         origin: Compendium.dnd-monster-manual.features.Item.mmRottingFist000
         _id: B1S4dZd1Lz0jokIo
         type: base
@@ -1518,7 +1518,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmMummyLord00000.Item.mmSpellcasting00.Activity.3MkhXZwZstyLUC3q
         changes:
@@ -1683,7 +1683,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmMummyLord00000.Item.mmSpellcasting00.Activity.2L5xIB4F7pzLxodZ
         changes:
@@ -1891,7 +1891,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmMummyLord00000.Item.mmSpellcasting00.Activity.r1CShKUHpGLk6S15
         changes:
@@ -2064,7 +2064,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmMummyLord00000.Item.mmSpellcasting00.Activity.UuaXl5nquzkuZass
         changes:
@@ -2244,7 +2244,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmMummyLord00000.Item.mmSpellcasting00.Activity.h8Z0JRmWxCy0fyYu
         changes:
@@ -2500,7 +2500,7 @@ items:
             name: ''
             formula: ''
           name: Expend Use
-          img: systems/dnd5e/icons/svg/monster.svg
+          img: systems/las-torres-malditas/icons/svg/monster.svg
       uses:
         spent: 0
         recovery: []
@@ -2607,7 +2607,7 @@ items:
             name: ''
             formula: ''
           name: Expend Use
-          img: systems/dnd5e/icons/svg/monster.svg
+          img: systems/las-torres-malditas/icons/svg/monster.svg
       uses:
         spent: 0
         recovery: []
@@ -2695,7 +2695,7 @@ items:
         _key: >-
           !actors.items.effects!mmMummyLord00000.Hp6Uq0ZvymMIEGys.Xy0tzgObrMRF2lHm
       - name: Blinded
-        img: systems/dnd5e/icons/svg/statuses/blinded.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/blinded.svg
         origin: Item.mmWhirlwindOfSan
         _id: MMp7IK5bYYPYtSdL
         type: base
@@ -2977,7 +2977,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmMummyLord00000.Item.SSc4GeA0NJxba8O4.Activity.9RQr4xjb1zKIXBxn
         changes:
@@ -3085,7 +3085,7 @@ items:
             name: ''
             formula: ''
           name: Expend Use
-          img: systems/dnd5e/icons/svg/monster.svg
+          img: systems/las-torres-malditas/icons/svg/monster.svg
       uses:
         spent: 0
         recovery: []
@@ -3238,7 +3238,7 @@ items:
     img: icons/magic/perception/eye-slit-red-orange.webp
     effects:
       - name: Paralyzed
-        img: systems/dnd5e/icons/svg/statuses/paralyzed.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/paralyzed.svg
         origin: Item.mmDreadfulGlare0
         _id: hRSvOovTSlu4Dw8c
         type: base

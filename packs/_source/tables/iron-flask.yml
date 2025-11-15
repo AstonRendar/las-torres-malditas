@@ -163,7 +163,7 @@ results:
       - 67
     drawn: false
     _id: nKaq1Rbe9BK9p8DR
-    img: systems/dnd5e/tokens/celestial/Deva.webp
+    img: systems/las-torres-malditas/tokens/celestial/Deva.webp
     flags: {}
     _stats:
       coreVersion: '13.344'
@@ -230,7 +230,7 @@ results:
       - 75
     drawn: false
     _id: 9zfb5F7XqVkVyYVr
-    img: systems/dnd5e/tokens/elemental/Djinni.webp
+    img: systems/las-torres-malditas/tokens/elemental/Djinni.webp
     flags: {}
     _stats:
       coreVersion: '13.344'
@@ -253,7 +253,7 @@ results:
       - 77
     drawn: false
     _id: zrIsN6ladRatvlAZ
-    img: systems/dnd5e/tokens/elemental/Efreeti.webp
+    img: systems/las-torres-malditas/tokens/elemental/Efreeti.webp
     flags: {}
     _stats:
       coreVersion: '13.344'
@@ -321,7 +321,7 @@ results:
       - 90
     drawn: false
     _id: 8TnhHMMB9PtIm9VF
-    img: systems/dnd5e/tokens/fiend/NightHag.webp
+    img: systems/las-torres-malditas/tokens/fiend/NightHag.webp
     flags: {}
     _stats:
       coreVersion: '13.344'
@@ -344,7 +344,7 @@ results:
       - 91
     drawn: false
     _id: Wg74NTthpFjHxdNj
-    img: systems/dnd5e/tokens/celestial/Planetar.webp
+    img: systems/las-torres-malditas/tokens/celestial/Planetar.webp
     flags: {}
     _stats:
       coreVersion: '13.344'
@@ -367,7 +367,7 @@ results:
       - 95
     drawn: false
     _id: qey2iKAlN806bAx7
-    img: systems/dnd5e/tokens/elemental/Salamander.webp
+    img: systems/las-torres-malditas/tokens/elemental/Salamander.webp
     flags: {}
     _stats:
       coreVersion: '13.344'
@@ -413,7 +413,7 @@ results:
       - 99
     drawn: false
     _id: cMsHbb6RlFodREik
-    img: systems/dnd5e/tokens/fiend/Succubus.webp
+    img: systems/las-torres-malditas/tokens/fiend/Succubus.webp
     flags: {}
     _stats:
       coreVersion: '13.344'
@@ -436,7 +436,7 @@ results:
       - 100
     drawn: false
     _id: o5O9FiiZr5vZkjdm
-    img: systems/dnd5e/tokens/elemental/Xorn.webp
+    img: systems/las-torres-malditas/tokens/elemental/Xorn.webp
     flags: {}
     _stats:
       coreVersion: '13.344'

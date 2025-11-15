@@ -117,7 +117,7 @@ system:
           bonus: ''
         includeBase: true
         parts: []
-      img: systems/dnd5e/icons/svg/properties/magical.svg
+      img: systems/las-torres-malditas/icons/svg/properties/magical.svg
       _id: UTEfakL3rBtTIu1K
   uses:
     spent: 0

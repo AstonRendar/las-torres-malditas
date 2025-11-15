@@ -57,7 +57,7 @@ system:
         name: ''
         formula: ''
       name: Use
-      img: systems/dnd5e/icons/svg/activity/utility.svg
+      img: systems/las-torres-malditas/icons/svg/activity/utility.svg
       appliedEffects: []
   uses:
     spent: 0

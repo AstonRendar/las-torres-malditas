@@ -796,7 +796,7 @@ items:
       crewed: false
     effects:
       - name: Poisoned
-        img: systems/dnd5e/icons/svg/statuses/poisoned.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/poisoned.svg
         origin: Item.mmFetidCloud0000
         _id: IqfKmepxiah2U3YT
         type: base

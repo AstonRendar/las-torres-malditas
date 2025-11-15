@@ -93,7 +93,7 @@ system:
         max: ''
       sort: 0
       name: Cut with Words
-      img: systems/dnd5e/icons/svg/damage/psychic.svg
+      img: systems/las-torres-malditas/icons/svg/damage/psychic.svg
       appliedEffects: []
   enchant: {}
   identifier: cutting-words

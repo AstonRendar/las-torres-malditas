@@ -55,7 +55,7 @@ system:
         visible: false
         name: ''
         formula: ''
-      img: systems/dnd5e/icons/svg/trait-saves.svg
+      img: systems/las-torres-malditas/icons/svg/trait-saves.svg
   uses:
     spent: 0
     recovery:

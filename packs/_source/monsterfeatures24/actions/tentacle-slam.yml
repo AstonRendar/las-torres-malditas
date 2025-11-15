@@ -100,7 +100,7 @@ folder: 4T18pEvubPMQLzvD
 img: icons/creatures/tentacles/tentacles-thing-green.webp
 effects:
   - name: Stunned
-    img: systems/dnd5e/icons/svg/statuses/stunned.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/stunned.svg
     origin: Item.mmTentacleSlam00
     _id: CdqwzfboHBLC0vIk
     type: base

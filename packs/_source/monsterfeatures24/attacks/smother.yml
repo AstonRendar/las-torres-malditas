@@ -195,7 +195,7 @@ folder: pSCWWdqMX9eUATRJ
 img: icons/commodities/cloth/cloth-bolt-embroidered-pink.webp
 effects:
   - name: Grappled + Other Conditions
-    img: systems/dnd5e/icons/svg/statuses/grappled.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/grappled.svg
     origin: Compendium.dnd5e.monsterfeatures24.Item.mmSmother0000000
     _id: wfTA3WUcjBVzGa2H
     type: base

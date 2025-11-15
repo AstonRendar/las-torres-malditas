@@ -298,7 +298,7 @@ system:
 effects:
   - type: enchantment
     name: Hammer of Thunderbolts
-    img: systems/dnd5e/icons/spell-tiers/spell5.webp
+    img: systems/las-torres-malditas/icons/spell-tiers/spell5.webp
     disabled: true
     _id: RSpASIW4HbToM7yC
     system: {}
@@ -368,7 +368,7 @@ effects:
       exportSource: null
     _key: '!items.effects!dmgHammerOfThund.RSpASIW4HbToM7yC'
   - name: Stunned
-    img: systems/dnd5e/icons/svg/statuses/stunned.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/stunned.svg
     origin: Compendium.dnd5e.equipment24.Item.dmgHammerOfThund
     transfer: false
     _id: 4awBYMh85YMXFJDS

@@ -101,7 +101,7 @@ type: spell
 img: icons/magic/death/hand-undead-skeleton-fire-pink.webp
 effects:
   - name: Stabilized
-    img: systems/dnd5e/icons/svg/trait-damage-vulnerabilities.svg
+    img: systems/las-torres-malditas/icons/svg/trait-damage-vulnerabilities.svg
     origin: Compendium.dnd5e.spells24.Item.phbsplSparetheDy
     transfer: false
     _id: 4werkFeLTqFwHRIa

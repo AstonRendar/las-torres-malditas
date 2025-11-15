@@ -98,7 +98,7 @@ system:
               - psychic
             scaling:
               mode: ''
-      img: systems/dnd5e/icons/svg/damage/necrotic.svg
+      img: systems/las-torres-malditas/icons/svg/damage/necrotic.svg
       appliedEffects: []
   identifier: power-word-kill
 _id: phbsplPowerWordK

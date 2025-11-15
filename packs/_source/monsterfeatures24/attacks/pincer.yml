@@ -182,7 +182,7 @@ folder: pSCWWdqMX9eUATRJ
 img: icons/commodities/claws/claw-pincer-grey.webp
 effects:
   - name: Grappled
-    img: systems/dnd5e/icons/svg/statuses/grappled.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/grappled.svg
     origin: Compendium.dnd5e.monsterfeatures24.Item.mmPincer00000000
     _id: GCED8YlF6qXTgEkd
     type: base

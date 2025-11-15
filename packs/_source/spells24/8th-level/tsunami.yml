@@ -205,7 +205,7 @@ system:
           calculation: spellcasting
           formula: ''
       name: Start of Turn Effects
-      img: systems/dnd5e/icons/svg/statuses/concentrating.svg
+      img: systems/las-torres-malditas/icons/svg/statuses/concentrating.svg
   identifier: tsunami
 _id: phbsplTsunami000
 type: spell

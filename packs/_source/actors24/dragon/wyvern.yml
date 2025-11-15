@@ -909,7 +909,7 @@ items:
     img: icons/creatures/abilities/stinger-poison-green.webp
     effects:
       - name: Poisoned
-        img: systems/dnd5e/icons/svg/statuses/poisoned.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/poisoned.svg
         origin: Compendium.dnd5e.actors24.Actor.mmWyvern00000000.Item.mmSting000000000
         _id: AtsQ5CYNLm8hVlFG
         type: base

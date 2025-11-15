@@ -42,7 +42,7 @@ export default class Award extends Application5e {
   /** @override */
   static PARTS = {
     award: {
-      template: "systems/dnd5e/templates/apps/award.hbs"
+      template: "systems/las-torres-malditas/templates/apps/award.hbs"
     }
   };
 
@@ -127,7 +127,7 @@ export default class Award extends Application5e {
    */
   static prepareDestinations(destinations, savedDestinations) {
     const icons = {
-      container: '<dnd5e-icon class="fa-fw" src="systems/dnd5e/icons/svg/backpack.svg"></dnd5e-icon>',
+      container: '<dnd5e-icon class="fa-fw" src="systems/las-torres-malditas/icons/svg/backpack.svg"></dnd5e-icon>',
       group: '<i class="fa-solid fa-people-group"></i>',
       vehicle: '<i class="fa-solid fa-sailboat"></i>'
     };

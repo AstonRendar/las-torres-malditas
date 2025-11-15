@@ -170,7 +170,7 @@ system:
         name: ''
         formula: ''
       name: Move Lights
-      img: systems/dnd5e/icons/svg/statuses/concentrating.svg
+      img: systems/las-torres-malditas/icons/svg/statuses/concentrating.svg
       appliedEffects: []
   identifier: dancing-lights
 _id: phbsplDancingLig

@@ -683,7 +683,7 @@ items:
             name: ''
             formula: ''
           name: Expend Use
-          img: systems/dnd5e/icons/svg/monster.svg
+          img: systems/las-torres-malditas/icons/svg/monster.svg
       uses:
         spent: 0
         recovery: []
@@ -787,7 +787,7 @@ items:
             name: Days to Reform
             formula: 1d10
           name: Days to Reform
-          img: systems/dnd5e/icons/svg/facilities/change.svg
+          img: systems/las-torres-malditas/icons/svg/facilities/change.svg
       uses:
         spent: 0
         recovery: []
@@ -1852,7 +1852,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmLich0000000000.Item.mmSpellcasting00.Activity.3MkhXZwZstyLUC3q
         changes: []
@@ -2073,7 +2073,7 @@ items:
             visible: false
             name: ''
             formula: ''
-          img: systems/dnd5e/icons/svg/damage/psychic.svg
+          img: systems/las-torres-malditas/icons/svg/damage/psychic.svg
       identifier: detect-thoughts
     type: spell
     img: icons/skills/social/diplomacy-handshake-yellow.webp
@@ -2081,7 +2081,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmLich0000000000.Item.mmSpellcasting00.Activity.0T8h7axDm6UqtQh8
         changes: []
@@ -2228,7 +2228,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmLich0000000000.Item.mmSpellcasting00.Activity.Kguzn7uqRbnITDOu
         changes: []
@@ -2402,7 +2402,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmLich0000000000.Item.mmSpellcasting00.Activity.hRNK0PKnbWSJ1dW5
         changes: []
@@ -2565,7 +2565,7 @@ items:
           startTurn: null
         disabled: false
         flags: {}
-        img: systems/dnd5e/icons/svg/statuses/invisible.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/invisible.svg
         _id: 9svfDetqjhsFP3ey
         type: base
         system: {}
@@ -2593,7 +2593,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmLich0000000000.Item.mmSpellcasting00.Activity.f4HDLt9fdRhdcLYl
         changes: []
@@ -2760,7 +2760,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmLich0000000000.Item.mmSpellcasting00.Activity.Twda5eaj2J9txakH
         changes: []
@@ -2938,7 +2938,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmLich0000000000.Item.mmSpellcasting00.Activity.sj1hwqEgTJSDrKk4
         changes: []
@@ -3101,7 +3101,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmLich0000000000.Item.mmSpellcasting00.Activity.HnbZUMdnR2AjZWMG
         changes: []
@@ -3302,7 +3302,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmLich0000000000.Item.mmSpellcasting00.Activity.y6iPZVAYHdRjkr6A
         changes: []
@@ -3465,7 +3465,7 @@ items:
             max: ''
           sort: 0
           name: Cast
-          img: systems/dnd5e/icons/svg/trait-saves.svg
+          img: systems/las-torres-malditas/icons/svg/trait-saves.svg
       identifier: dimension-door
     type: spell
     img: icons/environment/wilderness/portal.webp
@@ -3473,7 +3473,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmLich0000000000.Item.mmSpellcasting00.Activity.sE9KAlUDkH01lT2D
         changes: []
@@ -3627,7 +3627,7 @@ items:
             name: ''
             formula: ''
           name: Transport
-          img: systems/dnd5e/icons/svg/trait-saves.svg
+          img: systems/las-torres-malditas/icons/svg/trait-saves.svg
       identifier: plane-shift
     type: spell
     img: icons/skills/targeting/target-glowing-yellow.webp
@@ -3635,7 +3635,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmLich0000000000.Item.mmSpellcasting00.Activity.hSULDxzfMHkBnEnL
         changes: []
@@ -3808,7 +3808,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmLich0000000000.Item.mmSpellcasting00.Activity.wvyeMRAQmHTCpCBe
         changes: []
@@ -4040,7 +4040,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmLich0000000000.Item.mmSpellcasting00.Activity.qRnfHwsOGm8uV7qZ
         changes: []
@@ -4193,7 +4193,7 @@ items:
                 scaling:
                   mode: ''
                   number: 1
-          img: systems/dnd5e/icons/svg/damage/necrotic.svg
+          img: systems/las-torres-malditas/icons/svg/damage/necrotic.svg
       identifier: power-word-kill
     type: spell
     img: icons/magic/death/projectile-skull-flaming-yellow.webp
@@ -4201,7 +4201,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmLich0000000000.Item.mmSpellcasting00.Activity.uHFIlYfHjtpqObtR
         changes: []
@@ -4798,7 +4798,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmLich0000000000.Item.mmSpellcasting00.Activity.THJrfbCediYUAgm2
         changes: []
@@ -5100,7 +5100,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmLich0000000000.Item.wk3FkTwZDKMW6wdM.Activity.Jc8kZLhCdTcbaImH
         changes:
@@ -5302,7 +5302,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmLich0000000000.Item.wk3FkTwZDKMW6wdM.Activity.1rK9SlZ7cBWEeWnG
         changes:
@@ -5821,7 +5821,7 @@ items:
           startTurn: null
         disabled: false
         flags: {}
-        img: systems/dnd5e/icons/svg/statuses/frightened.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/frightened.svg
         _id: ijiWLu6EJZmEJPOZ
         type: base
         system: {}
@@ -5853,7 +5853,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmLich0000000000.Item.80FiTdFhW9hNegeJ.Activity.7RiCnWnmXG61xpkE
         changes:
@@ -6192,7 +6192,7 @@ items:
     img: icons/magic/death/hand-withered-gray.webp
     effects:
       - name: Paralyzed
-        img: systems/dnd5e/icons/svg/statuses/paralyzed.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/paralyzed.svg
         origin: Compendium.dnd-monster-manual.features.Item.mmParalyzingTouc
         _id: XONucKj1fLr03vaU
         type: base

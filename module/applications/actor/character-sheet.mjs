@@ -36,70 +36,70 @@ export default class CharacterActorSheet extends BaseActorSheet {
   /** @override */
   static PARTS = {
     header: {
-      template: "systems/dnd5e/templates/actors/character-header.hbs"
+      template: "systems/las-torres-malditas/templates/actors/character-header.hbs"
     },
     sidebar: {
       container: { classes: ["main-content"], id: "main" },
-      template: "systems/dnd5e/templates/actors/character-sidebar.hbs"
+      template: "systems/las-torres-malditas/templates/actors/character-sidebar.hbs"
     },
     details: {
       classes: ["col-2"],
       container: { classes: ["tab-body"], id: "tabs" },
-      template: "systems/dnd5e/templates/actors/tabs/character-details.hbs",
+      template: "systems/las-torres-malditas/templates/actors/tabs/character-details.hbs",
       scrollable: [""]
     },
     inventory: {
       container: { classes: ["tab-body"], id: "tabs" },
-      template: "systems/dnd5e/templates/actors/tabs/character-inventory.hbs",
+      template: "systems/las-torres-malditas/templates/actors/tabs/character-inventory.hbs",
       templates: [
-        "systems/dnd5e/templates/inventory/inventory.hbs", "systems/dnd5e/templates/inventory/activity.hbs",
-        "systems/dnd5e/templates/inventory/encumbrance.hbs", "systems/dnd5e/templates/inventory/containers.hbs"
+        "systems/las-torres-malditas/templates/inventory/inventory.hbs", "systems/las-torres-malditas/templates/inventory/activity.hbs",
+        "systems/las-torres-malditas/templates/inventory/encumbrance.hbs", "systems/las-torres-malditas/templates/inventory/containers.hbs"
       ],
       scrollable: [""]
     },
     features: {
       container: { classes: ["tab-body"], id: "tabs" },
-      template: "systems/dnd5e/templates/actors/tabs/character-features.hbs",
-      templates: ["systems/dnd5e/templates/inventory/inventory.hbs", "systems/dnd5e/templates/inventory/activity.hbs"],
+      template: "systems/las-torres-malditas/templates/actors/tabs/character-features.hbs",
+      templates: ["systems/las-torres-malditas/templates/inventory/inventory.hbs", "systems/las-torres-malditas/templates/inventory/activity.hbs"],
       scrollable: [""]
     },
     spells: {
       container: { classes: ["tab-body"], id: "tabs" },
-      template: "systems/dnd5e/templates/actors/tabs/creature-spells.hbs",
-      templates: ["systems/dnd5e/templates/inventory/inventory.hbs", "systems/dnd5e/templates/inventory/activity.hbs"],
+      template: "systems/las-torres-malditas/templates/actors/tabs/creature-spells.hbs",
+      templates: ["systems/las-torres-malditas/templates/inventory/inventory.hbs", "systems/las-torres-malditas/templates/inventory/activity.hbs"],
       scrollable: [""]
     },
     effects: {
       container: { classes: ["tab-body"], id: "tabs" },
-      template: "systems/dnd5e/templates/actors/tabs/actor-effects.hbs",
+      template: "systems/las-torres-malditas/templates/actors/tabs/actor-effects.hbs",
       scrollable: [""]
     },
     biography: {
       container: { classes: ["tab-body"], id: "tabs" },
-      template: "systems/dnd5e/templates/actors/tabs/character-biography.hbs",
+      template: "systems/las-torres-malditas/templates/actors/tabs/character-biography.hbs",
       scrollable: [""]
     },
     bastion: {
       container: { classes: ["tab-body"], id: "tabs" },
-      template: "systems/dnd5e/templates/actors/tabs/character-bastion.hbs",
+      template: "systems/las-torres-malditas/templates/actors/tabs/character-bastion.hbs",
       scrollable: [""]
     },
     specialTraits: {
       classes: ["flexcol"],
       container: { classes: ["tab-body"], id: "tabs" },
-      template: "systems/dnd5e/templates/actors/tabs/creature-special-traits.hbs",
+      template: "systems/las-torres-malditas/templates/actors/tabs/creature-special-traits.hbs",
       scrollable: [""]
     },
     abilityScores: {
-      template: "systems/dnd5e/templates/actors/character-ability-scores.hbs"
+      template: "systems/las-torres-malditas/templates/actors/character-ability-scores.hbs"
     },
     warnings: {
-      template: "systems/dnd5e/templates/actors/parts/actor-warnings-dialog.hbs"
+      template: "systems/las-torres-malditas/templates/actors/parts/actor-warnings-dialog.hbs"
     },
     tabs: {
       id: "tabs",
       classes: ["tabs-right"],
-      template: "systems/dnd5e/templates/shared/sidebar-tabs.hbs"
+      template: "systems/las-torres-malditas/templates/shared/sidebar-tabs.hbs"
     }
   };
 
@@ -121,7 +121,7 @@ export default class CharacterActorSheet extends BaseActorSheet {
   /** @override */
   static TABS = [
     { tab: "details", label: "DND5E.Details", icon: "fas fa-cog" },
-    { tab: "inventory", label: "DND5E.Inventory", svg: "systems/dnd5e/icons/svg/backpack.svg" },
+    { tab: "inventory", label: "DND5E.Inventory", svg: "systems/las-torres-malditas/icons/svg/backpack.svg" },
     { tab: "features", label: "DND5E.Features", icon: "fas fa-list" },
     { tab: "spells", label: "TYPES.Item.spellPl", icon: "fas fa-book" },
     { tab: "effects", label: "DND5E.Effects", icon: "fas fa-bolt" },

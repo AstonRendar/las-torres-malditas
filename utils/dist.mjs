@@ -27,13 +27,13 @@ const { argv } = yargs(hideBin(process.argv))
       alias: "r",
       describe: "The dnd5e repository.",
       type: "string",
-      default: "git@github.com:foundryvtt/dnd5e.git",
+      default: "git@github.com:AstonRendar/las-torres-malditas.git",
       requiresArg: true
     });
     yargs.option("url", {
       describe: "A public URL where releases are posted.",
       type: "string",
-      default: "https://github.com/foundryvtt/dnd5e",
+      default: "https://github.com/AstonRendar/las-torres-malditas",
       requiresArg: true
     });
   })
@@ -111,7 +111,7 @@ function copyCompendiumContent() {
     fs.mkdirSync(path.dirname(dest), { recursive: true });
 
     let data = fs.readFileSync(src, "utf8");
-    data = data.replaceAll("modules/dnd-free-rules/icons/", "systems/dnd5e/icons/");
+    data = data.replaceAll("modules/dnd-free-rules/icons/", "systems/las-torres-malditas/icons/");
     console.info(`Writing ${dest}...`);
     fs.writeFileSync(dest, data, { mode: 0o644 });
   }

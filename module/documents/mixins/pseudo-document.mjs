@@ -277,7 +277,7 @@ export default function PseudoDocumentMixin(Base) {
 
       if ( !types.includes(type) ) type = types[0];
       const content = await foundry.applications.handlebars.renderTemplate(
-        "systems/dnd5e/templates/apps/document-create.hbs",
+        "systems/las-torres-malditas/templates/apps/document-create.hbs",
         {
           name, type,
           types: types.map(t => {
@@ -311,7 +311,7 @@ export default function PseudoDocumentMixin(Base) {
           const fd = new foundry.applications.ux.FormDataExtended(form);
           const createData = foundry.utils.mergeObject(data, fd.object, { inplace: false });
           if ( !createData.name?.trim() ) delete createData.name;
-          // TODO: Temp patch until advancement data is migrated (https://github.com/foundryvtt/dnd5e/issues/5782)
+          // TODO: Temp patch until advancement data is migrated (https://github.com/AstonRendar/las-torres-malditas/issues/5782)
           else if ( this.documentName === "Advancement" ) createData.title = createData.name;
           parent[`create${this.documentName}`](createData.type, createData);
         },

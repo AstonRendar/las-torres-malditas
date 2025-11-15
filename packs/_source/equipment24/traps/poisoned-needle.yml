@@ -328,7 +328,7 @@ system:
   proficient: null
 effects:
   - name: Poisoned Needle
-    img: systems/dnd5e/icons/svg/statuses/poisoned.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/poisoned.svg
     origin: Item.dmgPoisonedNeedl
     transfer: false
     _id: waWQ0QcVncE6pU5B

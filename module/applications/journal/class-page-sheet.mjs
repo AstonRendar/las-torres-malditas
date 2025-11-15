@@ -32,7 +32,7 @@ export default class JournalClassPageSheet extends JournalEntryPageHandlebarsShe
     header: super.EDIT_PARTS.header,
     config: {
       classes: ["standard-form"],
-      template: "systems/dnd5e/templates/journal/page-{type}-edit.hbs"
+      template: "systems/las-torres-malditas/templates/journal/page-{type}-edit.hbs"
     }
   };
 
@@ -42,7 +42,7 @@ export default class JournalClassPageSheet extends JournalEntryPageHandlebarsShe
   static VIEW_PARTS = {
     content: {
       root: true,
-      template: "systems/dnd5e/templates/journal/page-{type}-view.hbs"
+      template: "systems/las-torres-malditas/templates/journal/page-{type}-view.hbs"
     }
   };
 

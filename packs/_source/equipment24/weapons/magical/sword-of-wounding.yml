@@ -202,7 +202,7 @@ system:
 effects:
   - type: enchantment
     name: Sword of Wounding
-    img: systems/dnd5e/icons/spell-tiers/spell3.webp
+    img: systems/las-torres-malditas/icons/spell-tiers/spell3.webp
     disabled: true
     _id: tuFnPbghL64ioL04
     system: {}

@@ -90,7 +90,7 @@ system:
         name: ''
         formula: ''
       name: Regain Pact Spell Slots
-      img: systems/dnd5e/icons/svg/activity/heal.svg
+      img: systems/las-torres-malditas/icons/svg/activity/heal.svg
   enchant: {}
   identifier: magical-cunning
 effects: []

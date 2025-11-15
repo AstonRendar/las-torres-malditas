@@ -663,7 +663,7 @@ items:
           startTurn: null
         disabled: false
         flags: {}
-        img: systems/dnd5e/icons/svg/statuses/restrained.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/restrained.svg
         _id: BWZxm9qxlXDSF6Dy
         type: base
         system: {}

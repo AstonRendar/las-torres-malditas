@@ -150,7 +150,7 @@ system:
         name: Weather Change Delay
       name: Change Conditions
       _id: ucJPCYAaXqiukPF9
-      img: systems/dnd5e/icons/svg/statuses/concentrating.svg
+      img: systems/las-torres-malditas/icons/svg/statuses/concentrating.svg
       appliedEffects: []
   identifier: control-weather
 _id: phbsplControlWea

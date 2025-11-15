@@ -142,7 +142,7 @@ type: spell
 img: icons/magic/control/debuff-chains-shackles-movement-purple.webp
 effects:
   - name: Burial
-    img: systems/dnd5e/icons/svg/statuses/burrowing.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/burrowing.svg
     origin: Compendium.dnd5e.spells24.Item.phbsplImprisonme
     transfer: false
     _id: RCuPR9PN6DD1YDFc
@@ -178,7 +178,7 @@ effects:
       exportSource: null
     _key: '!items.effects!phbsplImprisonme.RCuPR9PN6DD1YDFc'
   - name: Chaining
-    img: systems/dnd5e/icons/svg/statuses/restrained.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/restrained.svg
     origin: Compendium.dnd5e.spells24.Item.phbsplImprisonme
     transfer: false
     _id: VrrFIk47pnm9qKuX
@@ -215,7 +215,7 @@ effects:
       exportSource: null
     _key: '!items.effects!phbsplImprisonme.VrrFIk47pnm9qKuX'
   - name: Hedged Prison
-    img: systems/dnd5e/icons/svg/activity/summon.svg
+    img: systems/las-torres-malditas/icons/svg/activity/summon.svg
     origin: Compendium.dnd5e.spells24.Item.phbsplImprisonme
     transfer: false
     _id: 6P8mzDayeidhwod7
@@ -288,7 +288,7 @@ effects:
       exportSource: null
     _key: '!items.effects!phbsplImprisonme.ApXXZFLy8fD2cWO0'
   - name: Slumber
-    img: systems/dnd5e/icons/svg/statuses/unconscious.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/unconscious.svg
     origin: Compendium.dnd5e.spells24.Item.phbsplImprisonme
     transfer: false
     _id: R4BMRAXaadQwpvwk

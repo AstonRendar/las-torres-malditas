@@ -107,8 +107,8 @@ export default class ActorSheet5e extends ActorSheetMixin(foundry.appv1?.sheets?
 
   /** @override */
   get template() {
-    if ( !game.user.isGM && this.actor.limited ) return "systems/dnd5e/templates/actors/limited-sheet.hbs";
-    return `systems/dnd5e/templates/actors/${this.actor.type}-sheet.hbs`;
+    if ( !game.user.isGM && this.actor.limited ) return "systems/las-torres-malditas/templates/actors/limited-sheet.hbs";
+    return `systems/las-torres-malditas/templates/actors/${this.actor.type}-sheet.hbs`;
   }
 
   /* -------------------------------------------- */

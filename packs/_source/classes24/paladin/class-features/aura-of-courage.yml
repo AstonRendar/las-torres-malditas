@@ -87,7 +87,7 @@ system:
   identifier: aura-of-courage
 effects:
   - name: Courageous
-    img: systems/dnd5e/icons/svg/items/feature.svg
+    img: systems/las-torres-malditas/icons/svg/items/feature.svg
     origin: Compendium.dnd5e.classes24.Item.phbpdnCourageAur
     transfer: false
     _id: cJtDumOL6RUzrBHA

@@ -113,7 +113,7 @@ system:
         name: HP Max Decr.
         formula: 3d6
       name: HP Max Decr.
-      img: systems/dnd5e/icons/svg/hit-points.svg
+      img: systems/las-torres-malditas/icons/svg/hit-points.svg
       appliedEffects: []
   uses:
     spent: 0
@@ -189,7 +189,7 @@ folder: pSCWWdqMX9eUATRJ
 img: icons/magic/lightning/claws-unarmed-strike-teal.webp
 effects:
   - name: Cursed
-    img: systems/dnd5e/icons/svg/statuses/cursed.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/cursed.svg
     origin: Compendium.dnd5e.monsterfeatures24.Item.mmRottingFist000
     _id: B1S4dZd1Lz0jokIo
     type: base

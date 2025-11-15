@@ -17,7 +17,7 @@ export default class ModuleArtSettingsConfig extends FormApplication {
     return foundry.utils.mergeObject(super.defaultOptions, {
       title: game.i18n.localize("DND5E.ModuleArtConfigL"),
       id: "module-art-config",
-      template: "systems/dnd5e/templates/apps/module-art-config.hbs",
+      template: "systems/las-torres-malditas/templates/apps/module-art-config.hbs",
       popOut: true,
       width: 600,
       height: "auto"

@@ -132,7 +132,7 @@ system:
   mastery: ''
 effects:
   - name: Grappled & Restrained
-    img: systems/dnd5e/icons/svg/statuses/grappled.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/grappled.svg
     origin: Item.mmChain000000000
     _id: 07IW8bZzgQ4Jk3sW
     type: base

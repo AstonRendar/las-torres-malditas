@@ -137,7 +137,7 @@ img: icons/equipment/chest/breastplate-gorget-steel-white.webp
 effects:
   - type: enchantment
     name: Armor +1
-    img: systems/dnd5e/icons/spell-tiers/spell3.webp
+    img: systems/las-torres-malditas/icons/spell-tiers/spell3.webp
     disabled: true
     _id: 6JbAzK6YBkyx73iy
     system: {}
@@ -196,7 +196,7 @@ effects:
     _key: '!items.effects!dmgArmor12or3000.6JbAzK6YBkyx73iy'
   - type: enchantment
     name: Armor +2
-    img: systems/dnd5e/icons/spell-tiers/spell4.webp
+    img: systems/las-torres-malditas/icons/spell-tiers/spell4.webp
     disabled: true
     system: {}
     changes:
@@ -255,7 +255,7 @@ effects:
     _key: '!items.effects!dmgArmor12or3000.s6yzQ9QFFOgfttAH'
   - type: enchantment
     name: Armor +3
-    img: systems/dnd5e/icons/spell-tiers/spell5.webp
+    img: systems/las-torres-malditas/icons/spell-tiers/spell5.webp
     disabled: true
     system: {}
     changes:

@@ -22,11 +22,11 @@ export default class TransformSheet extends ActivitySheet {
   static PARTS = {
     ...super.PARTS,
     effect: {
-      template: "systems/dnd5e/templates/activity/transform-effect.hbs",
+      template: "systems/las-torres-malditas/templates/activity/transform-effect.hbs",
       templates: [
-        "systems/dnd5e/templates/activity/parts/activity-effects.hbs",
-        "systems/dnd5e/templates/activity/parts/transform-profiles.hbs",
-        "systems/dnd5e/templates/activity/parts/transform-settings.hbs"
+        "systems/las-torres-malditas/templates/activity/parts/activity-effects.hbs",
+        "systems/las-torres-malditas/templates/activity/parts/transform-profiles.hbs",
+        "systems/las-torres-malditas/templates/activity/parts/transform-settings.hbs"
       ]
     }
   };

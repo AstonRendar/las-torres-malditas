@@ -58,7 +58,7 @@ system:
         name: ''
         formula: ''
       name: Expend Use
-      img: systems/dnd5e/icons/svg/monster.svg
+      img: systems/las-torres-malditas/icons/svg/monster.svg
   uses:
     spent: 0
     recovery: []
@@ -138,7 +138,7 @@ effects:
       exportSource: null
     _key: '!items.effects!mmWhirlwindOfSan.Xy0tzgObrMRF2lHm'
   - name: Blinded
-    img: systems/dnd5e/icons/svg/statuses/blinded.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/blinded.svg
     origin: Item.mmWhirlwindOfSan
     _id: MMp7IK5bYYPYtSdL
     type: base

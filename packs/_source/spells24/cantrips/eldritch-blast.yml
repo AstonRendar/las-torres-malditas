@@ -114,7 +114,7 @@ system:
               mode: ''
               number: 1
       name: ''
-      img: systems/dnd5e/icons/svg/damage/force.svg
+      img: systems/las-torres-malditas/icons/svg/damage/force.svg
       appliedEffects: []
   identifier: eldritch-blast
 _id: phbsplEldritchBl

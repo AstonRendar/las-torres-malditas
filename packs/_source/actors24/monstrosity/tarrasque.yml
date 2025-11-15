@@ -613,7 +613,7 @@ items:
             name: ''
             formula: ''
           name: Expend Use
-          img: systems/dnd5e/icons/svg/monster.svg
+          img: systems/las-torres-malditas/icons/svg/monster.svg
       uses:
         spent: 0
         recovery: []
@@ -768,7 +768,7 @@ items:
             name: Roll d6
             formula: 1d6
           name: Roll d6
-          img: systems/dnd5e/icons/svg/dice/d6.svg
+          img: systems/las-torres-malditas/icons/svg/dice/d6.svg
       uses:
         spent: 0
         recovery: []
@@ -874,7 +874,7 @@ items:
             visible: false
             name: ''
             formula: ''
-          img: systems/dnd5e/icons/svg/monster.svg
+          img: systems/las-torres-malditas/icons/svg/monster.svg
       uses:
         spent: 0
         recovery: []
@@ -1108,7 +1108,7 @@ items:
     img: icons/creatures/abilities/fangs-teeth-bite.webp
     effects:
       - name: Grappled & Restrained
-        img: systems/dnd5e/icons/svg/statuses/restrained.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/restrained.svg
         origin: Compendium.dnd5e.actors24.Actor.mmTarrasque00000.Item.mmBite0000000000
         _id: wMLRjKVfS2fpTjiH
         type: base
@@ -1434,7 +1434,7 @@ items:
     img: icons/creatures/abilities/tail-swipe-green.webp
     effects:
       - name: Prone
-        img: systems/dnd5e/icons/svg/statuses/prone.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/prone.svg
         origin: Compendium.dnd5e.actors24.Actor.mmTarrasque00000.Item.mmTail0000000000
         _id: rpn1911j8EHqAHMP
         type: base
@@ -1606,7 +1606,7 @@ items:
     img: icons/magic/sonic/explosion-shock-sound-wave.webp
     effects:
       - name: Deafened & Frightened
-        img: systems/dnd5e/icons/svg/statuses/deafened.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/deafened.svg
         origin: Item.mmThunderousBell
         _id: DDrzXcjt2wWiTS9J
         type: base
@@ -1895,7 +1895,7 @@ items:
     img: icons/creatures/abilities/mouth-teeth-rows-needles-purple.webp
     effects:
       - name: Blinded, Restrained, and Total Cover
-        img: systems/dnd5e/icons/svg/statuses/blinded.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/blinded.svg
         origin: Item.mmSwallow0000000
         _id: VOHv1LyO3hHolZXo
         type: base
@@ -1943,7 +1943,7 @@ items:
         _key: >-
           !actors.items.effects!mmTarrasque00000.mmSwallow0000000.VOHv1LyO3hHolZXo
       - name: Prone
-        img: systems/dnd5e/icons/svg/statuses/prone.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/prone.svg
         origin: Item.mmSwallow0000000
         _id: aS5FyMP72vn3OKf1
         type: base
@@ -2060,7 +2060,7 @@ items:
             name: ''
             formula: ''
           name: Expend Use
-          img: systems/dnd5e/icons/svg/monster.svg
+          img: systems/las-torres-malditas/icons/svg/monster.svg
       uses:
         spent: 0
         recovery: []
@@ -2166,7 +2166,7 @@ items:
             name: ''
             formula: ''
           name: Expend Use
-          img: systems/dnd5e/icons/svg/monster.svg
+          img: systems/las-torres-malditas/icons/svg/monster.svg
       uses:
         spent: 0
         recovery: []
@@ -2203,7 +2203,7 @@ items:
     img: icons/magic/earth/barrier-stone-brown-green.webp
     effects:
       - name: Prone
-        img: systems/dnd5e/icons/svg/statuses/prone.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/prone.svg
         origin: Item.mmWorldshakingMo
         _id: ERWPInrx4mXsqrwL
         type: base

@@ -84,7 +84,7 @@ system:
         associated:
           - slt
         ability: ''
-      img: systems/dnd5e/icons/svg/statuses/grappled.svg
+      img: systems/las-torres-malditas/icons/svg/statuses/grappled.svg
     g6OUYMMm32iPjgCB:
       type: check
       name: Thieves' Tools
@@ -133,7 +133,7 @@ system:
         associated:
           - thief
         ability: dex
-      img: systems/dnd5e/icons/svg/versatile.svg
+      img: systems/las-torres-malditas/icons/svg/versatile.svg
     5pHgM0ZQStN6rIGE:
       type: utility
       name: Use an Object

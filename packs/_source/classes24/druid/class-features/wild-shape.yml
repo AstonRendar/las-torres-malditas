@@ -179,7 +179,7 @@ system:
         identifier: druid
         preset: wildshape
       name: ''
-      img: systems/dnd5e/icons/svg/abilities/intelligence.svg
+      img: systems/las-torres-malditas/icons/svg/abilities/intelligence.svg
   enchant: {}
   identifier: wild-shape
 effects: []

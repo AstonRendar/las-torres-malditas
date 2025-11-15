@@ -95,7 +95,7 @@ folder: 4T18pEvubPMQLzvD
 img: icons/magic/air/air-wave-gust-smoke-yellow.webp
 effects:
   - name: Blinded
-    img: systems/dnd5e/icons/svg/statuses/blinded.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/blinded.svg
     origin: Compendium.dnd5e.monsterfeatures24.Item.mmBlindingBreath
     transfer: false
     _id: uNffaKFUEBaATXHm

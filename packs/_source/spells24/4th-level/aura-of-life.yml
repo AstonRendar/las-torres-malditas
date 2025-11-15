@@ -99,7 +99,7 @@ system:
         max: ''
       sort: 0
       name: Create Aura
-      img: systems/dnd5e/icons/svg/trait-damage-immunities.svg
+      img: systems/las-torres-malditas/icons/svg/trait-damage-immunities.svg
       appliedEffects:
         - GV4hKah5zwQ3Bisx
   identifier: aura-of-life

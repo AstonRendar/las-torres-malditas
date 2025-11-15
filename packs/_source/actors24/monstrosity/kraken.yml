@@ -661,7 +661,7 @@ items:
             name: ''
             formula: ''
           name: Expend Use
-          img: systems/dnd5e/icons/svg/monster.svg
+          img: systems/las-torres-malditas/icons/svg/monster.svg
       uses:
         spent: 0
         recovery: []
@@ -816,7 +816,7 @@ items:
             visible: false
             name: ''
             formula: ''
-          img: systems/dnd5e/icons/svg/monster.svg
+          img: systems/las-torres-malditas/icons/svg/monster.svg
       uses:
         spent: 0
         recovery: []
@@ -1052,7 +1052,7 @@ items:
     img: icons/creatures/tentacles/tentacles-octopus-black-pink.webp
     effects:
       - name: Grappled & Restrained
-        img: systems/dnd5e/icons/svg/statuses/restrained.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/restrained.svg
         origin: Compendium.dnd-monster-manual.features.Item.mmTentacle000000
         transfer: false
         _id: KxcWsIHohpNmagLJ
@@ -1229,7 +1229,7 @@ items:
     img: icons/magic/movement/trail-streak-pink.webp
     effects:
       - name: Prone
-        img: systems/dnd5e/icons/svg/statuses/prone.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/prone.svg
         origin: Item.mmFling000000000
         _id: UovyViBfR9aAlt0y
         type: base
@@ -1633,7 +1633,7 @@ items:
             name: ''
             formula: ''
           name: Escape from Corpse
-          img: systems/dnd5e/icons/svg/monster.svg
+          img: systems/las-torres-malditas/icons/svg/monster.svg
       uses:
         spent: 0
         recovery: []
@@ -1680,7 +1680,7 @@ items:
     img: icons/creatures/abilities/mouth-teeth-rows-needles-purple.webp
     effects:
       - name: Restrained & Total Cover
-        img: systems/dnd5e/icons/svg/statuses/restrained.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/restrained.svg
         origin: Item.mmSwallow0000000
         _id: VOHv1LyO3hHolZXo
         type: base
@@ -1727,7 +1727,7 @@ items:
         _key: >-
           !actors.items.effects!mmKraken00000000.mmSwallow0000000.VOHv1LyO3hHolZXo
       - name: Prone
-        img: systems/dnd5e/icons/svg/statuses/prone.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/prone.svg
         origin: Item.mmSwallow0000000
         _id: aS5FyMP72vn3OKf1
         type: base
@@ -1773,7 +1773,7 @@ items:
         _key: >-
           !actors.items.effects!mmKraken00000000.mmSwallow0000000.aS5FyMP72vn3OKf1
       - name: 'Escape: Prone'
-        img: systems/dnd5e/icons/svg/statuses/prone.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/prone.svg
         origin: Compendium.dnd5e.actors24.Actor.mmKraken00000000.Item.mmSwallow0000000
         _id: afivY2VBJc5HUyt1
         type: base
@@ -1882,7 +1882,7 @@ items:
             name: ''
             formula: ''
           name: Expend Use
-          img: systems/dnd5e/icons/svg/monster.svg
+          img: systems/las-torres-malditas/icons/svg/monster.svg
       uses:
         spent: 0
         recovery: []
@@ -1911,7 +1911,7 @@ items:
     img: icons/magic/lightning/bolt-strike-blue.webp
     effects:
       - name: Prone
-        img: systems/dnd5e/icons/svg/statuses/prone.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/prone.svg
         origin: Item.mmStormBolt00000
         _id: UXwZ02kqy96aH3dZ
         type: base
@@ -2039,7 +2039,7 @@ items:
               calculation: con
               formula: 8 + @mod + @prof
           name: Save
-          img: systems/dnd5e/icons/svg/activity/save.svg
+          img: systems/las-torres-malditas/icons/svg/activity/save.svg
       uses:
         spent: 0
         recovery: []
@@ -2078,7 +2078,7 @@ items:
     img: icons/magic/unholy/strike-beam-blood-small-red-purple.webp
     effects:
       - name: Blinded & Poisoned
-        img: systems/dnd5e/icons/svg/statuses/blinded.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/blinded.svg
         origin: Item.mmToxicInk000000
         _id: 6eeusiffMtDU3C3c
         type: base

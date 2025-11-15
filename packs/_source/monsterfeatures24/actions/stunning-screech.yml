@@ -107,7 +107,7 @@ system:
     subtype: ''
 effects:
   - name: Stunned
-    img: systems/dnd5e/icons/svg/statuses/stunned.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/stunned.svg
     origin: Item.mmStunningScreec
     _id: dQ635FV7U5Y5LUE7
     type: base

@@ -85,7 +85,7 @@ system:
         visible: false
         name: Bonus
         formula: 1d10
-      img: systems/dnd5e/icons/svg/dice/d10.svg
+      img: systems/las-torres-malditas/icons/svg/dice/d10.svg
   enchant: {}
   identifier: dark-ones-own-luck
 effects: []

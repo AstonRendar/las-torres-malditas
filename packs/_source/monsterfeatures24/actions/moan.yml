@@ -95,7 +95,7 @@ folder: 4T18pEvubPMQLzvD
 img: icons/magic/control/fear-fright-white.webp
 effects:
   - name: Frightened
-    img: systems/dnd5e/icons/svg/statuses/frightened.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/frightened.svg
     origin: Item.mmMoan0000000000
     _id: ozk8flGDR2kAITEI
     type: base

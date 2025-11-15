@@ -913,7 +913,7 @@ items:
     img: icons/magic/air/air-wave-gust-smoke-yellow.webp
     effects:
       - name: Blinded
-        img: systems/dnd5e/icons/svg/statuses/blinded.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/blinded.svg
         origin: Compendium.dnd-monster-manual.features.Item.mmBlindingBreath
         transfer: false
         _id: uNffaKFUEBaATXHm
@@ -1228,7 +1228,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmDustMephit0000.Item.mmSleep000000000.Activity.cSodzDxxCJH0nwai
         changes:

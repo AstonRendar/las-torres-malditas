@@ -108,7 +108,7 @@ system:
         name: ''
         formula: ''
       name: Beckon Element
-      img: systems/dnd5e/icons/svg/statuses/grappled.svg
+      img: systems/las-torres-malditas/icons/svg/statuses/grappled.svg
     8IholW9syQX6TFOg:
       type: utility
       _id: 8IholW9syQX6TFOg
@@ -156,7 +156,7 @@ system:
         name: ''
         formula: ''
       name: Sculpt Element
-      img: systems/dnd5e/icons/svg/damage/bludgeoning.svg
+      img: systems/las-torres-malditas/icons/svg/damage/bludgeoning.svg
   identifier: elementalism
 _id: phbsplElementali
 type: spell

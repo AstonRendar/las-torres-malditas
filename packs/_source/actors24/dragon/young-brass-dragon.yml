@@ -1064,7 +1064,7 @@ items:
     img: icons/magic/control/sleep-bubble-purple.webp
     effects:
       - name: Incapacitated
-        img: systems/dnd5e/icons/svg/statuses/incapacitated.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/incapacitated.svg
         origin: Item.mmSleepBreath000
         _id: 9t5G87DeDyAF22dr
         type: base
@@ -1111,7 +1111,7 @@ items:
         _key: >-
           !actors.items.effects!mmYoungBrassDrag.mmSleepBreath000.9t5G87DeDyAF22dr
       - name: Unconscious
-        img: systems/dnd5e/icons/svg/statuses/unconscious.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/unconscious.svg
         origin: Item.mmSleepBreath000
         _id: eiPsvHBjVi4pRHqJ
         type: base

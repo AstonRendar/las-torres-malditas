@@ -86,7 +86,7 @@ system:
         visible: false
         name: ''
         formula: ''
-      img: systems/dnd5e/icons/svg/size.svg
+      img: systems/las-torres-malditas/icons/svg/size.svg
   enchant: {}
   identifier: large-form
   advancement: []

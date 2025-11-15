@@ -600,7 +600,7 @@ items:
             visible: false
             name: ''
             formula: ''
-          img: systems/dnd5e/icons/svg/monster.svg
+          img: systems/las-torres-malditas/icons/svg/monster.svg
       uses:
         spent: 0
         recovery: []
@@ -782,7 +782,7 @@ items:
     img: icons/weapons/clubs/club-simple-black.webp
     effects:
       - name: Prone
-        img: systems/dnd5e/icons/svg/statuses/prone.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/prone.svg
         origin: Compendium.dnd-monster-manual.features.Item.mmTreeClub000000
         _id: 7GhARrr7f6zhJjqy
         type: base
@@ -971,7 +971,7 @@ items:
     img: icons/commodities/materials/material-cotton-white.webp
     effects:
       - name: Poisoned
-        img: systems/dnd5e/icons/svg/statuses/poisoned.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/poisoned.svg
         origin: Compendium.dnd-monster-manual.features.Item.mmTrashLob000000
         _id: BMs7Yw88gCikNkXO
         type: base

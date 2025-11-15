@@ -653,7 +653,7 @@ items:
             name: ''
             formula: ''
           name: Expend Use
-          img: systems/dnd5e/icons/svg/monster.svg
+          img: systems/las-torres-malditas/icons/svg/monster.svg
       uses:
         spent: 0
         recovery: []
@@ -1182,7 +1182,7 @@ items:
     img: icons/magic/light/beam-rays-orange-large.webp
     effects:
       - name: Prone
-        img: systems/dnd5e/icons/svg/statuses/prone.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/prone.svg
         origin: Item.mmRepulsionBreat
         _id: HG9R2hTEqJ0G5urK
         type: base
@@ -1790,7 +1790,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmAdultBronzeDra.Item.mmSpellcasting00.Activity.Cpd8vd1EER5gUSvQ
         changes:
@@ -2010,7 +2010,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmAdultBronzeDra.Item.mmSpellcasting00.Activity.ze924C680jda0r9T
         changes:
@@ -2178,7 +2178,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmAdultBronzeDra.Item.mmSpellcasting00.Activity.aRmjzvUIReJbfnDD
         changes:
@@ -2377,7 +2377,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmAdultBronzeDra.Item.mmSpellcasting00.Activity.vpQKJWySM5Xtfxnm
         changes:
@@ -2542,7 +2542,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmAdultBronzeDra.Item.mmSpellcasting00.Activity.7kKQrfyREsH9g1OB
         changes:
@@ -2767,7 +2767,7 @@ items:
             visible: false
             name: ''
             formula: ''
-          img: systems/dnd5e/icons/svg/damage/psychic.svg
+          img: systems/las-torres-malditas/icons/svg/damage/psychic.svg
       identifier: detect-thoughts
     type: spell
     img: icons/skills/social/diplomacy-handshake-yellow.webp
@@ -2775,7 +2775,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmAdultBronzeDra.Item.mmSpellcasting00.Activity.W3sveD2Wm3abIdqD
         changes:
@@ -2969,7 +2969,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmAdultBronzeDra.Item.mmSpellcasting00.Activity.NiOwXtwCP98weKXJ
         changes:
@@ -3290,7 +3290,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmAdultBronzeDra.Item.mmGuidingLight00.Activity.zm9pGaRN3rgfVgGl
         changes:
@@ -3414,7 +3414,7 @@ items:
             formula: ''
             name: ''
           name: Expend Use
-          img: systems/dnd5e/icons/svg/monster.svg
+          img: systems/las-torres-malditas/icons/svg/monster.svg
           _id: IzdTKthBAsB8MBfB
       uses:
         spent: 0
@@ -3537,7 +3537,7 @@ items:
               calculation: ''
               formula: '17'
           name: Save
-          img: systems/dnd5e/icons/svg/activity/save.svg
+          img: systems/las-torres-malditas/icons/svg/activity/save.svg
       uses:
         spent: 0
         recovery: []
@@ -3573,7 +3573,7 @@ items:
     img: icons/magic/lightning/bolts-salvo-clouds-sky.webp
     effects:
       - name: Deafened
-        img: systems/dnd5e/icons/svg/statuses/deafened.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/deafened.svg
         origin: Item.mmThunderclap000
         _id: QyuBYDW1zznn0OS4
         type: base

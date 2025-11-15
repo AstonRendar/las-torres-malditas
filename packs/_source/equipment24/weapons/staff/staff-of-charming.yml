@@ -243,7 +243,7 @@ system:
         visible: false
         name: ''
         formula: ''
-      img: systems/dnd5e/icons/svg/activity/save.svg
+      img: systems/las-torres-malditas/icons/svg/activity/save.svg
       appliedEffects: []
     tEk1wNWngqDYOgOB:
       type: utility
@@ -295,7 +295,7 @@ system:
         visible: false
         name: ''
         formula: ''
-      img: systems/dnd5e/icons/svg/rosa-shield.svg
+      img: systems/las-torres-malditas/icons/svg/rosa-shield.svg
       appliedEffects: []
   uses:
     spent: 0

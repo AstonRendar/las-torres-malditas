@@ -143,7 +143,7 @@ system:
 effects:
   - type: enchantment
     name: Weapon of Warning
-    img: systems/dnd5e/icons/spell-tiers/spell2.webp
+    img: systems/las-torres-malditas/icons/spell-tiers/spell2.webp
     disabled: true
     _id: 5rHVxAXfNzLO5zxx
     system: {}

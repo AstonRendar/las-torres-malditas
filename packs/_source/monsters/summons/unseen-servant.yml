@@ -507,7 +507,7 @@ effects:
       modifiedTime: null
       lastModifiedBy: null
       exportSource: null
-    img: systems/dnd5e/icons/svg/statuses/invisible.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/invisible.svg
     type: base
     system: {}
     tint: '#ffffff'

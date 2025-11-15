@@ -74,7 +74,7 @@ system:
       configuration: {}
       value: {}
       title: Hit Points
-      icon: systems/dnd5e/icons/svg/hit-points.svg
+      icon: systems/las-torres-malditas/icons/svg/hit-points.svg
       _id: xBohtOEv3ukqmso2
     - _id: TYXdkZvuFRIksnaN
       type: Trait

@@ -140,7 +140,7 @@ folder: aehE0L1ERkzYCvJW
 img: icons/magic/death/hand-withered-gray.webp
 effects:
   - name: Exhaustion
-    img: systems/dnd5e/icons/svg/statuses/exhaustion.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/exhaustion.svg
     origin: Item.8CIk2r0V5cy5Ggjz
     _id: Bf6DExMyhKyPPV4x
     type: base

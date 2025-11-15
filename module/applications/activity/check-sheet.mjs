@@ -17,10 +17,10 @@ export default class CheckSheet extends ActivitySheet {
   static PARTS = {
     ...super.PARTS,
     effect: {
-      template: "systems/dnd5e/templates/activity/check-effect.hbs",
+      template: "systems/las-torres-malditas/templates/activity/check-effect.hbs",
       templates: [
         ...super.PARTS.effect.templates,
-        "systems/dnd5e/templates/activity/parts/check-details.hbs"
+        "systems/las-torres-malditas/templates/activity/parts/check-details.hbs"
       ]
     }
   };

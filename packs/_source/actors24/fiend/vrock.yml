@@ -650,7 +650,7 @@ items:
             visible: false
             name: ''
             formula: ''
-          img: systems/dnd5e/icons/svg/monster.svg
+          img: systems/las-torres-malditas/icons/svg/monster.svg
           appliedEffects: []
       uses:
         spent: 0
@@ -1023,7 +1023,7 @@ items:
     img: icons/magic/air/fog-gas-smoke-orange.webp
     effects:
       - name: Poisoned
-        img: systems/dnd5e/icons/svg/statuses/poisoned.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/poisoned.svg
         origin: Item.mmSpores00000000
         _id: DeVYxc3BdGlZNeD9
         type: base
@@ -1199,7 +1199,7 @@ items:
         subtype: ''
     effects:
       - name: Stunned
-        img: systems/dnd5e/icons/svg/statuses/stunned.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/stunned.svg
         origin: Item.mmStunningScreec
         _id: dQ635FV7U5Y5LUE7
         type: base

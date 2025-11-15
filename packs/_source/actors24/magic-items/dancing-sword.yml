@@ -626,7 +626,7 @@ items:
     _id: W8EZZZznFN8X4gGD
     type: weapon
     folder: fd3qxAXCv2FhExPp
-    img: systems/dnd5e/icons/items/greatsword.webp
+    img: systems/las-torres-malditas/icons/items/greatsword.webp
     effects: []
     sort: 0
     ownership:
@@ -796,7 +796,7 @@ items:
     _id: DPH6ngFfFJHdxMYe
     type: weapon
     folder: fd3qxAXCv2FhExPp
-    img: systems/dnd5e/icons/items/longsword.webp
+    img: systems/las-torres-malditas/icons/items/longsword.webp
     effects: []
     sort: 0
     ownership:
@@ -966,7 +966,7 @@ items:
     _id: dlSKamvVAPMCCTbC
     type: weapon
     folder: fd3qxAXCv2FhExPp
-    img: systems/dnd5e/icons/items/rapier.webp
+    img: systems/las-torres-malditas/icons/items/rapier.webp
     effects: []
     sort: 0
     ownership:
@@ -1137,7 +1137,7 @@ items:
     _id: aYun8JFJxhdpFw14
     type: weapon
     folder: fd3qxAXCv2FhExPp
-    img: systems/dnd5e/icons/items/scimitar.webp
+    img: systems/las-torres-malditas/icons/items/scimitar.webp
     effects: []
     sort: 0
     ownership:
@@ -1308,7 +1308,7 @@ items:
     _id: 237FLmvncdVOhDKY
     type: weapon
     folder: fd3qxAXCv2FhExPp
-    img: systems/dnd5e/icons/items/shortsword.webp
+    img: systems/las-torres-malditas/icons/items/shortsword.webp
     effects: []
     sort: 0
     ownership:

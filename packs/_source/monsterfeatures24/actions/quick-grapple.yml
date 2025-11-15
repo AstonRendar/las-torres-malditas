@@ -141,7 +141,7 @@ folder: 4T18pEvubPMQLzvD
 img: icons/skills/melee/hand-grip-staff-yellow-brown.webp
 effects:
   - name: Grappled
-    img: systems/dnd5e/icons/svg/statuses/grappled.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/grappled.svg
     origin: Item.mmQuickGrapple00
     _id: 5yLzwp2Gu803QgI9
     type: base

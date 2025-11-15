@@ -89,7 +89,7 @@ folder: 4T18pEvubPMQLzvD
 img: icons/magic/control/control-influence-crown-gold.webp
 effects:
   - name: Charmed
-    img: systems/dnd5e/icons/svg/statuses/charmed.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/charmed.svg
     origin: Compendium.dnd5e.monsterfeatures24.Item.mmCaptainsCharm0
     transfer: false
     _id: mEbtIO1mUEkMNvja

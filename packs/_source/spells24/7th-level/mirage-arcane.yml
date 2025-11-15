@@ -103,7 +103,7 @@ system:
         name: ''
         formula: ''
       name: Alter Terrain
-      img: systems/dnd5e/icons/svg/damage/slashing.svg
+      img: systems/las-torres-malditas/icons/svg/damage/slashing.svg
       appliedEffects: []
   identifier: mirage-arcane
 _id: phbsplMirageArca

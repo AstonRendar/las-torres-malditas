@@ -108,7 +108,7 @@ folder: 4T18pEvubPMQLzvD
 img: icons/magic/control/fear-fright-white.webp
 effects:
   - name: Unconscious
-    img: systems/dnd5e/icons/svg/statuses/unconscious.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/unconscious.svg
     origin: Item.mmNightmare00000
     _id: Di6rSDXgFkxAGsFE
     type: base

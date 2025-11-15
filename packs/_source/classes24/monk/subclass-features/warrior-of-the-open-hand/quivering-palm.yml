@@ -162,7 +162,7 @@ system:
   identifier: quivering-palm
 effects:
   - name: Lethal Vibrations
-    img: systems/dnd5e/icons/svg/items/feature.svg
+    img: systems/las-torres-malditas/icons/svg/items/feature.svg
     origin: Compendium.dnd5e.classes24.Item.phbmnkQuiveringP
     transfer: false
     _id: GnIJc9uI54mfAQz8

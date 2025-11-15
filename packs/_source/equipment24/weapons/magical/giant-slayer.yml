@@ -208,7 +208,7 @@ system:
 effects:
   - type: enchantment
     name: Giant Slayer
-    img: systems/dnd5e/icons/spell-tiers/spell3.webp
+    img: systems/las-torres-malditas/icons/spell-tiers/spell3.webp
     disabled: true
     _id: ZwpawARncDIheC65
     system: {}

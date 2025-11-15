@@ -183,7 +183,7 @@ folder: pSCWWdqMX9eUATRJ
 img: icons/creatures/tentacles/tentacles-octopus-black-pink.webp
 effects:
   - name: Grappled
-    img: systems/dnd5e/icons/svg/statuses/grappled.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/grappled.svg
     origin: Compendium.dnd5e.monsterfeatures24.Item.mmTentacle000000
     transfer: false
     _id: KxcWsIHohpNmagLJ

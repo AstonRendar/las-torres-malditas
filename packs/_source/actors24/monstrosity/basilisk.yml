@@ -871,7 +871,7 @@ items:
     img: icons/magic/defensive/armor-stone-skin.webp
     effects:
       - name: Restrained
-        img: systems/dnd5e/icons/svg/statuses/restrained.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/restrained.svg
         origin: Item.mmPetrifyingGaze
         _id: a5kKgU7vfT0v17yF
         type: base
@@ -918,7 +918,7 @@ items:
         _key: >-
           !actors.items.effects!mmBasilisk000000.mmPetrifyingGaze.a5kKgU7vfT0v17yF
       - name: Petrified
-        img: systems/dnd5e/icons/svg/statuses/petrified.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/petrified.svg
         origin: Item.mmPetrifyingGaze
         _id: YLFv2Ujss9c0vtMQ
         type: base

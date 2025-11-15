@@ -110,7 +110,7 @@ effects:
       startTurn: null
     disabled: false
     flags: {}
-    img: systems/dnd5e/icons/svg/statuses/charmed.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/charmed.svg
     _id: CB1jIPB4yINOpjQX
     type: base
     system: {}

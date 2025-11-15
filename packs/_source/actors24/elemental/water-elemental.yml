@@ -1222,7 +1222,7 @@ items:
     img: icons/magic/water/bubbles-air-water-light.webp
     effects:
       - name: Grappled & Restrained
-        img: systems/dnd5e/icons/svg/statuses/grappled.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/grappled.svg
         origin: Item.mmWhelm000000000
         _id: rN76liiHkUoMRMJN
         type: base

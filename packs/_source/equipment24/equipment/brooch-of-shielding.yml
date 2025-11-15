@@ -58,7 +58,7 @@ system:
   proficient: null
 effects:
   - name: 'Resistance: Force'
-    img: systems/dnd5e/icons/svg/activity/save.svg
+    img: systems/las-torres-malditas/icons/svg/activity/save.svg
     _id: rTeT5OPP4biUfHyX
     type: base
     system: {}

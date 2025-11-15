@@ -9,7 +9,7 @@ results:
       - 1
     drawn: false
     _id: WovaOgGxcfHHCXCu
-    img: systems/dnd5e/tokens/beast/Rat.webp
+    img: systems/las-torres-malditas/tokens/beast/Rat.webp
     flags: {}
     _stats:
       coreVersion: '13.344'
@@ -32,7 +32,7 @@ results:
       - 2
     drawn: false
     _id: lLLibUhX766v95aa
-    img: systems/dnd5e/tokens/beast/Owl.webp
+    img: systems/las-torres-malditas/tokens/beast/Owl.webp
     flags: {}
     _stats:
       coreVersion: '13.344'
@@ -55,7 +55,7 @@ results:
       - 3
     drawn: false
     _id: 8c41d4R663Slopt6
-    img: systems/dnd5e/tokens/beast/Mastiff.webp
+    img: systems/las-torres-malditas/tokens/beast/Mastiff.webp
     flags: {}
     _stats:
       coreVersion: '13.344'
@@ -78,7 +78,7 @@ results:
       - 4
     drawn: false
     _id: NVkpFhIDdTsGrwrm
-    img: systems/dnd5e/tokens/beast/Goat.webp
+    img: systems/las-torres-malditas/tokens/beast/Goat.webp
     flags: {}
     _stats:
       coreVersion: '13.344'
@@ -101,7 +101,7 @@ results:
       - 5
     drawn: false
     _id: g44x1kM2YztO54L8
-    img: systems/dnd5e/tokens/beast/GiantGoat.webp
+    img: systems/las-torres-malditas/tokens/beast/GiantGoat.webp
     flags: {}
     _stats:
       coreVersion: '13.344'
@@ -124,7 +124,7 @@ results:
       - 6
     drawn: false
     _id: 3xTzZJeTzSLLxpwW
-    img: systems/dnd5e/tokens/beast/GiantBoar.webp
+    img: systems/las-torres-malditas/tokens/beast/GiantBoar.webp
     flags: {}
     _stats:
       coreVersion: '13.344'
@@ -147,7 +147,7 @@ results:
       - 7
     drawn: false
     _id: J6HG6A1Ssb12loTI
-    img: systems/dnd5e/tokens/beast/Lion.webp
+    img: systems/las-torres-malditas/tokens/beast/Lion.webp
     flags: {}
     _stats:
       coreVersion: '13.344'
@@ -170,7 +170,7 @@ results:
       - 8
     drawn: false
     _id: ZW7OYeehs2Bf1UJO
-    img: systems/dnd5e/tokens/beast/BrownBear.webp
+    img: systems/las-torres-malditas/tokens/beast/BrownBear.webp
     flags: {}
     _stats:
       coreVersion: '13.344'

@@ -63,7 +63,7 @@ system:
   proficient: null
 effects:
   - name: 'Enhance Fortitude: Constitution Bonus'
-    img: systems/dnd5e/icons/svg/abilities/constitution.svg
+    img: systems/las-torres-malditas/icons/svg/abilities/constitution.svg
     _id: hOigjfupZtZR2cy9
     type: base
     system: {}

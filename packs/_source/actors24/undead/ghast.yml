@@ -653,7 +653,7 @@ items:
     img: icons/magic/air/fog-gas-smoke-swirling-orange.webp
     effects:
       - name: Poisoned
-        img: systems/dnd5e/icons/svg/statuses/poisoned.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/poisoned.svg
         origin: Compendium.dnd-monster-manual.features.Item.mmStench00000000
         _id: rHL9lpchOon81CN1
         type: base
@@ -1041,7 +1041,7 @@ items:
     img: icons/skills/melee/blood-slash-foam-red.webp
     effects:
       - name: Paralyzed
-        img: systems/dnd5e/icons/svg/statuses/paralyzed.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/paralyzed.svg
         origin: Compendium.dnd5e.actors24.Actor.mmGhast000000000.Item.SQ1vT3qHTKj46khh
         _id: Iw0CKY4OcHwWY1LV
         type: base

@@ -81,7 +81,7 @@ system:
         visible: false
         name: ''
         formula: ''
-      img: systems/dnd5e/icons/svg/ability-score-improvement.svg
+      img: systems/las-torres-malditas/icons/svg/ability-score-improvement.svg
   enchant: {}
   identifier: empowered-spell
 effects: []

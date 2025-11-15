@@ -106,7 +106,7 @@ system:
         max: ''
       sort: 0
       name: ''
-      img: systems/dnd5e/icons/svg/trait-saves.svg
+      img: systems/las-torres-malditas/icons/svg/trait-saves.svg
       appliedEffects: []
   identifier: dimension-door
 _id: phbsplDimensionD

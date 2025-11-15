@@ -53,30 +53,30 @@ export default class ItemSheet5e extends PrimarySheetMixin(DocumentSheet5e) {
   /** @override */
   static PARTS = {
     header: {
-      template: "systems/dnd5e/templates/items/header.hbs"
+      template: "systems/las-torres-malditas/templates/items/header.hbs"
     },
     tabs: {
-      template: "systems/dnd5e/templates/shared/horizontal-tabs.hbs",
+      template: "systems/las-torres-malditas/templates/shared/horizontal-tabs.hbs",
       templates: ["templates/generic/tab-navigation.hbs"]
     },
     activities: {
-      template: "systems/dnd5e/templates/items/activities.hbs",
+      template: "systems/las-torres-malditas/templates/items/activities.hbs",
       scrollable: [""]
     },
     advancement: {
-      template: "systems/dnd5e/templates/items/advancement.hbs",
+      template: "systems/las-torres-malditas/templates/items/advancement.hbs",
       scrollable: [""]
     },
     description: {
-      template: "systems/dnd5e/templates/items/description.hbs",
+      template: "systems/las-torres-malditas/templates/items/description.hbs",
       scrollable: [""]
     },
     details: {
-      template: "systems/dnd5e/templates/items/details.hbs",
+      template: "systems/las-torres-malditas/templates/items/details.hbs",
       scrollable: [""]
     },
     effects: {
-      template: "systems/dnd5e/templates/items/effects.hbs",
+      template: "systems/las-torres-malditas/templates/items/effects.hbs",
       scrollable: [""]
     }
   };
@@ -484,12 +484,12 @@ export default class ItemSheet5e extends PrimarySheetMixin(DocumentSheet5e) {
     if ( advancement.classRestriction === "primary" ) {
       tags.push({
         label: "DND5E.AdvancementClassRestrictionPrimary",
-        icon: "systems/dnd5e/icons/svg/original-class.svg"
+        icon: "systems/las-torres-malditas/icons/svg/original-class.svg"
       });
     } else if ( advancement.classRestriction === "secondary" ) {
       tags.push({
         label: "DND5E.AdvancementClassRestrictionSecondary",
-        icon: "systems/dnd5e/icons/svg/multiclass.svg"
+        icon: "systems/las-torres-malditas/icons/svg/multiclass.svg"
       });
     }
     return tags;

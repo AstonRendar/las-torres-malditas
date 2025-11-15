@@ -164,7 +164,7 @@ system:
         visible: false
         name: ''
         formula: ''
-      img: systems/dnd5e/icons/svg/damage/psychic.svg
+      img: systems/las-torres-malditas/icons/svg/damage/psychic.svg
       appliedEffects: []
   identifier: detect-thoughts
 _id: phbsplDetectThou

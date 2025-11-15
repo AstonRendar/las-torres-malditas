@@ -153,7 +153,7 @@ system:
 effects:
   - type: enchantment
     name: Vorpal Sword
-    img: systems/dnd5e/icons/spell-tiers/spell4.webp
+    img: systems/las-torres-malditas/icons/spell-tiers/spell4.webp
     disabled: true
     _id: mxrAgEyDsV2h5jla
     system: {}

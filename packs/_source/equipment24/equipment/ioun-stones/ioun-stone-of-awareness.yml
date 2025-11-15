@@ -63,7 +63,7 @@ system:
   proficient: null
 effects:
   - name: 'Enhanced Awareness: Initiative and Perception'
-    img: systems/dnd5e/icons/svg/activity/check.svg
+    img: systems/las-torres-malditas/icons/svg/activity/check.svg
     _id: P2rx8Fq56YpwQfSm
     type: base
     system: {}

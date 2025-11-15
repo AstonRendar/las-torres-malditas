@@ -54,7 +54,7 @@ system:
         formula: ''
         name: ''
       name: Expend Use
-      img: systems/dnd5e/icons/svg/monster.svg
+      img: systems/las-torres-malditas/icons/svg/monster.svg
       appliedEffects:
         - JttKvsdAlGpcrFx0
   uses:
@@ -89,7 +89,7 @@ system:
     subtype: ''
 effects:
   - name: 'Blinded: Heavily Obscured'
-    img: systems/dnd5e/icons/svg/statuses/blinded.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/blinded.svg
     origin: Compendium.dnd5e.monsterfeatures24.Item.mmInkCloud000000
     _id: JttKvsdAlGpcrFx0
     type: base

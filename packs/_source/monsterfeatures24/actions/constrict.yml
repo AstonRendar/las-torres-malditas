@@ -151,7 +151,7 @@ folder: 4T18pEvubPMQLzvD
 img: icons/magic/nature/root-vine-entangled-hands.webp
 effects:
   - name: Grappled and Restrained
-    img: systems/dnd5e/icons/svg/statuses/restrained.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/restrained.svg
     origin: Compendium.dnd5e.monsterfeatures24.Item.mmConstrict00000
     transfer: false
     _id: Hd0Gy3wJtPfObERq

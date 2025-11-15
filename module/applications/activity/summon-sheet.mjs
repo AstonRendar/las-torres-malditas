@@ -20,11 +20,11 @@ export default class SummonSheet extends ActivitySheet {
   static PARTS = {
     ...super.PARTS,
     effect: {
-      template: "systems/dnd5e/templates/activity/summon-effect.hbs",
+      template: "systems/las-torres-malditas/templates/activity/summon-effect.hbs",
       templates: [
-        "systems/dnd5e/templates/activity/parts/activity-effects.hbs",
-        "systems/dnd5e/templates/activity/parts/summon-changes.hbs",
-        "systems/dnd5e/templates/activity/parts/summon-profiles.hbs"
+        "systems/las-torres-malditas/templates/activity/parts/activity-effects.hbs",
+        "systems/las-torres-malditas/templates/activity/parts/summon-changes.hbs",
+        "systems/las-torres-malditas/templates/activity/parts/summon-profiles.hbs"
       ]
     }
   };

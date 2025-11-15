@@ -1038,7 +1038,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmNightHag000000.Item.mmCovenMagic0000.Activity.8ju3sHk7cBC4KmcD
         changes:
@@ -1254,7 +1254,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmNightHag000000.Item.mmCovenMagic0000.Activity.tFMa0R3ASrW58hwK
         changes:
@@ -1415,7 +1415,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmNightHag000000.Item.mmCovenMagic0000.Activity.vT617J2KBufcrx7f
         changes:
@@ -1581,7 +1581,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmNightHag000000.Item.mmCovenMagic0000.Activity.N6ny9K2f4ckcSvXq
         changes:
@@ -2189,7 +2189,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmNightHag000000.Item.mmCovenMagic0000.Activity.1LYa3YdeNryXGv4z
         changes:
@@ -2381,7 +2381,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmNightHag000000.Item.mmCovenMagic0000.Activity.IsLR26jWhhHrcdgh
         changes:
@@ -3127,7 +3127,7 @@ items:
             visible: false
             name: ''
             formula: ''
-          img: systems/dnd5e/icons/svg/monster.svg
+          img: systems/las-torres-malditas/icons/svg/monster.svg
       uses:
         spent: 0
         recovery: []
@@ -3486,7 +3486,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmNightHag000000.Item.mmNightmareHaunt.Activity.4GGGVhvLSrHgHdb9
         changes:
@@ -3688,7 +3688,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmNightHag000000.Item.mmSpellcasting00.Activity.3MkhXZwZstyLUC3q
         changes:
@@ -3855,13 +3855,13 @@ items:
             name: ''
             formula: ''
           name: Enter Border Ethereal
-          img: systems/dnd5e/icons/svg/trait-saves.svg
+          img: systems/las-torres-malditas/icons/svg/trait-saves.svg
       identifier: etherealness
     type: spell
     img: icons/magic/air/wind-vortex-swirl-purple.webp
     effects:
       - name: Etherealness
-        img: systems/dnd5e/icons/svg/statuses/ethereal.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/ethereal.svg
         origin: Compendium.dnd5e.spells24.Item.phbsplEtherealne
         transfer: false
         _id: louTI4Z9bNUYBa8K
@@ -3898,7 +3898,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmNightHag000000.Item.mmSpellcasting00.Activity.sQUF1CpUhCCeBaLa
         changes:
@@ -4069,7 +4069,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmNightHag000000.Item.mmSpellcasting00.Activity.6yRxdIxAEKjETfDR
         changes:
@@ -4293,7 +4293,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmNightHag000000.Item.mmSpellcasting00.Activity.3HWjRm7jU0wWgm2z
         changes:
@@ -4448,7 +4448,7 @@ items:
             name: ''
             formula: ''
           name: Transport
-          img: systems/dnd5e/icons/svg/trait-saves.svg
+          img: systems/las-torres-malditas/icons/svg/trait-saves.svg
       identifier: plane-shift
     type: spell
     img: icons/skills/targeting/target-glowing-yellow.webp
@@ -4456,7 +4456,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmNightHag000000.Item.mmSpellcasting00.Activity.J4d0evowt5sCN00X
         changes:

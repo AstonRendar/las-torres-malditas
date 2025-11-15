@@ -120,7 +120,7 @@ folder: pSCWWdqMX9eUATRJ
 img: icons/commodities/materials/hair-braid-gold.webp
 effects:
   - name: Poisoned
-    img: systems/dnd5e/icons/svg/statuses/poisoned.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/poisoned.svg
     origin: Compendium.dnd5e.monsterfeatures24.Item.mmBeard000000000
     transfer: false
     _id: dnpr0RaXDWfSZOYz

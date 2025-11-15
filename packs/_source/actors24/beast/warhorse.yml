@@ -733,7 +733,7 @@ items:
     img: icons/commodities/bones/hooves-cloven-brown.webp
     effects:
       - name: Prone
-        img: systems/dnd5e/icons/svg/statuses/prone.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/prone.svg
         origin: Compendium.dnd5e.actors24.Actor.mmWarhorse000000.Item.mmHooves00000000
         _id: rwjpgI9Lp3jozIie
         type: base

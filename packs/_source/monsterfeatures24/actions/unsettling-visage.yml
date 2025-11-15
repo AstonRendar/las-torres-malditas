@@ -102,7 +102,7 @@ folder: 4T18pEvubPMQLzvD
 img: icons/magic/control/silhouette-hold-change-green.webp
 effects:
   - name: Frightened
-    img: systems/dnd5e/icons/svg/statuses/frightened.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/frightened.svg
     origin: Item.mmUnsettlingVisa
     _id: t3d77s2YYM0OgsvZ
     type: base

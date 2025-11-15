@@ -74,7 +74,7 @@ folder: pSCWWdqMX9eUATRJ
 img: icons/magic/lightning/bolt-strike-creature-pink.webp
 effects:
   - name: Incapacitated
-    img: systems/dnd5e/icons/svg/statuses/incapacitated.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/incapacitated.svg
     origin: Compendium.dnd5e.monsterfeatures24.Item.mmThundercloud00
     _id: zntfQrOQz4iBlh22
     type: base

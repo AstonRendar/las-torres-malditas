@@ -101,7 +101,7 @@ effects:
       startTurn: null
     disabled: false
     flags: {}
-    img: systems/dnd5e/icons/svg/statuses/invisible.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/invisible.svg
     _id: NDpw6r63ZdEgks1a
     type: base
     system: {}

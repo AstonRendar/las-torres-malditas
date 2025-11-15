@@ -716,7 +716,7 @@ items:
             visible: false
             name: ''
             formula: ''
-          img: systems/dnd5e/icons/svg/monster.svg
+          img: systems/las-torres-malditas/icons/svg/monster.svg
       uses:
         spent: 0
         recovery: []
@@ -949,7 +949,7 @@ items:
     img: icons/commodities/claws/claw-pincer-grey.webp
     effects:
       - name: Grappled
-        img: systems/dnd5e/icons/svg/statuses/grappled.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/grappled.svg
         origin: Compendium.dnd-monster-manual.features.Item.mmPincer00000000
         _id: GCED8YlF6qXTgEkd
         type: base
@@ -1579,7 +1579,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmGlabrezu000000.Item.mmSpellcasting00.Activity.3MkhXZwZstyLUC3q
         changes:
@@ -1779,7 +1779,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmGlabrezu000000.Item.mmSpellcasting00.Activity.nEpDExWVANrXkUgp
         changes:
@@ -1930,7 +1930,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmGlabrezu000000.Item.mmSpellcasting00.Activity.7H7mdx9fpf9sLUrX
         changes:
@@ -2144,7 +2144,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmGlabrezu000000.Item.mmSpellcasting00.Activity.Dbj4GfTAMKDQ5t5m
         changes:
@@ -2344,7 +2344,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmGlabrezu000000.Item.mmSpellcasting00.Activity.3fZhewrQQ6C50wvL
         changes:
@@ -2501,7 +2501,7 @@ items:
     img: icons/magic/unholy/strike-body-life-soul-purple.webp
     effects:
       - name: Stunned
-        img: systems/dnd5e/icons/svg/statuses/stunned.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/stunned.svg
         origin: Compendium.dnd5e.spells24.Item.phbsplPowerWordS
         transfer: false
         _id: o7XJceFSBTiIIPFo
@@ -2595,7 +2595,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmGlabrezu000000.Item.mmSpellcasting00.Activity.OpOHkxXeeNLEeEaS
         changes:

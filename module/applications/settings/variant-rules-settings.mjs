@@ -16,13 +16,13 @@ export default class VariantRulesSettingsConfig extends BaseSettingsConfig {
   /** @override */
   static PARTS = {
     general: {
-      template: "systems/dnd5e/templates/settings/base-config.hbs"
+      template: "systems/las-torres-malditas/templates/settings/base-config.hbs"
     },
     encumbrance: {
-      template: "systems/dnd5e/templates/settings/base-config.hbs"
+      template: "systems/las-torres-malditas/templates/settings/base-config.hbs"
     },
     abilities: {
-      template: "systems/dnd5e/templates/settings/base-config.hbs"
+      template: "systems/las-torres-malditas/templates/settings/base-config.hbs"
     },
     footer: {
       template: "templates/generic/form-footer.hbs"

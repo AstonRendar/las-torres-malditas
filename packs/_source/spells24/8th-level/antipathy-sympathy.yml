@@ -298,7 +298,7 @@ effects:
       exportSource: null
     _key: '!items.effects!phbsplAntipathyS.Cz9yMSQmtWRnz81Z'
   - name: Frightened
-    img: systems/dnd5e/icons/svg/statuses/frightened.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/frightened.svg
     origin: Compendium.dnd5e.spells24.Item.phbsplAntipathyS
     transfer: false
     _id: aNztI08V5rN4s5mF
@@ -341,7 +341,7 @@ effects:
       exportSource: null
     _key: '!items.effects!phbsplAntipathyS.aNztI08V5rN4s5mF'
   - name: Charmed
-    img: systems/dnd5e/icons/svg/statuses/charmed.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/charmed.svg
     origin: Compendium.dnd5e.spells24.Item.phbsplAntipathyS
     transfer: false
     type: base

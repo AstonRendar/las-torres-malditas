@@ -107,7 +107,7 @@ system:
         name: ''
         formula: ''
       name: Conjure Feast
-      img: systems/dnd5e/icons/svg/activity/summon.svg
+      img: systems/las-torres-malditas/icons/svg/activity/summon.svg
       appliedEffects: []
     6GsLAWV31TuE6ysp:
       type: heal

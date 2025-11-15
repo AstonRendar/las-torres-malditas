@@ -170,7 +170,7 @@ system:
         name: 'Decrease: STR Score'
         formula: 1d4
       name: STR Score -1d4
-      img: systems/dnd5e/icons/svg/monster.svg
+      img: systems/las-torres-malditas/icons/svg/monster.svg
       appliedEffects:
         - 6AjyMN83LppkkgC3
   uses:

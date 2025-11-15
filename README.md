@@ -28,11 +28,11 @@ The software component of this system is distributed under the MIT license.
 To install and use the Dungeons & Dragons Fifth Edition system for Foundry Virtual Tabletop, simply paste the following
 URL into the **Install System** dialog on the Setup menu of the application.
 
-https://raw.githubusercontent.com/foundryvtt/dnd5e/master/system.json
+https://raw.githubusercontent.com/AstonRendar/las-torres-malditas/master/system.json
 
-If you wish to manually install the system, you must clone or extract it into the `Data/systems/dnd5e` folder. You
+If you wish to manually install the system, you must clone or extract it into the `Data/systems/las-torres-malditas` folder. You
 may do this by cloning the repository or downloading a zip archive from the
-[Releases Page](https://github.com/foundryvtt/dnd5e/releases).
+[Releases Page](https://github.com/AstonRendar/las-torres-malditas/releases).
 
 ## Frequently Asked Questions
 Check the [Wiki](../../wiki) for answers to our most [frequently asked questions](../../wiki/faq)

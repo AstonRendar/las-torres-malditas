@@ -96,7 +96,7 @@ system:
         max: ''
       sort: 0
       name: ''
-      img: systems/dnd5e/icons/svg/damage/force.svg
+      img: systems/las-torres-malditas/icons/svg/damage/force.svg
   enchant: {}
   identifier: divine-intervention
 effects: []

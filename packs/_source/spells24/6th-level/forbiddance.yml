@@ -107,7 +107,7 @@ system:
         name: ''
         formula: ''
       name: Create Ward
-      img: systems/dnd5e/icons/svg/rosa-shield.svg
+      img: systems/las-torres-malditas/icons/svg/rosa-shield.svg
       appliedEffects: []
     9IBiOeIf2PC1wcLp:
       type: damage

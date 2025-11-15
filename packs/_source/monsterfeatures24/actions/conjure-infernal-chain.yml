@@ -106,7 +106,7 @@ folder: 4T18pEvubPMQLzvD
 img: icons/tools/fasteners/chain-brass-yellow.webp
 effects:
   - name: Restrained
-    img: systems/dnd5e/icons/svg/statuses/restrained.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/restrained.svg
     origin: Compendium.dnd5e.monsterfeatures24.Item.mmConjureInferna
     _id: Bt9VAqf3PkeRQt8K
     type: base

@@ -105,7 +105,7 @@ effects:
       startTurn: null
     disabled: false
     flags: {}
-    img: systems/dnd5e/icons/svg/statuses/paralyzed.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/paralyzed.svg
     _id: PklwZi3SKQ3JU2M2
     type: base
     system: {}

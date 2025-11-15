@@ -97,7 +97,7 @@ system:
         name: ''
         formula: ''
       name: Transport
-      img: systems/dnd5e/icons/svg/trait-saves.svg
+      img: systems/las-torres-malditas/icons/svg/trait-saves.svg
       appliedEffects: []
   identifier: plane-shift
 _id: phbsplPlaneShift

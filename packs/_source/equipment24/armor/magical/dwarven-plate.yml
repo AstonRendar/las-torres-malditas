@@ -171,7 +171,7 @@ system:
 effects:
   - type: enchantment
     name: Dwarven Plate
-    img: systems/dnd5e/icons/spell-tiers/spell4.webp
+    img: systems/las-torres-malditas/icons/spell-tiers/spell4.webp
     disabled: true
     _id: 8E4SvTACyo0LzFBk
     system: {}

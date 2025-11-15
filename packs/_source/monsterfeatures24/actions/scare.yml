@@ -95,7 +95,7 @@ system:
     subtype: ''
 effects:
   - name: Frightened
-    img: systems/dnd5e/icons/svg/statuses/frightened.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/frightened.svg
     origin: Item.mmScare000000000
     _id: u8Gu5Oo3a48vKYla
     type: base

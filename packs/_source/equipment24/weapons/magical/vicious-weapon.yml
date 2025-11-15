@@ -127,7 +127,7 @@ system:
 effects:
   - type: enchantment
     name: Vicious Weapon
-    img: systems/dnd5e/icons/spell-tiers/spell3.webp
+    img: systems/las-torres-malditas/icons/spell-tiers/spell3.webp
     disabled: true
     _id: CzJMRNHYWlVNvnJN
     system: {}

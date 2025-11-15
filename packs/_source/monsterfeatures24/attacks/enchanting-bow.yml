@@ -140,7 +140,7 @@ folder: pSCWWdqMX9eUATRJ
 img: icons/weapons/bows/shortbow-recurve-yellow.webp
 effects:
   - name: Charmed
-    img: systems/dnd5e/icons/svg/statuses/charmed.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/charmed.svg
     origin: Compendium.dnd5e.monsterfeatures24.Item.mmEnchantingBow0
     _id: Z32WWCg4waNTB1wp
     type: base

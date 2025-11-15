@@ -157,7 +157,7 @@ img: icons/weapons/swords/greatsword-crossguard-engraved-green.webp
 effects:
   - type: enchantment
     name: Weapon +1
-    img: systems/dnd5e/icons/spell-tiers/spell2.webp
+    img: systems/las-torres-malditas/icons/spell-tiers/spell2.webp
     disabled: true
     _id: 8Fd1n2gyqFB5lLKd
     system: {}
@@ -220,7 +220,7 @@ effects:
     _key: '!items.effects!dmgWeapon12or300.8Fd1n2gyqFB5lLKd'
   - type: enchantment
     name: Weapon +2
-    img: systems/dnd5e/icons/spell-tiers/spell3.webp
+    img: systems/las-torres-malditas/icons/spell-tiers/spell3.webp
     disabled: true
     system: {}
     changes:
@@ -284,7 +284,7 @@ effects:
     _key: '!items.effects!dmgWeapon12or300.mYkdLd1Ym0LZHNtF'
   - type: enchantment
     name: Weapon +3
-    img: systems/dnd5e/icons/spell-tiers/spell4.webp
+    img: systems/las-torres-malditas/icons/spell-tiers/spell4.webp
     disabled: true
     system: {}
     changes:

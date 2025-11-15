@@ -942,7 +942,7 @@ items:
     img: icons/creatures/abilities/fangs-teeth-bite.webp
     effects:
       - name: Prone
-        img: systems/dnd5e/icons/svg/statuses/prone.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/prone.svg
         origin: Compendium.dnd5e.actors24.Actor.mmGibberingMouth.Item.mmBite0000000000
         transfer: false
         _id: curEfZRyYfOUrImr
@@ -1110,7 +1110,7 @@ items:
     img: icons/magic/light/projectile-smoke-yellow.webp
     effects:
       - name: Blinded
-        img: systems/dnd5e/icons/svg/statuses/blinded.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/blinded.svg
         origin: Compendium.dnd-monster-manual.features.Item.mmBlindingSpittl
         transfer: false
         _id: ZsONDi9D0HnUuZKa

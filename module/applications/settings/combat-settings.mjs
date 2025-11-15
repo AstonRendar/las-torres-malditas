@@ -16,13 +16,13 @@ export default class CombatSettingsConfig extends BaseSettingsConfig {
   /** @override */
   static PARTS = {
     initiative: {
-      template: "systems/dnd5e/templates/settings/base-config.hbs"
+      template: "systems/las-torres-malditas/templates/settings/base-config.hbs"
     },
     criticals: {
-      template: "systems/dnd5e/templates/settings/base-config.hbs"
+      template: "systems/las-torres-malditas/templates/settings/base-config.hbs"
     },
     npcs: {
-      template: "systems/dnd5e/templates/settings/base-config.hbs"
+      template: "systems/las-torres-malditas/templates/settings/base-config.hbs"
     },
     footer: {
       template: "templates/generic/form-footer.hbs"

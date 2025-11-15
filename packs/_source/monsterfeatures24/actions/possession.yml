@@ -108,7 +108,7 @@ system:
     subtype: ''
 effects:
   - name: Incapacitated
-    img: systems/dnd5e/icons/svg/statuses/incapacitated.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/incapacitated.svg
     origin: Item.mmPossession0000
     _id: EeZIaR3X4cI5glMX
     type: base

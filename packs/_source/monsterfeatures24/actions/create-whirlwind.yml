@@ -161,7 +161,7 @@ folder: 4T18pEvubPMQLzvD
 img: icons/magic/air/wind-tornado-cyclone-white.webp
 effects:
   - name: Restrained
-    img: systems/dnd5e/icons/svg/statuses/restrained.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/restrained.svg
     origin: Item.mmCreateWhirlwin
     _id: cM3NSnDUlURCQP4q
     type: base

@@ -27,32 +27,32 @@ export default class GroupActorSheet extends MultiActorSheet {
   /** @override */
   static PARTS = {
     header: {
-      template: "systems/dnd5e/templates/actors/group/header.hbs"
+      template: "systems/las-torres-malditas/templates/actors/group/header.hbs"
     },
     members: {
       container: { classes: ["tab-body"], id: "tabs" },
-      template: "systems/dnd5e/templates/actors/group/members.hbs",
-      templates: ["systems/dnd5e/templates/actors/group/member.hbs"],
+      template: "systems/las-torres-malditas/templates/actors/group/members.hbs",
+      templates: ["systems/las-torres-malditas/templates/actors/group/member.hbs"],
       scrollable: [""]
     },
     inventory: {
       container: { classes: ["tab-body"], id: "tabs" },
-      template: "systems/dnd5e/templates/actors/group/inventory.hbs",
+      template: "systems/las-torres-malditas/templates/actors/group/inventory.hbs",
       templates: [
-        "systems/dnd5e/templates/inventory/inventory.hbs", "systems/dnd5e/templates/inventory/activity.hbs",
-        "systems/dnd5e/templates/inventory/containers.hbs", "systems/dnd5e/templates/inventory/encumbrance.hbs"
+        "systems/las-torres-malditas/templates/inventory/inventory.hbs", "systems/las-torres-malditas/templates/inventory/activity.hbs",
+        "systems/las-torres-malditas/templates/inventory/containers.hbs", "systems/las-torres-malditas/templates/inventory/encumbrance.hbs"
       ],
       scrollable: [".sidebar", ".body"]
     },
     biography: {
       container: { classes: ["tab-body"], id: "tabs" },
-      template: "systems/dnd5e/templates/actors/group/biography.hbs",
+      template: "systems/las-torres-malditas/templates/actors/group/biography.hbs",
       scrollable: [""]
     },
     tabs: {
       id: "tabs",
       classes: ["tabs-right"],
-      template: "systems/dnd5e/templates/shared/sidebar-tabs.hbs"
+      template: "systems/las-torres-malditas/templates/shared/sidebar-tabs.hbs"
     }
   };
 
@@ -61,7 +61,7 @@ export default class GroupActorSheet extends MultiActorSheet {
   /** @override */
   static TABS = [
     { tab: "members", label: "DND5E.Group.Member.other", icon: "fa-solid fa-users"},
-    { tab: "inventory", label: "DND5E.Inventory", svg: "systems/dnd5e/icons/svg/backpack.svg" },
+    { tab: "inventory", label: "DND5E.Inventory", svg: "systems/las-torres-malditas/icons/svg/backpack.svg" },
     { tab: "biography", label: "DND5E.Biography", icon: "fa-solid fa-feather" }
   ];
 

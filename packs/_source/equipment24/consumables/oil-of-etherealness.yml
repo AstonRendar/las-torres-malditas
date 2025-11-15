@@ -102,7 +102,7 @@ system:
         name: ''
         formula: ''
       name: Apply Oil
-      img: systems/dnd5e/icons/svg/trait-saves.svg
+      img: systems/las-torres-malditas/icons/svg/trait-saves.svg
       _id: CEUD70b6Aouaqs6Z
       appliedEffects:
         - YIlD33DO4Py9aaRi
@@ -110,7 +110,7 @@ system:
     value: potion
 effects:
   - name: Etherealness
-    img: systems/dnd5e/icons/svg/statuses/ethereal.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/ethereal.svg
     origin: Compendium.dnd5e.equipment24.Item.dmgOilOfEthereal
     transfer: false
     _id: YIlD33DO4Py9aaRi

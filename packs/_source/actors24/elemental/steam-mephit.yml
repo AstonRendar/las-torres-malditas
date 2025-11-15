@@ -1006,7 +1006,7 @@ items:
     img: icons/magic/air/fog-gas-smoke-dense-white.webp
     effects:
       - name: 'Slowed: 10 ft.'
-        img: systems/dnd5e/icons/svg/statuses/heavily-encumbered.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/heavily-encumbered.svg
         origin: Compendium.dnd5e.actors24.Actor.mmSteamMephit000.Item.mmSteamBreath000
         transfer: false
         _id: IRvk3n3tGgtpMU10

@@ -63,7 +63,7 @@ system:
   proficient: null
 effects:
   - name: 'Enhanced Intellect: Intelligence Bonus'
-    img: systems/dnd5e/icons/svg/abilities/intelligence.svg
+    img: systems/las-torres-malditas/icons/svg/abilities/intelligence.svg
     _id: wPZxFH2R0HxRees5
     type: base
     system: {}

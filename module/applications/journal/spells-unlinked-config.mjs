@@ -22,10 +22,10 @@ export default class SpellsUnlinkedConfig extends DocumentSheet5e {
   /** @override */
   static PARTS = {
     spell: {
-      template: "systems/dnd5e/templates/journal/spell/unlinked-spell.hbs"
+      template: "systems/las-torres-malditas/templates/journal/spell/unlinked-spell.hbs"
     },
     source: {
-      template: "systems/dnd5e/templates/journal/spell/unlinked-source.hbs"
+      template: "systems/las-torres-malditas/templates/journal/spell/unlinked-source.hbs"
     }
   };
 

@@ -185,7 +185,7 @@ system:
 effects:
   - type: enchantment
     name: Plate Armor of Etherealness
-    img: systems/dnd5e/icons/spell-tiers/spell5.webp
+    img: systems/las-torres-malditas/icons/spell-tiers/spell5.webp
     disabled: true
     _id: Y44mAwCmfNroVwOJ
     system: {}

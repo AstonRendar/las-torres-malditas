@@ -182,7 +182,7 @@ folder: pSCWWdqMX9eUATRJ
 img: icons/creatures/tentacles/tentacles-suctioncups-pink.webp
 effects:
   - name: Grappled
-    img: systems/dnd5e/icons/svg/statuses/grappled.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/grappled.svg
     origin: Compendium.dnd5e.monsterfeatures24.Item.mmTentacles00000
     _id: GyZrmzBP0NB8oRZI
     type: base

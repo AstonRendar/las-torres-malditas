@@ -735,7 +735,7 @@ items:
     img: icons/commodities/bones/beak-orange-green.webp
     effects:
       - name: Poisoned
-        img: systems/dnd5e/icons/svg/statuses/poisoned.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/poisoned.svg
         origin: Compendium.dnd-monster-manual.features.Item.mmGouge000000000
         _id: Bu9GvjGYEnGjbq3U
         type: base

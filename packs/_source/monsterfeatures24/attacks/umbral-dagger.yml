@@ -148,7 +148,7 @@ folder: pSCWWdqMX9eUATRJ
 img: icons/weapons/daggers/dagger-magical-glowing-blue.webp
 effects:
   - name: Poisoned & Paralyzed
-    img: systems/dnd5e/icons/svg/statuses/poisoned.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/poisoned.svg
     origin: Compendium.dnd5e.monsterfeatures24.Item.mmUmbralDagger00
     _id: dsK5sPtkUMySmyvw
     type: base

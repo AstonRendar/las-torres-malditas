@@ -110,7 +110,7 @@ system:
   identifier: sear-undead
 effects:
   - name: Turn Undead
-    img: systems/dnd5e/icons/svg/items/feature.svg
+    img: systems/las-torres-malditas/icons/svg/items/feature.svg
     origin: Compendium.dnd5e.classes24.Item.phbclcSearUndead
     transfer: false
     _id: OftTd0Eiwnls76cX

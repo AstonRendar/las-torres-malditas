@@ -93,7 +93,7 @@ system:
         name: ''
         formula: ''
       name: Teleport to Sanctuary
-      img: systems/dnd5e/icons/svg/trait-saves.svg
+      img: systems/las-torres-malditas/icons/svg/trait-saves.svg
       appliedEffects: []
     CJ6NOsqtoO3HCGjQ:
       type: utility
@@ -141,7 +141,7 @@ system:
         visible: false
         name: ''
         formula: ''
-      img: systems/dnd5e/icons/svg/items/background.svg
+      img: systems/las-torres-malditas/icons/svg/items/background.svg
       appliedEffects: []
   identifier: word-of-recall
 _id: phbsplWordofReca

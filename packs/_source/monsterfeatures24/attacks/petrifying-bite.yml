@@ -242,7 +242,7 @@ folder: pSCWWdqMX9eUATRJ
 img: icons/magic/defensive/armor-stone-skin.webp
 effects:
   - name: Restrained
-    img: systems/dnd5e/icons/svg/items/weapon.svg
+    img: systems/las-torres-malditas/icons/svg/items/weapon.svg
     origin: Compendium.dnd5e.monsterfeatures24.Item.mmPetrifyingBite
     _id: 9dBgxzdq0cmzyhfR
     type: base
@@ -279,7 +279,7 @@ effects:
       exportSource: null
     _key: '!items.effects!mmPetrifyingBite.9dBgxzdq0cmzyhfR'
   - name: Petrified
-    img: systems/dnd5e/icons/svg/statuses/petrified.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/petrified.svg
     origin: Compendium.dnd5e.monsterfeatures24.Item.mmPetrifyingBite
     _id: ScizgnitVoBvVzPx
     type: base

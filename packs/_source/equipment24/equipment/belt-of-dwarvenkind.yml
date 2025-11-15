@@ -69,7 +69,7 @@ system:
   proficient: null
 effects:
   - name: Dwarvenkind Benefits
-    img: systems/dnd5e/icons/svg/items/race.svg
+    img: systems/las-torres-malditas/icons/svg/items/race.svg
     type: base
     system: {}
     changes:

@@ -964,7 +964,7 @@ items:
     img: icons/magic/acid/dissolve-drip-droplet-smoke.webp
     effects:
       - name: Blinded
-        img: systems/dnd5e/icons/svg/statuses/blinded.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/blinded.svg
         origin: Item.mmPoisonousSpitt
         _id: q1VTMWxbLg5ZnQ9W
         type: base
@@ -1506,7 +1506,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmGuardianNaga00.Item.mmSpellcasting00.Activity.M9EIrjdXmubaCeE4
         changes:
@@ -1700,7 +1700,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmGuardianNaga00.Item.mmSpellcasting00.Activity.wTA8s6qU53snS3Vc
         changes:
@@ -1866,7 +1866,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmGuardianNaga00.Item.mmSpellcasting00.Activity.vjc33jF2khedRZkL
         changes:
@@ -2060,7 +2060,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmGuardianNaga00.Item.mmSpellcasting00.Activity.hdHL9iKsLO6w3PZt
         changes:
@@ -2295,7 +2295,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmGuardianNaga00.Item.mmSpellcasting00.Activity.OY1v1jqQQPzRcY2C
         changes:
@@ -2450,7 +2450,7 @@ items:
             name: ''
             formula: ''
           name: Grant Truesight
-          img: systems/dnd5e/icons/svg/trait-damage-immunities.svg
+          img: systems/las-torres-malditas/icons/svg/trait-damage-immunities.svg
       identifier: true-seeing
     type: spell
     img: icons/magic/perception/eye-slit-orange.webp
@@ -2496,7 +2496,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmGuardianNaga00.Item.mmSpellcasting00.Activity.PyDVxG4ueV6jaRtE
         changes:

@@ -657,7 +657,7 @@ items:
     img: icons/magic/control/fear-fright-mask-yellow.webp
     effects:
       - name: Frightened
-        img: systems/dnd5e/icons/svg/statuses/frightened.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/frightened.svg
         origin: Actor.phbsplConjuredFe.Item.phbaoiAttackAtta
         transfer: false
         _id: sEpCnDgBAYjTuRgI

@@ -841,7 +841,7 @@ items:
     img: icons/creatures/tentacles/tentacles-thing-green.webp
     effects:
       - name: Poisoned & Paralyzed
-        img: systems/dnd5e/icons/svg/statuses/poisoned.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/poisoned.svg
         origin: Item.mmParalyzingTent
         _id: 5ReKSrBu11ume7GP
         type: base
@@ -1091,7 +1091,7 @@ items:
     img: icons/commodities/claws/claw-pincer-grey.webp
     effects:
       - name: Grappled
-        img: systems/dnd5e/icons/svg/statuses/grappled.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/grappled.svg
         origin: Compendium.dnd-monster-manual.features.Item.mmPincer00000000
         _id: GCED8YlF6qXTgEkd
         type: base

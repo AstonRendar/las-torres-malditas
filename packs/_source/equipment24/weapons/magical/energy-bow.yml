@@ -93,7 +93,7 @@ system:
         visible: false
         name: ''
         formula: ''
-      img: systems/dnd5e/icons/svg/trait-damage-immunities.svg
+      img: systems/las-torres-malditas/icons/svg/trait-damage-immunities.svg
       appliedEffects: []
     tb2iE3Kl3QUgMeO4:
       type: utility
@@ -148,7 +148,7 @@ system:
         name: ''
         formula: ''
       name: Energy Ladder
-      img: systems/dnd5e/icons/svg/size.svg
+      img: systems/las-torres-malditas/icons/svg/size.svg
       appliedEffects: []
     chvrwNIzOx8rq5fE:
       type: enchant
@@ -374,7 +374,7 @@ system:
 effects:
   - type: enchantment
     name: Energy Bow
-    img: systems/dnd5e/icons/spell-tiers/spell4.webp
+    img: systems/las-torres-malditas/icons/spell-tiers/spell4.webp
     disabled: true
     _id: jQnQ2ghbt7j3nWke
     system: {}
@@ -459,7 +459,7 @@ effects:
       exportSource: null
     _key: '!items.effects!dmgEnergyBow0000.jQnQ2ghbt7j3nWke'
   - name: Restrained (Arrow of Restraint)
-    img: systems/dnd5e/icons/svg/statuses/restrained.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/restrained.svg
     origin: Compendium.dnd5e.equipment24.Item.dmgEnergyBow0000
     transfer: false
     _id: Yw1oocFffwM4cePn

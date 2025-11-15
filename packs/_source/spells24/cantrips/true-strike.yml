@@ -165,7 +165,7 @@ system:
           bonus: ''
         includeBase: true
         parts: []
-      img: systems/dnd5e/icons/svg/damage/bludgeoning.svg
+      img: systems/las-torres-malditas/icons/svg/damage/bludgeoning.svg
       appliedEffects: []
     cGNXKjpoRima6wjQ:
       type: attack
@@ -220,7 +220,7 @@ system:
         includeBase: true
         parts: []
       _id: cGNXKjpoRima6wjQ
-      img: systems/dnd5e/icons/svg/damage/piercing.svg
+      img: systems/las-torres-malditas/icons/svg/damage/piercing.svg
       appliedEffects: []
   identifier: true-strike
 _id: phbsplTrueStrike

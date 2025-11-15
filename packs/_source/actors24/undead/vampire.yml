@@ -610,7 +610,7 @@ items:
             name: ''
             formula: ''
           name: Expend Use
-          img: systems/dnd5e/icons/svg/monster.svg
+          img: systems/las-torres-malditas/icons/svg/monster.svg
       uses:
         spent: 0
         recovery: []
@@ -715,7 +715,7 @@ items:
             name: ''
             formula: ''
           name: Paralyzed
-          img: systems/dnd5e/icons/svg/statuses/paralyzed.svg
+          img: systems/las-torres-malditas/icons/svg/statuses/paralyzed.svg
       uses:
         spent: 0
         recovery: []
@@ -753,7 +753,7 @@ items:
     img: icons/magic/control/debuff-energy-hold-levitate-blue-yellow.webp
     effects:
       - name: Paralyzed
-        img: systems/dnd5e/icons/svg/statuses/paralyzed.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/paralyzed.svg
         origin: Compendium.dnd-monster-manual.features.Item.mmMistyEscape000
         _id: SGrTBpl938UIe4e3
         type: base
@@ -1148,7 +1148,7 @@ items:
     img: icons/magic/unholy/hand-claw-fire-blue.webp
     effects:
       - name: Grappled
-        img: systems/dnd5e/icons/svg/statuses/grappled.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/grappled.svg
         origin: Compendium.dnd5e.actors24.Actor.mmVampire0000000.Item.mmGraveStrike000
         _id: BCbp3JZoHEGQ3Nzu
         type: base
@@ -1688,7 +1688,7 @@ items:
           startTurn: null
         disabled: false
         flags: {}
-        img: systems/dnd5e/icons/svg/statuses/charmed.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/charmed.svg
         _id: 78JcD7wFiSCOfmns
         type: base
         system: {}
@@ -1718,7 +1718,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmVampire0000000.Item.mmCharm000000000.Activity.fcRXSTOlFJShCl52
         changes:
@@ -2146,7 +2146,7 @@ items:
       - _id: dnd5espellchange
         type: enchantment
         name: Spell Changes
-        img: systems/dnd5e/icons/svg/activity/cast.svg
+        img: systems/las-torres-malditas/icons/svg/activity/cast.svg
         origin: >-
           Compendium.dnd5e.actors24.Actor.mmVampire0000000.Item.mmBeguile0000000.Activity.M0FuOWsRw7TefgiH
         changes:
@@ -2270,7 +2270,7 @@ items:
             name: ''
             formula: ''
           name: Expend Use
-          img: systems/dnd5e/icons/svg/monster.svg
+          img: systems/las-torres-malditas/icons/svg/monster.svg
       uses:
         spent: 0
         recovery: []
@@ -2479,7 +2479,7 @@ items:
             formula: ''
             name: ''
           name: Staked to the Heart
-          img: systems/dnd5e/icons/svg/monster.svg
+          img: systems/las-torres-malditas/icons/svg/monster.svg
           _id: HsKPQH0SsWtL4znC
       uses:
         spent: 0

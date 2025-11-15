@@ -676,7 +676,7 @@ items:
     img: icons/creatures/abilities/fangs-teeth-bite.webp
     effects:
       - name: Poisoned
-        img: systems/dnd5e/icons/svg/statuses/poisoned.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/poisoned.svg
         origin: >-
           Compendium.dnd-monster-manual.actors.Actor.mmGiantCentipede.Item.mmBite0000000000
         _id: PzxN1RHxvVfpYZxa

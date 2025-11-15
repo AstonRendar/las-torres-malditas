@@ -604,7 +604,7 @@ items:
             name: ''
             formula: ''
           name: Use
-          img: systems/dnd5e/icons/svg/activity/utility.svg
+          img: systems/las-torres-malditas/icons/svg/activity/utility.svg
       uses:
         spent: 0
         recovery: []

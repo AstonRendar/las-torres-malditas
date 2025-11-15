@@ -134,7 +134,7 @@ system:
 effects:
   - type: enchantment
     name: Demon Armor
-    img: systems/dnd5e/icons/spell-tiers/spell4.webp
+    img: systems/las-torres-malditas/icons/spell-tiers/spell4.webp
     disabled: true
     _id: rkijTbDVcBViZ8hs
     system: {}

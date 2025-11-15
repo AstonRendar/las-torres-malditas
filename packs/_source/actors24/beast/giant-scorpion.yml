@@ -598,7 +598,7 @@ items:
             visible: false
             name: ''
             formula: ''
-          img: systems/dnd5e/icons/svg/monster.svg
+          img: systems/las-torres-malditas/icons/svg/monster.svg
       uses:
         spent: 0
         recovery: []
@@ -829,7 +829,7 @@ items:
     img: icons/creatures/claws/pincer-crab-brown.webp
     effects:
       - name: Grappled
-        img: systems/dnd5e/icons/svg/statuses/grappled.svg
+        img: systems/las-torres-malditas/icons/svg/statuses/grappled.svg
         origin: Compendium.dnd5e.actors24.Actor.mmGiantScorpion0.Item.mmClaw0000000000
         _id: 4UopxSJg0E7WAHOk
         type: base

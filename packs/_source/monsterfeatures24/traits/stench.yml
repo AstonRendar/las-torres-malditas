@@ -93,7 +93,7 @@ folder: L9Zgr8qAPc3ngKhb
 img: icons/magic/air/fog-gas-smoke-swirling-orange.webp
 effects:
   - name: Poisoned
-    img: systems/dnd5e/icons/svg/statuses/poisoned.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/poisoned.svg
     origin: Compendium.dnd5e.monsterfeatures24.Item.mmStench00000000
     _id: rHL9lpchOon81CN1
     type: base

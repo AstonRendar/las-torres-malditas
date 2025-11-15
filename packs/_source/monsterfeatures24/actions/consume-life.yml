@@ -142,7 +142,7 @@ folder: 4T18pEvubPMQLzvD
 img: icons/magic/life/cross-area-circle-green-white.webp
 effects:
   - name: 'Failure: Dead'
-    img: systems/dnd5e/icons/svg/statuses/dead.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/dead.svg
     origin: Compendium.dnd5e.monsterfeatures24.Item.mmConsumeLife000
     _id: gCuUMpz0XzscFB4K
     type: base

@@ -90,7 +90,7 @@ folder: 4T18pEvubPMQLzvD
 img: icons/commodities/materials/feather-blue-green.webp
 effects:
   - name: Charmed
-    img: systems/dnd5e/icons/svg/statuses/charmed.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/charmed.svg
     origin: Item.mmEnthrallingPan
     _id: sxNoZcfI2KVb3zHr
     type: base

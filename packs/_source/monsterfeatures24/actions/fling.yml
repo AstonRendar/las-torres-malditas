@@ -104,7 +104,7 @@ folder: 4T18pEvubPMQLzvD
 img: icons/magic/movement/trail-streak-pink.webp
 effects:
   - name: Prone
-    img: systems/dnd5e/icons/svg/statuses/prone.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/prone.svg
     origin: Item.mmFling000000000
     _id: UovyViBfR9aAlt0y
     type: base

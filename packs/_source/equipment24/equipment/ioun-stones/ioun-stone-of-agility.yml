@@ -63,7 +63,7 @@ system:
   proficient: null
 effects:
   - name: 'Enhanced Agility: Dexterity Bonus'
-    img: systems/dnd5e/icons/svg/abilities/dexterity.svg
+    img: systems/las-torres-malditas/icons/svg/abilities/dexterity.svg
     _id: 89e4TT2q0PLRozOi
     type: base
     system: {}

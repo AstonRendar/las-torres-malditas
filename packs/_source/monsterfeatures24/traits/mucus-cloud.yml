@@ -155,7 +155,7 @@ folder: L9Zgr8qAPc3ngKhb
 img: icons/magic/acid/dissolve-pool-bubbles.webp
 effects:
   - name: Cursed
-    img: systems/dnd5e/icons/svg/statuses/cursed.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/cursed.svg
     origin: Compendium.dnd5e.monsterfeatures24.Item.mmMucusCloud0000
     _id: VesaHwtQEHKpxdAB
     type: base

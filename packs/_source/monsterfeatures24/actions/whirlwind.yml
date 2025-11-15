@@ -107,7 +107,7 @@ folder: 4T18pEvubPMQLzvD
 img: icons/magic/air/wind-tornado-wall-blue.webp
 effects:
   - name: Prone
-    img: systems/dnd5e/icons/svg/statuses/prone.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/prone.svg
     origin: Item.mmWhirlwind00000
     _id: qihlGD6RZ55pZY9n
     type: base

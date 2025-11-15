@@ -75,7 +75,7 @@ system:
         mode: ''
         identifier: ''
       name: 'Activate Sword: Stength'
-      img: systems/dnd5e/icons/svg/abilities/strength.svg
+      img: systems/las-torres-malditas/icons/svg/abilities/strength.svg
       appliedEffects: []
     HjoCaTF4RcIkhGqc:
       type: enchant
@@ -207,7 +207,7 @@ system:
         identifier: ''
       name: 'Activate Sword: Dexterity'
       _id: qQ7MztRj7Iuv2EyK
-      img: systems/dnd5e/icons/svg/abilities/dexterity.svg
+      img: systems/las-torres-malditas/icons/svg/abilities/dexterity.svg
       appliedEffects: []
   uses:
     spent: 0
@@ -302,7 +302,7 @@ system:
 effects:
   - type: enchantment
     name: Dancing Sword
-    img: systems/dnd5e/icons/spell-tiers/spell4.webp
+    img: systems/las-torres-malditas/icons/spell-tiers/spell4.webp
     disabled: true
     _id: WJSS4dAA3wvYZpRx
     system: {}

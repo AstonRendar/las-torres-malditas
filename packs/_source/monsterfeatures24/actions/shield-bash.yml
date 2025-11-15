@@ -99,7 +99,7 @@ folder: 4T18pEvubPMQLzvD
 img: icons/equipment/shield/buckler-iron-cross-gray.webp
 effects:
   - name: Prone
-    img: systems/dnd5e/icons/svg/statuses/prone.svg
+    img: systems/las-torres-malditas/icons/svg/statuses/prone.svg
     origin: Item.mmShieldBash0000
     _id: tlJPRZtTipMsmBRa
     type: base
