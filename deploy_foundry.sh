@@ -63,7 +63,7 @@ pkill -f "foundryvtt" && sleep 2
 # Clear the Foundry VTT log
 > "$LOG_PATH" 2>&1
 # Start Foundry VTT
-"$FOUNDRY_PATH" > "$LOG_PATH" 2>&1 &
+"$FOUNDRY_PATH" --no-sandbox > "$LOG_PATH" 2>&1 &
 # Check if Foundry VTT started successfully
 if [ $? -eq 0 ]; then
   echo "Foundry VTT started successfully."
